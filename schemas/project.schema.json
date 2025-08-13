@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "object",
   "properties": {
     "meta": {
@@ -10,6 +11,10 @@
         },
         "banner_url": {
           "description": "URL to a banner image. Ideal dimensions: 1180x500.",
+          "type": "string"
+        },
+        "banner_credit": {
+          "description": "Credit for the banner image.",
           "type": "string"
         },
         "code": {
@@ -33,6 +38,7 @@
               "format": "uri"
             },
             {
+              "type": "string",
               "const": ""
             }
           ]
@@ -51,7 +57,14 @@
         },
         "status": {
           "description": "Project status. If not specified, project is assumed to be \"final\".",
-          "enum": ["draft", "alpha", "beta", "complete", "final"]
+          "type": "string",
+          "enum": [
+            "draft",
+            "alpha",
+            "beta",
+            "complete",
+            "final"
+          ]
         },
         "tags": {
           "description": "List of tags for the project. (English)",
@@ -64,6 +77,7 @@
           "description": "List of content types that the project contains.",
           "type": "array",
           "items": {
+            "type": "string",
             "enum": [
               "campaign",
               "investigators",
@@ -79,7 +93,13 @@
           "format": "uri"
         }
       },
-      "required": ["author", "code", "language", "name"]
+      "required": [
+        "author",
+        "code",
+        "language",
+        "name"
+      ],
+      "additionalProperties": false
     },
     "data": {
       "type": "object",
@@ -89,15 +109,14 @@
           "items": {
             "type": "object",
             "properties": {
+              "alternate_of": {
+                "type": "string"
+              },
               "back_flavor": {
                 "type": "string"
               },
               "back_illustrator": {
                 "type": "string"
-              },
-              "back_image_url": {
-                "type": "string",
-                "format": "uri"
               },
               "back_link": {
                 "type": "string"
@@ -108,10 +127,6 @@
               "back_text": {
                 "type": "string"
               },
-              "back_thumbnail_url": {
-                "type": "string",
-                "format": "uri"
-              },
               "back_traits": {
                 "type": "string"
               },
@@ -121,18 +136,11 @@
               "bonded_to": {
                 "type": "string"
               },
-              "clues": {
-                "anyOf": [
-                  {
-                    "type": "number"
-                  },
-                  {
-                    "type": "null"
-                  }
-                ]
-              },
               "clues_fixed": {
                 "type": "boolean"
+              },
+              "clues": {
+                "type": "number"
               },
               "code": {
                 "type": "string"
@@ -147,6 +155,298 @@
                   }
                 ]
               },
+              "customization_change": {
+                "type": "string"
+              },
+              "customization_options": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "card": {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        },
+                        "trait": {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        }
+                      },
+                      "additionalProperties": false
+                    },
+                    "choice": {
+                      "type": "string",
+                      "enum": [
+                        "choose_card",
+                        "choose_trait",
+                        "remove_slot",
+                        "choose_skill"
+                      ]
+                    },
+                    "cost": {
+                      "type": "number"
+                    },
+                    "deck_limit": {
+                      "type": "number"
+                    },
+                    "health": {
+                      "type": "number"
+                    },
+                    "position": {
+                      "type": "number"
+                    },
+                    "quantity": {
+                      "type": "number"
+                    },
+                    "real_slot": {
+                      "type": "string"
+                    },
+                    "real_text": {
+                      "type": "string"
+                    },
+                    "real_traits": {
+                      "type": "string"
+                    },
+                    "sanity": {
+                      "type": "number"
+                    },
+                    "tags": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "text_change": {
+                      "type": "string",
+                      "enum": [
+                        "append",
+                        "insert",
+                        "replace",
+                        "trait"
+                      ]
+                    },
+                    "xp": {
+                      "type": "number"
+                    }
+                  },
+                  "required": [
+                    "text_change",
+                    "xp"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "customization_text": {
+                "type": "string"
+              },
+              "deck_limit": {
+                "type": "number"
+              },
+              "deck_options": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "atleast": {
+                      "type": "object",
+                      "properties": {
+                        "factions": {
+                          "type": "number"
+                        },
+                        "min": {
+                          "type": "number"
+                        },
+                        "types": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "min"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "base_level": {
+                      "type": "object",
+                      "properties": {
+                        "min": {
+                          "type": "number"
+                        },
+                        "max": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "min",
+                        "max"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "deck_size_select": {
+                      "anyOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        }
+                      ]
+                    },
+                    "error": {
+                      "type": "string"
+                    },
+                    "faction_select": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "faction": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "id": {
+                      "type": "string"
+                    },
+                    "level": {
+                      "type": "object",
+                      "properties": {
+                        "min": {
+                          "type": "number"
+                        },
+                        "max": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "min",
+                        "max"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "limit": {
+                      "type": "number"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "not": {
+                      "type": "boolean"
+                    },
+                    "option_select": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": {
+                            "type": "string"
+                          },
+                          "level": {
+                            "type": "object",
+                            "properties": {
+                              "min": {
+                                "type": "number"
+                              },
+                              "max": {
+                                "type": "number"
+                              }
+                            },
+                            "required": [
+                              "min",
+                              "max"
+                            ],
+                            "additionalProperties": false
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "size": {
+                            "type": "number"
+                          },
+                          "trait": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "type": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          }
+                        },
+                        "required": [
+                          "id",
+                          "level",
+                          "name"
+                        ],
+                        "additionalProperties": false
+                      }
+                    },
+                    "permanent": {
+                      "type": "boolean"
+                    },
+                    "slot": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "tag": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "text_exact": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "text": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "trait": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "type": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "uses": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "virtual": {
+                      "type": "boolean"
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
               "deck_requirements": {
                 "anyOf": [
                   {
@@ -156,25 +456,6 @@
                     "type": "null"
                   }
                 ]
-              },
-              "deck_options": {
-                "anyOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "type": "object",
-                      "properties": {},
-                      "required": [],
-                      "additionalProperties": {}
-                    }
-                  },
-                  {
-                    "type": "null"
-                  }
-                ]
-              },
-              "deck_limit": {
-                "type": "number"
               },
               "doom": {
                 "anyOf": [
@@ -188,6 +469,9 @@
               },
               "double_sided": {
                 "type": "boolean"
+              },
+              "duplicate_of": {
+                "type": "string"
               },
               "encounter_code": {
                 "type": "string"
@@ -221,6 +505,9 @@
               "enemy_horror": {
                 "type": "number"
               },
+              "errata_date": {
+                "type": "string"
+              },
               "exceptional": {
                 "type": "boolean"
               },
@@ -228,6 +515,7 @@
                 "type": "boolean"
               },
               "faction_code": {
+                "type": "string",
                 "enum": [
                   "guardian",
                   "seeker",
@@ -239,6 +527,7 @@
                 ]
               },
               "faction2_code": {
+                "type": "string",
                 "enum": [
                   "guardian",
                   "seeker",
@@ -250,6 +539,7 @@
                 ]
               },
               "faction3_code": {
+                "type": "string",
                 "enum": [
                   "guardian",
                   "seeker",
@@ -263,6 +553,9 @@
               "flavor": {
                 "type": "string"
               },
+              "health_per_investigator": {
+                "type": "boolean"
+              },
               "health": {
                 "anyOf": [
                   {
@@ -273,18 +566,11 @@
                   }
                 ]
               },
-              "health_per_investigator": {
-                "type": "boolean"
-              },
               "hidden": {
                 "type": "boolean"
               },
               "illustrator": {
                 "type": "string"
-              },
-              "image_url": {
-                "type": "string",
-                "format": "uri"
               },
               "is_unique": {
                 "type": "boolean"
@@ -323,6 +609,207 @@
                   }
                 ]
               },
+              "side_deck_options": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "atleast": {
+                      "type": "object",
+                      "properties": {
+                        "factions": {
+                          "type": "number"
+                        },
+                        "min": {
+                          "type": "number"
+                        },
+                        "types": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "min"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "base_level": {
+                      "type": "object",
+                      "properties": {
+                        "min": {
+                          "type": "number"
+                        },
+                        "max": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "min",
+                        "max"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "deck_size_select": {
+                      "anyOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        }
+                      ]
+                    },
+                    "error": {
+                      "type": "string"
+                    },
+                    "faction_select": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "faction": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "id": {
+                      "type": "string"
+                    },
+                    "level": {
+                      "type": "object",
+                      "properties": {
+                        "min": {
+                          "type": "number"
+                        },
+                        "max": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "min",
+                        "max"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "limit": {
+                      "type": "number"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "not": {
+                      "type": "boolean"
+                    },
+                    "option_select": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": {
+                            "type": "string"
+                          },
+                          "level": {
+                            "type": "object",
+                            "properties": {
+                              "min": {
+                                "type": "number"
+                              },
+                              "max": {
+                                "type": "number"
+                              }
+                            },
+                            "required": [
+                              "min",
+                              "max"
+                            ],
+                            "additionalProperties": false
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "size": {
+                            "type": "number"
+                          },
+                          "trait": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "type": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          }
+                        },
+                        "required": [
+                          "id",
+                          "level",
+                          "name"
+                        ],
+                        "additionalProperties": false
+                      }
+                    },
+                    "permanent": {
+                      "type": "boolean"
+                    },
+                    "slot": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "tag": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "text_exact": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "text": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "trait": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "type": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "uses": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "virtual": {
+                      "type": "boolean"
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "side_deck_requirements": {
+                "type": "string"
+              },
               "skill_agility": {
                 "type": "number"
               },
@@ -332,10 +819,10 @@
               "skill_intellect": {
                 "type": "number"
               },
-              "skill_willpower": {
+              "skill_wild": {
                 "type": "number"
               },
-              "skill_wild": {
+              "skill_willpower": {
                 "type": "number"
               },
               "slot": {
@@ -348,7 +835,11 @@
                 "type": "string"
               },
               "subtype_code": {
-                "enum": ["basicweakness", "weakness"]
+                "type": "string",
+                "enum": [
+                  "basicweakness",
+                  "weakness"
+                ]
               },
               "tags": {
                 "type": "string"
@@ -356,14 +847,11 @@
               "text": {
                 "type": "string"
               },
-              "thumbnail_url": {
-                "type": "string",
-                "format": "uri"
-              },
               "traits": {
                 "type": "string"
               },
               "type_code": {
+                "type": "string",
                 "enum": [
                   "investigator",
                   "asset",
@@ -388,6 +876,128 @@
               },
               "xp": {
                 "type": "number"
+              },
+              "attachments": {
+                "type": "object",
+                "properties": {
+                  "code": {
+                    "type": "string",
+                    "description": "Code of the card that this attachment is based on. For example '05002' for Joe Diamond."
+                  },
+                  "filters": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "attribute": {
+                          "type": "string"
+                        },
+                        "value": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "number"
+                            },
+                            {
+                              "type": "boolean"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "operator": {
+                          "type": "string",
+                          "enum": [
+                            "=",
+                            "!="
+                          ]
+                        }
+                      },
+                      "required": [
+                        "attribute",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "description": "List of filters that describe which cards can be attached."
+                  },
+                  "name": {
+                    "type": "string",
+                    "description": "Name of this attachment. For example 'Hunch Deck'."
+                  },
+                  "icon": {
+                    "type": "string",
+                    "description": "Icon for this attachment. This can be one of two things: a URL to an image, or the name of an icon from the Lucide icon set. In the latter case, use the format 'lucide://<icon_name>'."
+                  },
+                  "limit": {
+                    "description": "Maximum number of copies of a single card in this attachment.",
+                    "type": "number"
+                  },
+                  "requiredCards": {
+                    "type": "object",
+                    "propertyNames": {
+                      "type": "string"
+                    },
+                    "additionalProperties": {
+                      "type": "number"
+                    },
+                    "description": "Cards that are required to be in the deck for this attachment to be valid."
+                  },
+                  "targetSize": {
+                    "type": "number",
+                    "description": "Number of cards that can be attached to this card."
+                  },
+                  "traits": {
+                    "description": "List of traits that this attachment has.",
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "required": [
+                  "code",
+                  "filters",
+                  "name",
+                  "icon",
+                  "targetSize"
+                ],
+                "additionalProperties": false,
+                "description": "Attachments describe decks of cards that are attached to other cards. Examples: Joe Diamond's Hunch Deck, Bewitching, Stick to the Plan."
+              },
+              "back_image_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "back_thumbnail_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "card_pool_extension": {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "type": "string",
+                    "enum": [
+                      "card"
+                    ]
+                  }
+                },
+                "required": [
+                  "type"
+                ],
+                "additionalProperties": false
+              },
+              "image_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "thumbnail_url": {
+                "type": "string",
+                "format": "uri"
               }
             },
             "required": [
@@ -398,7 +1008,8 @@
               "position",
               "quantity",
               "type_code"
-            ]
+            ],
+            "additionalProperties": false
           }
         },
         "encounter_sets": {
@@ -417,7 +1028,11 @@
                 "format": "uri"
               }
             },
-            "required": ["code", "name"]
+            "required": [
+              "code",
+              "name"
+            ],
+            "additionalProperties": false
           }
         },
         "packs": {
@@ -439,13 +1054,25 @@
                 "type": "number"
               }
             },
-            "required": ["code", "name"]
+            "required": [
+              "code",
+              "name"
+            ],
+            "additionalProperties": false
           }
         }
       },
-      "required": ["cards", "encounter_sets", "packs"]
+      "required": [
+        "cards",
+        "encounter_sets",
+        "packs"
+      ],
+      "additionalProperties": false
     }
   },
-  "required": ["meta", "data"],
-  "$schema": "https://json-schema.org/draft-2020-12/schema"
+  "required": [
+    "meta",
+    "data"
+  ],
+  "additionalProperties": false
 }
