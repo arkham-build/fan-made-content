@@ -58,13 +58,7 @@
         "status": {
           "description": "Project status. If not specified, project is assumed to be \"final\".",
           "type": "string",
-          "enum": [
-            "draft",
-            "alpha",
-            "beta",
-            "complete",
-            "final"
-          ]
+          "enum": ["draft", "alpha", "beta", "complete", "final"]
         },
         "tags": {
           "description": "List of tags for the project. (English)",
@@ -93,12 +87,7 @@
           "format": "uri"
         }
       },
-      "required": [
-        "author",
-        "code",
-        "language",
-        "name"
-      ],
+      "required": ["author", "code", "language", "name"],
       "additionalProperties": false
     },
     "data": {
@@ -225,21 +214,13 @@
                     },
                     "text_change": {
                       "type": "string",
-                      "enum": [
-                        "append",
-                        "insert",
-                        "replace",
-                        "trait"
-                      ]
+                      "enum": ["append", "insert", "replace", "trait"]
                     },
                     "xp": {
                       "type": "number"
                     }
                   },
-                  "required": [
-                    "text_change",
-                    "xp"
-                  ],
+                  "required": ["text_change", "xp"],
                   "additionalProperties": false
                 }
               },
@@ -267,9 +248,7 @@
                           "type": "number"
                         }
                       },
-                      "required": [
-                        "min"
-                      ],
+                      "required": ["min"],
                       "additionalProperties": false
                     },
                     "base_level": {
@@ -282,10 +261,7 @@
                           "type": "number"
                         }
                       },
-                      "required": [
-                        "min",
-                        "max"
-                      ],
+                      "required": ["min", "max"],
                       "additionalProperties": false
                     },
                     "deck_size_select": {
@@ -329,10 +305,7 @@
                           "type": "number"
                         }
                       },
-                      "required": [
-                        "min",
-                        "max"
-                      ],
+                      "required": ["min", "max"],
                       "additionalProperties": false
                     },
                     "limit": {
@@ -362,10 +335,7 @@
                                 "type": "number"
                               }
                             },
-                            "required": [
-                              "min",
-                              "max"
-                            ],
+                            "required": ["min", "max"],
                             "additionalProperties": false
                           },
                           "name": {
@@ -387,11 +357,7 @@
                             }
                           }
                         },
-                        "required": [
-                          "id",
-                          "level",
-                          "name"
-                        ],
+                        "required": ["id", "level", "name"],
                         "additionalProperties": false
                       }
                     },
@@ -627,9 +593,7 @@
                           "type": "number"
                         }
                       },
-                      "required": [
-                        "min"
-                      ],
+                      "required": ["min"],
                       "additionalProperties": false
                     },
                     "base_level": {
@@ -642,10 +606,7 @@
                           "type": "number"
                         }
                       },
-                      "required": [
-                        "min",
-                        "max"
-                      ],
+                      "required": ["min", "max"],
                       "additionalProperties": false
                     },
                     "deck_size_select": {
@@ -689,10 +650,7 @@
                           "type": "number"
                         }
                       },
-                      "required": [
-                        "min",
-                        "max"
-                      ],
+                      "required": ["min", "max"],
                       "additionalProperties": false
                     },
                     "limit": {
@@ -722,10 +680,7 @@
                                 "type": "number"
                               }
                             },
-                            "required": [
-                              "min",
-                              "max"
-                            ],
+                            "required": ["min", "max"],
                             "additionalProperties": false
                           },
                           "name": {
@@ -747,11 +702,7 @@
                             }
                           }
                         },
-                        "required": [
-                          "id",
-                          "level",
-                          "name"
-                        ],
+                        "required": ["id", "level", "name"],
                         "additionalProperties": false
                       }
                     },
@@ -836,10 +787,7 @@
               },
               "subtype_code": {
                 "type": "string",
-                "enum": [
-                  "basicweakness",
-                  "weakness"
-                ]
+                "enum": ["basicweakness", "weakness"]
               },
               "tags": {
                 "type": "string"
@@ -910,16 +858,10 @@
                         },
                         "operator": {
                           "type": "string",
-                          "enum": [
-                            "=",
-                            "!="
-                          ]
+                          "enum": ["=", "!="]
                         }
                       },
-                      "required": [
-                        "attribute",
-                        "value"
-                      ],
+                      "required": ["attribute", "value"],
                       "additionalProperties": false
                     },
                     "description": "List of filters that describe which cards can be attached."
@@ -958,13 +900,7 @@
                     }
                   }
                 },
-                "required": [
-                  "code",
-                  "filters",
-                  "name",
-                  "icon",
-                  "targetSize"
-                ],
+                "required": ["code", "filters", "name", "icon", "targetSize"],
                 "additionalProperties": false,
                 "description": "Attachments describe decks of cards that are attached to other cards. Examples: Joe Diamond's Hunch Deck, Bewitching, Stick to the Plan."
               },
@@ -981,14 +917,10 @@
                 "properties": {
                   "type": {
                     "type": "string",
-                    "enum": [
-                      "card"
-                    ]
+                    "enum": ["card"]
                   }
                 },
-                "required": [
-                  "type"
-                ],
+                "required": ["type"],
                 "additionalProperties": false
               },
               "image_url": {
@@ -1028,10 +960,7 @@
                 "format": "uri"
               }
             },
-            "required": [
-              "code",
-              "name"
-            ],
+            "required": ["code", "name"],
             "additionalProperties": false
           }
         },
@@ -1054,25 +983,15 @@
                 "type": "number"
               }
             },
-            "required": [
-              "code",
-              "name"
-            ],
+            "required": ["code", "name"],
             "additionalProperties": false
           }
         }
       },
-      "required": [
-        "cards",
-        "encounter_sets",
-        "packs"
-      ],
+      "required": ["cards", "encounter_sets", "packs"],
       "additionalProperties": false
     }
   },
-  "required": [
-    "meta",
-    "data"
-  ],
+  "required": ["meta", "data"],
   "additionalProperties": false
 }

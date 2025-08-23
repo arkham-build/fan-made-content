@@ -1,4 +1,4 @@
-import type { Card } from "../lib/post_process_helpers";
+import type { Card, Data } from "../lib/post_process_helpers";
 
 const scanningStoryIds = [
   "7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-back",
@@ -6,18 +6,18 @@ const scanningStoryIds = [
   "d120e254-8da1-446e-971d-adeaa89852e2-back",
 ];
 
-export default function mapper(_cards: Card[]) {
+export default function mapper(data: Data) {
   const cards: Card[] = [];
 
   // 1. Remove card instances for scanning backs and add their images to the front card as back_image.
   // 2. Remove <center>, <right>, and <left> from the card text.
-  for (const [i, card] of _cards.entries()) {
+  for (const [i, card] of data.cards.entries()) {
     const isScanningBack =
       scanningStoryIds.includes(card.code) ||
       (card.hidden && !card.text && !card.traits && !card.flavor);
 
     if (isScanningBack) {
-      const front = _cards[i - 1];
+      const front = data.cards[i - 1];
       front.back_link = undefined;
       front.deck_limit = undefined;
       front.back_image_url = card.image_url;
@@ -40,5 +40,8 @@ export default function mapper(_cards: Card[]) {
     }
   }
 
-  return cards;
+  return {
+    ...data,
+    cards,
+  };
 }

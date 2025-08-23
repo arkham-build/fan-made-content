@@ -2,11 +2,30 @@ import path from "node:path";
 import fs from "node:fs";
 
 export type Card = {
-  // biome-ignore lint/suspicious/noExplicitAny: <explanation>
+  // biome-ignore lint/suspicious/noExplicitAny: script usage
   [key: string]: any;
 };
 
-export type Mapper = (cards: Card[]) => Card[];
+type Pack = {
+  code: string;
+  name: string;
+  date_release: string;
+  icon_url: string;
+};
+
+type EncounterSet = {
+  code: string;
+  name: string;
+  icon_url: string;
+};
+
+export type Data = {
+  cards: Card[];
+  packs: Pack[];
+  encounter_sets: EncounterSet[];
+};
+
+export type Mapper = (data: Data) => Data;
 
 export class Processor {
   constructor(
@@ -24,7 +43,7 @@ export class Processor {
     const fileContent = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
     if (this.mapper) {
-      fileContent.data.cards = this.mapper(fileContent.data.cards);
+      fileContent.data = this.mapper(fileContent.data);
     }
 
     fileContent.data.cards = fileContent.data.cards.map((card: Card) => {
