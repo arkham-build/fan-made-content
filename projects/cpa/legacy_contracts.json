@@ -9,8 +9,8 @@
     "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
     "types": ["player_cards"],
     "status": "complete",
-    "date_updated": "2025-06-09T14:50:55.687",
-    "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
+    "date_updated": "2025-08-23T23:08:58.129",
+    "generator": "Zoop 3.4, AHLCG plugin 9.8, Strange Eons 3.3.4241"
   },
   "data": {
     "cards": [
@@ -27,9 +27,8 @@
         "text": "[reaction] When you complete the Dunwich Legacy CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Dunwich Legacy expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "xp": 0,
-        "image_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-01%20-%20Legacy%20of%20Dunwich-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473455041",
-        "thumbnail_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-thumbnail.png?cachebust=1749473455450"
+        "image_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-01%20-%20Legacy%20of%20Dunwich-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983332797",
+        "thumbnail_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-thumbnail.png?cachebust=1755983333429"
       },
       {
         "code": "0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b",
@@ -44,9 +43,8 @@
         "text": "[reaction] When you complete the Path to Carcosa CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Path to Carcosa expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "xp": 0,
-        "image_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-02%20-%20Memories%20of%20Carcosa-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473454307",
-        "thumbnail_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-thumbnail.png?cachebust=1749473454552"
+        "image_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-02%20-%20Memories%20of%20Carcosa-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983336653",
+        "thumbnail_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-thumbnail.png?cachebust=1755983337382"
       },
       {
         "code": "cefcfe23-7514-42c2-a70e-6e9967796414",
@@ -61,9 +59,8 @@
         "text": "[reaction] When you complete the Feast of Hemlock Vale CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Feast of Hemlock Vale expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "xp": 0,
-        "image_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-03%20-%20The%20Colour%20of%20the%20Vale-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473452857",
-        "thumbnail_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-thumbnail.png?cachebust=1749473453403"
+        "image_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-03%20-%20The%20Colour%20of%20the%20Vale-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983334107",
+        "thumbnail_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-thumbnail.png?cachebust=1755983334947"
       },
       {
         "code": "0cb1d7a3-56e1-44d3-9373-a5acc2045ada",
@@ -78,18 +75,41 @@
         "text": "[reaction] When you complete the Edge of the Earth CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from the Edge of the Earth expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "xp": 0,
-        "image_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-04%20-%20Expedition%20Log-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473453812",
-        "thumbnail_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-thumbnail.png?cachebust=1749473454057"
+        "image_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-04%20-%20Expedition%20Log-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983331158",
+        "thumbnail_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-thumbnail.png?cachebust=1755983331876"
+      },
+      {
+        "code": "90b02ba0-c18c-4d84-9e9a-72e2270697e1",
+        "deck_limit": 1,
+        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "Nine of Cups",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 10,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction]When you complete The Circle Undone CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Circle Undone expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-05%20-%20Nine%20of%20Cups-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983335459",
+        "thumbnail_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-thumbnail.png?cachebust=1755983336073"
       }
     ],
-    "encounter_sets": [],
+    "encounter_sets": [
+      {
+        "code": "6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025",
+        "name": "The Circle Undone CPA 2025",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025-encounter-set-icon.png?cachebust=1755983330280"
+      }
+    ],
     "packs": [
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858",
         "name": "CPA Legacy Contracts",
-        "date_release": "2025-06-09",
-        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1749473455685"
+        "date_release": "2025-08-23",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       }
     ]
   }

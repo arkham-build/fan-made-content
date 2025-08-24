@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+    "name": "The Dream Eaters CPA 2025",
+    "description": "Join the MythosBusters Discord server for the August 2025 Campaign Play-Along of The Dream Eaters!",
+    "author": "CPA Organizers",
+    "language": "en",
+    "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
+    "banner_url": "",
+    "types": ["player_cards"],
+    "status": "final",
+    "date_updated": "2025-08-23T23:29:32.821",
+    "generator": "Zoop 3.4, AHLCG plugin 9.8, Strange Eons 3.3.4241"
+  },
+  "data": {
+    "cards": [
+      {
+        "back_link": "842af37e-2eb0-4c10-8153-2b8535af79fd-back",
+        "code": "842af37e-2eb0-4c10-8153-2b8535af79fd",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Tomasz Jedruszek",
+        "name": "Dreaming of Sleep",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 1,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract when assembling investigator decks, and only if you are playing The Dream-Quest.\nWhen you accept this contract, choose [per_investigator] cards. Those cards are added to the card pool for the duration of this campaign.\n<b>Forced</b> - After choosing investigators, flip this card over.",
+        "traits": "Contract. Ultimatum. Curse. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/842af37e-2eb0-4c10-8153-2b8535af79fd-Front-01%20-%20Dreaming%20of%20Sleep-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755984570644",
+        "thumbnail_url": "https://eons.arkham.build/842af37e-2eb0-4c10-8153-2b8535af79fd-Front-thumbnail.png?cachebust=1755984571362"
+      },
+      {
+        "code": "842af37e-2eb0-4c10-8153-2b8535af79fd-back",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "hidden": true,
+        "name": "Dreaming of Sleep",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 1,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Choose one investigator to become the bearer of the False Awakening weakness <i>(The Dream-Eaters #233)</i>. For the remainder of this campaign, any time the bearer of the False Awakening weakness leaves the campaign for any reason, choose a new investigator to become the bearer of the False Awakening weakness, and add it to that investigator's deck.\n<b>Forced</b> - If an investigator is instructed to add False Awakening to their deck, the bearer takes 1 mental trauma instead.",
+        "traits": "Contract. Ultimatum. Curse. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/842af37e-2eb0-4c10-8153-2b8535af79fd-Front-01%20-%20Dreaming%20of%20Sleep-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1755984572181",
+        "thumbnail_url": "https://eons.arkham.build/842af37e-2eb0-4c10-8153-2b8535af79fd-Front-thumbnail.png?cachebust=1755984571362"
+      },
+      {
+        "code": "e499384b-46a9-4663-9e4e-583ffefd8e08",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 3,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "The Cat's Pajamas",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 3,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Boon. Accept this contract only during deck creation.\nWhen you accept this contract, add Cat Mask and Katarina Sojka to the card pool for the duration of this campaign.\n<b>Forced</b> - When an investigator has <i>\"broken the law of Ulthar\"</i>: Exile all copies of Cat Mask and Katarina Sojka (wherever they are) and remove them from the card pool for the remainder of this campaign.",
+        "traits": "Contract. Boon. The Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/e499384b-46a9-4663-9e4e-583ffefd8e08-Front-03%20-%20The%20Cat's%20Pajamas-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755984566752",
+        "thumbnail_url": "https://eons.arkham.build/e499384b-46a9-4663-9e4e-583ffefd8e08-Front-thumbnail.png?cachebust=1755984567393"
+      },
+      {
+        "code": "3a6c43c8-79c9-43d8-bdc5-22a52d89a2b4",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 4,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "Fear Made Manifest",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "permanent": true,
+        "position": 4,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Limit 1 per campaign. Accept this contract only during deck creation, and only if you are playing The Dream-Quest.\nWhen you accept this contract, choose one card name. That card is added to your card pool for the duration of this campaign.\nThen, add the Your Worst Nightmare weakness to your deck.\nThen, in your Campaign Log, next to \"Evidence of Kadath\", record 1 tally mark.",
+        "traits": "Contract. Curse. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/3a6c43c8-79c9-43d8-bdc5-22a52d89a2b4-Front-04%20-%20Fear%20Made%20Manifest-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755984569257",
+        "thumbnail_url": "https://eons.arkham.build/3a6c43c8-79c9-43d8-bdc5-22a52d89a2b4-Front-thumbnail.png?cachebust=1755984569927"
+      },
+      {
+        "back_link": "726c3e6f-fcbf-4f3e-9b57-c82897a1f27d-back",
+        "code": "726c3e6f-fcbf-4f3e-9b57-c82897a1f27d",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "neutral",
+        "illustrator": "Tomasz Jedruszek",
+        "name": "Sleeping to Dream",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 5,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract when assembling investigator decks, and only if you are playing The Web of Dreams.\nWhen you accept this contract, choose [per_investigator] cards. Those cards are added to the card pool for the duration of this campaign.\n<b>Forced</b> - After choosing investigators, flip this card over.",
+        "traits": "Contract. Ultimatum. Curse. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/726c3e6f-fcbf-4f3e-9b57-c82897a1f27d-Front-02%20-%20Sleeping%20to%20Dream-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755984564451",
+        "thumbnail_url": "https://eons.arkham.build/726c3e6f-fcbf-4f3e-9b57-c82897a1f27d-Front-thumbnail.png?cachebust=1755984565218"
+      },
+      {
+        "code": "726c3e6f-fcbf-4f3e-9b57-c82897a1f27d-back",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "neutral",
+        "hidden": true,
+        "illustrator": "Tomasz Jedruszek",
+        "name": "Sleeping to Dream",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 5,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Choose one investigator to become the bearer of the False Awakening weakness <i>(The Dream-Eaters #275)</i>. For the remainder of this campaign, any time the bearer of the False Awakening weakness leaves the campaign for any reason, choose a new investigator to become the bearer of the False Awakening weakness, and add it to that investigator's deck.\n<b>Forced</b> - If an investigator is instructed to add False Awakening to their deck, the bearer takes 1 physical trauma instead.",
+        "traits": "Contract. Ultimatum. Curse. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/726c3e6f-fcbf-4f3e-9b57-c82897a1f27d-Front-02%20-%20Sleeping%20to%20Dream-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1755984566036",
+        "thumbnail_url": "https://eons.arkham.build/726c3e6f-fcbf-4f3e-9b57-c82897a1f27d-Front-thumbnail.png?cachebust=1755984565218"
+      },
+      {
+        "code": "e122e372-8c4c-4a8d-98df-c710c93b3c36",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 5,
+        "faction_code": "neutral",
+        "illustrator": "Brian Valenzuela",
+        "name": "Sleep Paralysis",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "permanent": true,
+        "position": 5,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Limit 1 per campaign. Accept this contract only during deck creation, and only if you are playing The Web of Dreams.\nWhen you accept this contract, choose one card name. That card is added to your card pool for the duration of this campaign.\nThen, add the Narcolepsy weakness to your deck.\nWhenever you check the number of tally marks recorded next to \"Steps of the Bridge\" in the Campaign Log, you are considered to have 3 fewer tally marks recorded there.",
+        "traits": "Contract. Madness. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/e122e372-8c4c-4a8d-98df-c710c93b3c36-Front-05%20-%20Sleep%20Paralysis-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755984567980",
+        "thumbnail_url": "https://eons.arkham.build/e122e372-8c4c-4a8d-98df-c710c93b3c36-Front-thumbnail.png?cachebust=1755984568663"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-tde_cpa_2025",
+        "name": "TDE CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-tde_cpa_2025-encounter-set-icon.png?cachebust=1755983717663"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "name": "The Dream Eaters CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1755984563784"
+      }
+    ],
+    "packs": [
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "name": "The Dream Eaters CPA 2025",
+        "date_release": "2025-08-23",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1755984572819"
+      }
+    ]
+  }
+}
