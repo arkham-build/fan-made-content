@@ -9,7 +9,7 @@
     "banner_url": "",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-08-23T23:29:32.821",
+    "date_updated": "2025-08-30T11:39:48.822",
     "generator": "Zoop 3.4, AHLCG plugin 9.8, Strange Eons 3.3.4241"
   },
   "data": {
@@ -144,9 +144,50 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/e122e372-8c4c-4a8d-98df-c710c93b3c36-Front-05%20-%20Sleep%20Paralysis-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755984567980",
         "thumbnail_url": "https://eons.arkham.build/e122e372-8c4c-4a8d-98df-c710c93b3c36-Front-thumbnail.png?cachebust=1755984568663"
+      },
+      {
+        "code": "d84e16df-dbbc-4ea8-ac59-1b6c8220209d",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-beyond_the_gates_of_sleep_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Vasily Ermolaev",
+        "name": "Whispering Woods",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 6,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario I-A: Beyond the Gates of Sleep</b>.\n[reaction] When you draw a non-weakness encounter card: Look at cards from the top of the encounter deck until you look at a card with the hidden keyword, add it to your hand, and shuffle the rest into the encounter deck. Then, cancel all effects of the triggering card and discard it. Any investigator may trigger this ability. (Group limit once per game.)\n<b>Forced</b> - After advancing to Act 4a of <b>Scenario I-A: Beyond the Gates of Sleep</b>, search the encounter deck for Ancient Zoog and put it next to the agenda deck. For the remainder of the scenario, its <b>Forced</b> effect is active.",
+        "traits": "Contract. Ultimatum. Zoog. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/d84e16df-dbbc-4ea8-ac59-1b6c8220209d-Front-06%20-%20Whispering%20Woods-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1756546683353",
+        "thumbnail_url": "https://eons.arkham.build/d84e16df-dbbc-4ea8-ac59-1b6c8220209d-Front-thumbnail.png?cachebust=1756546683848"
+      },
+      {
+        "code": "d1123cac-d708-44e3-af55-eeef8610dc1e",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Diana Franco",
+        "name": "Ultimate Infestation",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 7,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario I-B: Waking Nightmare</b>.\n[reaction] When you would place a swarm card: Look at the top card of your deck. You may place that card as normal. Otherwise, you must place the next card of your deck (without looking at it). Any player may activate this ability. Limit once per round.\n<b>Forced</b> - When you are instructed to assemble the infestation bag, replace the tokens listed with: [skull], [skull], [tablet], [tablet], [tablet], [cultist], [cultist].",
+        "traits": "Contract. Ultimatum. Spider. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/d1123cac-d708-44e3-af55-eeef8610dc1e-Front-07%20-%20Ultimate%20Infestation-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1756546684517",
+        "thumbnail_url": "https://eons.arkham.build/d1123cac-d708-44e3-af55-eeef8610dc1e-Front-thumbnail.png?cachebust=1756546684974"
       }
     ],
     "encounter_sets": [
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-beyond_the_gates_of_sleep_cpa_2025",
+        "name": "Beyond the Gates of Sleep CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-beyond_the_gates_of_sleep_cpa_2025-encounter-set-icon.png?cachebust=1756546682623"
+      },
       {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-tde_cpa_2025",
         "name": "TDE CPA 2025",
@@ -156,6 +197,11 @@
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
         "name": "The Dream Eaters CPA 2025",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1755984563784"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025",
+        "name": "Waking Nightmare CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025-encounter-set-icon.png?cachebust=1756546682106"
       }
     ],
     "packs": [

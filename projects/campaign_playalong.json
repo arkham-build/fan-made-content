@@ -10,7 +10,7 @@
     "banner_credit": "Olga Beliaeva",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-08-23T22:43:34.986Z",
+    "date_updated": "2025-08-30T09:39:57.599Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -34,7 +34,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "1acf9fb8-1f6f-45c1-833b-448aa255c5fe",
+        "encounter_code": "465fdda9-2cdc-488f-a07e-b20b2d52c058",
         "encounter_position": 1
       },
       {
@@ -56,7 +56,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "1acf9fb8-1f6f-45c1-833b-448aa255c5fe",
+        "encounter_code": "465fdda9-2cdc-488f-a07e-b20b2d52c058",
         "encounter_position": 2
       },
       {
@@ -78,7 +78,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "1acf9fb8-1f6f-45c1-833b-448aa255c5fe",
+        "encounter_code": "465fdda9-2cdc-488f-a07e-b20b2d52c058",
         "encounter_position": 3
       },
       {
@@ -97,7 +97,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
         "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540",
-        "encounter_code": "1acf9fb8-1f6f-45c1-833b-448aa255c5fe",
+        "encounter_code": "465fdda9-2cdc-488f-a07e-b20b2d52c058",
         "encounter_position": 4
       },
       {
@@ -116,7 +116,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
         "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989",
-        "encounter_code": "1acf9fb8-1f6f-45c1-833b-448aa255c5fe",
+        "encounter_code": "465fdda9-2cdc-488f-a07e-b20b2d52c058",
         "encounter_position": 5
       },
       {
@@ -138,7 +138,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "52be18b7-e679-4c97-a28a-d2c0b532ec99",
+        "encounter_code": "1e7dad9e-d06d-412f-8b34-3772c51d5ff9",
         "encounter_position": 1
       },
       {
@@ -160,7 +160,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "52be18b7-e679-4c97-a28a-d2c0b532ec99",
+        "encounter_code": "1e7dad9e-d06d-412f-8b34-3772c51d5ff9",
         "encounter_position": 2
       },
       {
@@ -182,7 +182,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "52be18b7-e679-4c97-a28a-d2c0b532ec99",
+        "encounter_code": "1e7dad9e-d06d-412f-8b34-3772c51d5ff9",
         "encounter_position": 3
       },
       {
@@ -204,7 +204,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "52be18b7-e679-4c97-a28a-d2c0b532ec99",
+        "encounter_code": "1e7dad9e-d06d-412f-8b34-3772c51d5ff9",
         "encounter_position": 4
       },
       {
@@ -376,6 +376,44 @@
         "card_pool_extension": {
           "type": "card"
         }
+      },
+      {
+        "code": "d84e16df-dbbc-4ea8-ac59-1b6c8220209d",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-beyond_the_gates_of_sleep_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Vasily Ermolaev",
+        "name": "Whispering Woods",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 6,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario I-A: Beyond the Gates of Sleep</b>.\n[reaction] When you draw a non-weakness encounter card: Look at cards from the top of the encounter deck until you look at a card with the hidden keyword, add it to your hand, and shuffle the rest into the encounter deck. Then, cancel all effects of the triggering card and discard it. Any investigator may trigger this ability. (Group limit once per game.)\n<b>Forced</b> - After advancing to Act 4a of <b>Scenario I-A: Beyond the Gates of Sleep</b>, search the encounter deck for Ancient Zoog and put it next to the agenda deck. For the remainder of the scenario, its <b>Forced</b> effect is active.",
+        "traits": "Contract. Ultimatum. Zoog. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/d84e16df-dbbc-4ea8-ac59-1b6c8220209d-Front-06%20-%20Whispering%20Woods-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1756546683353",
+        "thumbnail_url": "https://eons.arkham.build/d84e16df-dbbc-4ea8-ac59-1b6c8220209d-Front-thumbnail.png?cachebust=1756546683848",
+        "permanent": true
+      },
+      {
+        "code": "d1123cac-d708-44e3-af55-eeef8610dc1e",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Diana Franco",
+        "name": "Ultimate Infestation",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 7,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario I-B: Waking Nightmare</b>.\n[reaction] When you would place a swarm card: Look at the top card of your deck. You may place that card as normal. Otherwise, you must place the next card of your deck (without looking at it). Any player may activate this ability. Limit once per round.\n<b>Forced</b> - When you are instructed to assemble the infestation bag, replace the tokens listed with: [skull], [skull], [tablet], [tablet], [tablet], [cultist], [cultist].",
+        "traits": "Contract. Ultimatum. Spider. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/d1123cac-d708-44e3-af55-eeef8610dc1e-Front-07%20-%20Ultimate%20Infestation-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1756546684517",
+        "thumbnail_url": "https://eons.arkham.build/d1123cac-d708-44e3-af55-eeef8610dc1e-Front-thumbnail.png?cachebust=1756546684974",
+        "permanent": true
       }
     ],
     "packs": [
@@ -405,6 +443,11 @@
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025-encounter-set-icon.png?cachebust=1755983330280"
       },
       {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-beyond_the_gates_of_sleep_cpa_2025",
+        "name": "Beyond the Gates of Sleep CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-beyond_the_gates_of_sleep_cpa_2025-encounter-set-icon.png?cachebust=1756546682623"
+      },
+      {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-tde_cpa_2025",
         "name": "TDE CPA 2025",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-tde_cpa_2025-encounter-set-icon.png?cachebust=1755983717663"
@@ -415,12 +458,17 @@
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1755984563784"
       },
       {
-        "code": "1acf9fb8-1f6f-45c1-833b-448aa255c5fe",
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025",
+        "name": "Waking Nightmare CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025-encounter-set-icon.png?cachebust=1756546682106"
+      },
+      {
+        "code": "465fdda9-2cdc-488f-a07e-b20b2d52c058",
         "name": "CPA Basic Contracts",
         "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
       },
       {
-        "code": "52be18b7-e679-4c97-a28a-d2c0b532ec99",
+        "code": "1e7dad9e-d06d-412f-8b34-3772c51d5ff9",
         "name": "CPA Legacy Contracts",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       }
