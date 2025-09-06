@@ -18,6 +18,7 @@ const CARD_POOL_EXTENSIONS = {
   "3a6c43c8-79c9-43d8-bdc5-22a52d89a2b4": "card",
   "e499384b-46a9-4663-9e4e-583ffefd8e08": "card",
   "842af37e-2eb0-4c10-8153-2b8535af79fd": "card",
+  "0d6ba8a8-b12b-4893-b608-9f3a73e758fb": "card",
 };
 
 export default function mapper(data: Data) {
