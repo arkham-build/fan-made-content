@@ -6,11 +6,11 @@
     "author": "CPA Organizers",
     "language": "en",
     "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
-    "banner_url": "https://assets.arkham.build/fan-made/cpa_banner_dream_eaters_2025.jpg",
+    "banner_url": "https://assets.arkham.build/fan_made_content/5b6a1f95-73d1-4059-8af2-b9a645efd625/banner.jpg",
     "banner_credit": "Olga Beliaeva",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-09-06T08:59:22.296Z",
+    "date_updated": "2025-09-13T09:00:49.391Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -34,7 +34,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "8e83bfdd-f323-44f0-aa78-d6359f4e1c86",
+        "encounter_code": "7a3ea822-d23d-4ba5-8df5-edb837297834",
         "encounter_position": 1
       },
       {
@@ -56,7 +56,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "8e83bfdd-f323-44f0-aa78-d6359f4e1c86",
+        "encounter_code": "7a3ea822-d23d-4ba5-8df5-edb837297834",
         "encounter_position": 2
       },
       {
@@ -78,7 +78,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "8e83bfdd-f323-44f0-aa78-d6359f4e1c86",
+        "encounter_code": "7a3ea822-d23d-4ba5-8df5-edb837297834",
         "encounter_position": 3
       },
       {
@@ -97,7 +97,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
         "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540",
-        "encounter_code": "8e83bfdd-f323-44f0-aa78-d6359f4e1c86",
+        "encounter_code": "7a3ea822-d23d-4ba5-8df5-edb837297834",
         "encounter_position": 4
       },
       {
@@ -116,7 +116,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
         "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989",
-        "encounter_code": "8e83bfdd-f323-44f0-aa78-d6359f4e1c86",
+        "encounter_code": "7a3ea822-d23d-4ba5-8df5-edb837297834",
         "encounter_position": 5
       },
       {
@@ -138,7 +138,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "06438633-6d9d-4cab-9417-77f1152ad7e6",
+        "encounter_code": "de234c8f-5338-4d4f-a6b9-b32cb147b072",
         "encounter_position": 1
       },
       {
@@ -160,7 +160,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "06438633-6d9d-4cab-9417-77f1152ad7e6",
+        "encounter_code": "de234c8f-5338-4d4f-a6b9-b32cb147b072",
         "encounter_position": 2
       },
       {
@@ -182,7 +182,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "06438633-6d9d-4cab-9417-77f1152ad7e6",
+        "encounter_code": "de234c8f-5338-4d4f-a6b9-b32cb147b072",
         "encounter_position": 3
       },
       {
@@ -204,7 +204,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "06438633-6d9d-4cab-9417-77f1152ad7e6",
+        "encounter_code": "de234c8f-5338-4d4f-a6b9-b32cb147b072",
         "encounter_position": 4
       },
       {
@@ -228,6 +228,38 @@
           "type": "card"
         },
         "permanent": true
+      },
+      {
+        "back_link": "42a577a9-af94-46a6-9937-bf3679b34bf3-back",
+        "code": "42a577a9-af94-46a6-9937-bf3679b34bf3",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "mythos",
+        "flavor": "You have succeeded in reaching the Dreamlands, but this is not quite what you expected. You are in the Underworld, and it will take some work for you to find your bearings in this sinister place.",
+        "illustrator": "Daria Khlebnikova",
+        "name": "Entering the Underworld (v. III)",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 1,
+        "quantity": 1,
+        "stage": 1,
+        "text": "Plain of the Ghouls cannot be flipped.\n<b>Forced</b> - After an enemy with 1 or more clues on it is defeated: Take control of each of those clues.\nYou cannot advance this act except by the below objective.\n<b>Objective</b> - When the Enchanted Woods <i>(Stone Trapdoor)</i> is put into play: Advance.",
+        "type_code": "act",
+        "image_url": "https://eons.arkham.build/42a577a9-af94-46a6-9937-bf3679b34bf3-Front-III-B%20Act%201a%20-%20Entering%20the%20Underworld%20(v.%20III)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1757754026229",
+        "thumbnail_url": "https://eons.arkham.build/42a577a9-af94-46a6-9937-bf3679b34bf3-Front-thumbnail.png?cachebust=1757754026947"
+      },
+      {
+        "code": "42a577a9-af94-46a6-9937-bf3679b34bf3-back",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "mythos",
+        "hidden": true,
+        "name": "Another Path",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 1,
+        "quantity": 1,
+        "text": "<blockquote><i>Just as you are about to turn away, you catch a glimpse of something strange at the corner of your eye. Investigating further, you can hardly believe what you find: you are certain this is a momento from one of your friends trapped in the dream! \nOn second thought, these woods deserve a more thorough examination. Perhaps you can find evidence of which way your friends went.</i></blockquote>\nAdd 1[per_investigator] clues to the Enchanted Woods.\nShuffle the set-aside <i>Terror of the Vale</i> and <i>Nightgaunts</i> encounter sets into the encounter deck, along with the discard pile.",
+        "type_code": "act",
+        "image_url": "https://eons.arkham.build/42a577a9-af94-46a6-9937-bf3679b34bf3-Front-III-B%20Act%201a%20-%20Entering%20the%20Underworld%20(v.%20III)-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1757754027766"
       },
       {
         "back_link": "842af37e-2eb0-4c10-8153-2b8535af79fd-back",
@@ -269,6 +301,39 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/842af37e-2eb0-4c10-8153-2b8535af79fd-Front-01%20-%20Dreaming%20of%20Sleep-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1755984572181",
         "thumbnail_url": "https://eons.arkham.build/842af37e-2eb0-4c10-8153-2b8535af79fd-Front-thumbnail.png?cachebust=1755984571362"
+      },
+      {
+        "back_link": "67261cc4-732a-480e-b0c9-0af5f3d4cfc2-back",
+        "clues": 4,
+        "code": "67261cc4-732a-480e-b0c9-0af5f3d4cfc2",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "mythos",
+        "flavor": "The more you look, the more evidence you find that you're on the right path.",
+        "illustrator": "Daria Khlebnikova",
+        "name": "The Ascent",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 2,
+        "quantity": 1,
+        "stage": 2,
+        "text": "Plain of the Ghouls cannot be flipped.\n<b>Forced</b> - After an enemy with 1 or more clues on it is defeated: Take control of each of those clues.\n<b>Objective</b> - Only investigators at the Enchanted Woods <i>(Stone Trapdoor)</i> may spend the requisite number of clues, as a group, to advance.\n<i>(Beware - Any investigator who is not at the Enchanted Woods (Stone Trapdoor) will be left behind and will not be able to continue the campaign.)</i>",
+        "type_code": "act",
+        "image_url": "https://eons.arkham.build/67261cc4-732a-480e-b0c9-0af5f3d4cfc2-Front-III-B%20Act%202a%20-%20The%20Ascent-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1757754028662",
+        "thumbnail_url": "https://eons.arkham.build/67261cc4-732a-480e-b0c9-0af5f3d4cfc2-Front-thumbnail.png?cachebust=1757754029371"
+      },
+      {
+        "code": "67261cc4-732a-480e-b0c9-0af5f3d4cfc2-back",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "mythos",
+        "hidden": true,
+        "name": "A Way Out",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 2,
+        "quantity": 1,
+        "text": "- Each investigator who is not at Enchanted Woods <i>(Stone Trapdoor)</i> is left behind and is <b>killed</b>. Each surviving investigator loses each of their clues.\n- Record in your Campaign Log <i>the dreamers strayed from the path.</i>\n- Remove each location other than Enchanted Woods <i>(Stone Trapdoor)</i> from the game (or place it in the victory display if it has <b>Victory X</b> and no clues on it). Discard all non-weakness enemies and treacheries in play, then remove the encounter deck and encounter discard pile from the game.\n- Gather all cards from the following encounter sets: Beyond the Gates of Sleep, Agents of Nyarlathotep, Zoogs, Dreamer's Curse, Dreamlands, and Chilling Cold.\n- Remove the current agenda from the game and replace it with Agenda 1a: \"Journey through the Gates\". Move all doom to the new agenda.\n- Put Act 4a: \"The Path\" into play. Remove each other act from the game.\n- For each damage on the scenario reference card, record 3 tally marks next to \"Steps of the Bridge\" in your Campaign Log. Move all damage on the scenario reference card to the agenda as doom, then replace the scenario reference card with the scenario reference card for Scenario I-A: Beyond the Gates of Sleep.\n- Put The Enchanted Path into play, revealed side face up. Put the 6 remaining Enchanted Woods locations into play unrevealed.\n- Replace each [elder_thing] token in the chaos bag with a [tablet] token.\n- Set the following cards aside, out of play: Randolph Carter <i>(Expert Dreamer)</i>, the Laboring Gug enemy, the two double-sided enemy cards (Nasht and Kaman-Thah), and each of the remaining locations.\n- Shuffle the remaining scenario cards to form the encounter deck.\n- Move each investigator to The Enchanted Path.\n- You are now considered to be playing <b>Scenario I-A: Beyond the Gates of Sleep</b>.",
+        "type_code": "act",
+        "image_url": "https://eons.arkham.build/67261cc4-732a-480e-b0c9-0af5f3d4cfc2-Front-III-B%20Act%202a%20-%20The%20Ascent-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1757754030019"
       },
       {
         "code": "e499384b-46a9-4663-9e4e-583ffefd8e08",
@@ -496,6 +561,58 @@
         "thumbnail_url": "https://eons.arkham.build/b0e98a5b-aa1e-4b22-83e0-0dfe6d3b0a76-Front-thumbnail.png?cachebust=1757149145430"
       },
       {
+        "back_link": "39f1c55c-2f04-4a08-857c-a16338ac4329-back",
+        "code": "39f1c55c-2f04-4a08-857c-a16338ac4329",
+        "doom": 5,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_search_for_kadath_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "mythos",
+        "flavor": "The Corsairs have your trail now, and their pursuit intensifies with each day that passes. Perhaps seeking Kadath is an accursed venture after all. Even so, you feel compelled to continue. What proof could the resting place of the gods hold for you?",
+        "illustrator": "Jessie Calderon",
+        "name": "Sworn Pursuit",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 11,
+        "quantity": 1,
+        "stage": 2,
+        "type_code": "agenda",
+        "image_url": "https://eons.arkham.build/39f1c55c-2f04-4a08-857c-a16338ac4329-Front-II-A%20Agenda%202a%20-%20Sworn%20Pursuit-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1757752741319",
+        "thumbnail_url": "https://eons.arkham.build/39f1c55c-2f04-4a08-857c-a16338ac4329-Front-thumbnail.png?cachebust=1757752741837"
+      },
+      {
+        "code": "39f1c55c-2f04-4a08-857c-a16338ac4329-back",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_search_for_kadath_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "mythos",
+        "hidden": true,
+        "name": "Corsair Ambush!",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 11,
+        "quantity": 1,
+        "text": "<blockquote><i>The Corsairs are hot on your trail. Like pack hunters, they surround you. Fighting desperately, you manage to fend them off, this time. But the noose continues to tighten with each escape and you know you cannot elude such dogged pursuers for much longer.</i></blockquote>\nPlace 1 resource next to the agenda deck. Each investigator takes 1 damage and 1 horror for each resource next to the agenda deck. Flip this agenda back to agenda 2a and continue playing.",
+        "type_code": "agenda",
+        "image_url": "https://eons.arkham.build/39f1c55c-2f04-4a08-857c-a16338ac4329-Front-II-A%20Agenda%202a%20-%20Sworn%20Pursuit-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1757752742415",
+        "thumbnail_url": "https://eons.arkham.build/39f1c55c-2f04-4a08-857c-a16338ac4329-Front-thumbnail.png?cachebust=1757752741837"
+      },
+      {
+        "code": "7eac9704-4485-413a-89a0-a4763e5fcfd3",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_search_for_kadath_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Takeshi Oga",
+        "name": "Resolute Journey",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 11,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario II-A: The Search for Kadath</b>.\nRemove Agenda 2a - \"Agents of the Outer Gods\" from the game and replace it with the new Agenda 2a - \"Sworn Pursuit.\"",
+        "traits": "Contract. Ultimatum. Task. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/7eac9704-4485-413a-89a0-a4763e5fcfd3-Front-11%20-%20Resolute%20Journey-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1757752744303",
+        "thumbnail_url": "https://eons.arkham.build/7eac9704-4485-413a-89a0-a4763e5fcfd3-Front-thumbnail.png?cachebust=1757752744950",
+        "permanent": true
+      },
+      {
         "back_link": "348fd706-eba6-441d-98cd-efbf23952579-back",
         "code": "348fd706-eba6-441d-98cd-efbf23952579",
         "deck_limit": 1,
@@ -534,6 +651,28 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/348fd706-eba6-441d-98cd-efbf23952579-Front-12%20-%20Psychic%20Emanations-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1757149122492",
         "thumbnail_url": "https://eons.arkham.build/348fd706-eba6-441d-98cd-efbf23952579-Front-thumbnail.png?cachebust=1757149121468"
+      },
+      {
+        "code": "ec4e75ed-37de-420e-b379-25b3ef22954e",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "moonxels",
+        "name": "Distorted Dreams",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 16,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept only during setup for <b>Scenario III-B: Point of No Return</b>.\nWhen you accept this contract, each investigator chooses one card name. That card is added to their card pool for the remainder of this campaign.\n<b>Forced</b> - When the game begins, place 1 damage on the scenario reference card.",
+        "traits": "Contract. Ultimatum. Distortion. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/ec4e75ed-37de-420e-b379-25b3ef22954e-Front-16%20-%20Distorted%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1757752743036",
+        "thumbnail_url": "https://eons.arkham.build/ec4e75ed-37de-420e-b379-25b3ef22954e-Front-thumbnail.png?cachebust=1757752743690",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
       }
     ],
     "packs": [
@@ -552,7 +691,7 @@
       {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
         "name": "The Dream Eaters CPA 2025",
-        "date_release": "2025-09-06",
+        "date_release": "2025-09-13",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1757149149609"
       }
     ],
@@ -578,9 +717,19 @@
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cheshire_cat_cpa_2025-encounter-set-icon.png?cachebust=1757149118398"
       },
       {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
+        "name": "Point of No Return CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025-encounter-set-icon.png?cachebust=1757754025259"
+      },
+      {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
         "name": "The Dream Eaters CPA 2025",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1755984563784"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_search_for_kadath_cpa_2025",
+        "name": "The Search For Kadath CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_search_for_kadath_cpa_2025-encounter-set-icon.png?cachebust=1757752738191"
       },
       {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025",
@@ -588,12 +737,12 @@
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025-encounter-set-icon.png?cachebust=1756546682106"
       },
       {
-        "code": "8e83bfdd-f323-44f0-aa78-d6359f4e1c86",
+        "code": "7a3ea822-d23d-4ba5-8df5-edb837297834",
         "name": "CPA Basic Contracts",
         "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
       },
       {
-        "code": "06438633-6d9d-4cab-9417-77f1152ad7e6",
+        "code": "de234c8f-5338-4d4f-a6b9-b32cb147b072",
         "name": "CPA Legacy Contracts",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       }

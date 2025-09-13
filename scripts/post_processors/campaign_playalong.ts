@@ -19,6 +19,7 @@ const CARD_POOL_EXTENSIONS = {
   "e499384b-46a9-4663-9e4e-583ffefd8e08": "card",
   "842af37e-2eb0-4c10-8153-2b8535af79fd": "card",
   "0d6ba8a8-b12b-4893-b608-9f3a73e758fb": "card",
+  "ec4e75ed-37de-420e-b379-25b3ef22954e": "card",
 };
 
 export default function mapper(data: Data) {
@@ -29,7 +30,7 @@ export default function mapper(data: Data) {
     const type = CARD_POOL_EXTENSIONS[card.code];
     if (type) card.card_pool_extension = { type };
 
-    if (card.text.includes("Ultimatum") || card.text.includes("Permanent.")) {
+    if (card.text?.includes("Ultimatum") || card.text?.includes("Permanent.")) {
       card.permanent = true;
     }
 
