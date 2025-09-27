@@ -9,7 +9,7 @@
     "banner_url": "",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-09-13T11:00:30.105",
+    "date_updated": "2025-09-27T21:44:03.197",
     "generator": "Zoop 3.4, AHLCG plugin 9.91, Strange Eons 3.3.4241"
   },
   "data": {
@@ -412,6 +412,64 @@
         "thumbnail_url": "https://eons.arkham.build/348fd706-eba6-441d-98cd-efbf23952579-Front-thumbnail.png?cachebust=1757149121468"
       },
       {
+        "code": "9be15a5f-8b75-48a1-ad99-5614cbf25349",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "flavor": "Beauty, cool aloofness, philosophic repose, self-sufficiency, untamed mastery - where else can we find these things with even half the perfection and completeness that mark their incarnation in the peerless and softly gliding cat? ",
+        "illustrator": "Felicia Cano",
+        "name": "Beloved of Bast",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "permanent": true,
+        "position": 13,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during <b>Interlude II: The Oneironauts</b>, and only if <i>the black cat is at your side.</i>\n[free] Exhaust Beloved of Bast and spend 1 resource: Search your collection for a Stray Cat and add it to your hand.\n<b>Forced</b> - When the game ends, or when a Stray Cat that is not in your deck would be defeated or discarded: return it to your collection.",
+        "traits": "Contract. Boon. Guardian.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/9be15a5f-8b75-48a1-ad99-5614cbf25349-Front-13%20-%20Beloved%20of%20Bast-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1759002241197",
+        "thumbnail_url": "https://eons.arkham.build/9be15a5f-8b75-48a1-ad99-5614cbf25349-Front-thumbnail.png?cachebust=1759002241855"
+      },
+      {
+        "code": "f90f04ef-5700-483a-a173-51f9a2949878",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-the_dream_eaters_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "neutral",
+        "illustrator": "Artist Unknown",
+        "name": "Adversary of Ulthar",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "permanent": true,
+        "position": 14,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during <b>Interlude II: The Oneironauts</b> and only if <i>you asked for it</i>.\n<b>Forced</b> - When the game begins: Shuffle Cats of Ulthar into the encounter deck.\n[free] Search your deck for a basic weakness and remove it from the game. Any investigator who has <i>broken the law of Ulthar</i> may trigger this ability (Limit once per game for each investigator).",
+        "traits": "Contract. Ultimatum. Omen.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/f90f04ef-5700-483a-a173-51f9a2949878-Front-14%20-%20Adversary%20of%20Ulthar-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1759002239770",
+        "thumbnail_url": "https://eons.arkham.build/f90f04ef-5700-483a-a173-51f9a2949878-Front-thumbnail.png?cachebust=1759002240358"
+      },
+      {
+        "code": "f960b2ab-1198-44ef-a30a-f844db24a3fa",
+        "deck_limit": 3,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dark_side_of_the_moon_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Wisnu Tan",
+        "myriad": true,
+        "name": "High Alert",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 15,
+        "quantity": 3,
+        "subname": "Campaign Play-Along",
+        "text": "Myriad. Accept this contract only during setup for <b>Scenario III-A: Dark Side of the Moon</b>.\nWhen you accept this contract, choose one card name. That card is added to your card pool for the duration of this campaign.\n<b>Forced</b> - When the game begins, raise your alarm level by 1.",
+        "traits": "Contract. Scheme. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/f960b2ab-1198-44ef-a30a-f844db24a3fa-Front-15%20-%20High%20Alert-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1759002242469",
+        "thumbnail_url": "https://eons.arkham.build/f960b2ab-1198-44ef-a30a-f844db24a3fa-Front-thumbnail.png?cachebust=1759002243102"
+      },
+      {
         "code": "ec4e75ed-37de-420e-b379-25b3ef22954e",
         "deck_limit": 1,
         "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
@@ -445,6 +503,11 @@
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cheshire_cat_cpa_2025",
         "name": "Cheshire Cat CPA 2025",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cheshire_cat_cpa_2025-encounter-set-icon.png?cachebust=1757149118398"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dark_side_of_the_moon_cpa_2025",
+        "name": "Dark Side Of The Moon CPA 2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dark_side_of_the_moon_cpa_2025-encounter-set-icon.png?cachebust=1759002239120"
       },
       {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
