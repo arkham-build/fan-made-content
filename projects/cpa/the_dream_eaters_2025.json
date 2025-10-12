@@ -9,7 +9,7 @@
     "banner_url": "",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-09-27T21:44:03.197",
+    "date_updated": "2025-10-12T10:59:42.082",
     "generator": "Zoop 3.4, AHLCG plugin 9.91, Strange Eons 3.3.4241"
   },
   "data": {
@@ -486,6 +486,78 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/ec4e75ed-37de-420e-b379-25b3ef22954e-Front-16%20-%20Distorted%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1757752743036",
         "thumbnail_url": "https://eons.arkham.build/ec4e75ed-37de-420e-b379-25b3ef22954e-Front-thumbnail.png?cachebust=1757752743690"
+      },
+      {
+        "code": "a0dbfade-3c2f-41cf-ab1f-b405b8304a09",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dreamlands_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Bram Sels",
+        "name": "Feline Fealty",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 17,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Limit 1 per campaign. Accept this contract only during <b>Interlude III: The Great Ones</b> and only if <i>the black cat is at your side</i> is currently recorded in your Campaign Log and has never previously been crossed off.\nAdd a copy of The Black Cat to your deck.",
+        "traits": "Contract. Boon. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/a0dbfade-3c2f-41cf-ab1f-b405b8304a09-Front-17%20-%20Feline%20Fealty-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1760259578586",
+        "thumbnail_url": "https://eons.arkham.build/a0dbfade-3c2f-41cf-ab1f-b405b8304a09-Front-thumbnail.png?cachebust=1760259579218"
+      },
+      {
+        "code": "642f098d-a9a7-4937-9a91-85bbb1b40143",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dreamlands_cpa_2025",
+        "encounter_position": 2,
+        "faction_code": "neutral",
+        "illustrator": "Xabi Gaztelua",
+        "name": "Black Cat Crossing Your Path",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 18,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Limit 1 per campaign. Accept this contract only during <b>Interlude III: The Great Ones</b> and only if <i>the black cat warned the others</i> is recorded in your Campaign Log and <i>the black cat is at your side</i> has never previously been recorded.\nRemove all [tablet] and [elder_thing] tokens from the chaos bag for the remainder of the campaign.",
+        "traits": "Contract. Boon. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/642f098d-a9a7-4937-9a91-85bbb1b40143-Front-18%20-%20Crossing%20Your%20Path-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1760259579815",
+        "thumbnail_url": "https://eons.arkham.build/642f098d-a9a7-4937-9a91-85bbb1b40143-Front-thumbnail.png?cachebust=1760259580428"
+      },
+      {
+        "code": "0eaf5247-b272-4fc0-9caf-34b928902d30",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-where_the_gods_dwell_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Pete Amachree",
+        "name": "Seek the Gods",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 19,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario IV-A: Where the Gods Dwell</b>.\nWhen you accept this contract, you may erase any number of tally marks next to Evidence of Kadath in your Campaign Log. For each tally mark thusly erased, place 1 resource on this card <i>(from the token pool)</i>, as a portent.\n[action] Spend 1[per_investigator] portents: Search the encounter deck and discard pile for a card with the hidden keyword and add it to your hand. Any investigator at your location may activate this ability.",
+        "traits": "Contract. Ultimatum. Omen. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/0eaf5247-b272-4fc0-9caf-34b928902d30-Front-19%20-%20Seek%20the%20Gods-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1760259581145",
+        "thumbnail_url": "https://eons.arkham.build/0eaf5247-b272-4fc0-9caf-34b928902d30-Front-thumbnail.png?cachebust=1760259581864"
+      },
+      {
+        "code": "531caceb-1241-45a5-bff6-9ae5cc09372a",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-weaver_of_the_cosmos_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Eldritch Horror (Artist Unknown)",
+        "name": "Eight-Legged Nightmare",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 20,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during setup for <b>Scenario IV-B: Weaver of the Cosmos</b>.\nAfter assembling Atlach-Nacha, also arrange 4 cards from the top of the lead investigator's deck <i>(shuffling their discard pile back into their deck if necessary)</i> around Atlach-Nacha, so each touches a different location not yet touched by a copy of Legs of Atlach-Nacha <i>(see suggested play area on Discord)</i>. For all game purposes, these cards are treated as copies of Legs of Atlach-Nacha <i>(they are placed in the victory display once defeated)</i>.",
+        "traits": "Contract. Ultimatum. Spider. Dream-Eaters.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/531caceb-1241-45a5-bff6-9ae5cc09372a-Front-20%20-%20Eight-Legged%20Nightmare-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1760259577152",
+        "thumbnail_url": "https://eons.arkham.build/531caceb-1241-45a5-bff6-9ae5cc09372a-Front-thumbnail.png?cachebust=1760259577869"
       }
     ],
     "encounter_sets": [
@@ -510,6 +582,11 @@
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dark_side_of_the_moon_cpa_2025-encounter-set-icon.png?cachebust=1759002239120"
       },
       {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dreamlands_cpa_2025",
+        "name": "Dreamlands_CPA_2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-dreamlands_cpa_2025-encounter-set-icon.png?cachebust=1760259576026"
+      },
+      {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025",
         "name": "Point of No Return CPA 2025",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-point_of_no_return_cpa_2025-encounter-set-icon.png?cachebust=1757754025259"
@@ -528,6 +605,16 @@
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025",
         "name": "Waking Nightmare CPA 2025",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-waking_nightmare_cpa_2025-encounter-set-icon.png?cachebust=1756546682106"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-weaver_of_the_cosmos_cpa_2025",
+        "name": "Weaver_of_the_Cosmos_CPA_2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-weaver_of_the_cosmos_cpa_2025-encounter-set-icon.png?cachebust=1760259576554"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-where_the_gods_dwell_cpa_2025",
+        "name": "Where_the_Gods_Dwell_CPA_2025",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-where_the_gods_dwell_cpa_2025-encounter-set-icon.png?cachebust=1760259575460"
       }
     ],
     "packs": [
