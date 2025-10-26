@@ -77,5 +77,6 @@ function fixCommonTextIssues(str: string) {
     .replaceAll("<b></b>", "")
     .replaceAll("“", '"')
     .replaceAll("”", '"')
+    .replaceAll("<res>", "→R")
     .replaceAll("</blockquote><hr>", "</blockquote>\n");
 }
