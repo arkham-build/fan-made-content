@@ -7,10 +7,11 @@
     "language": "en",
     "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
     "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
+    "banner_credit": "",
     "types": ["player_cards"],
     "status": "complete",
-    "date_updated": "2025-08-23T23:08:58.129",
-    "generator": "Zoop 3.4, AHLCG plugin 9.8, Strange Eons 3.3.4241"
+    "date_updated": "2025-11-15T09:20:56.102",
+    "generator": "Zoop 3.5, AHLCG plugin 9.91, Strange Eons 3.3.4241"
   },
   "data": {
     "cards": [
@@ -95,6 +96,24 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-05%20-%20Nine%20of%20Cups-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983335459",
         "thumbnail_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-thumbnail.png?cachebust=1755983336073"
+      },
+      {
+        "code": "e4323553-6250-4e6a-848d-47030035ccc3",
+        "deck_limit": 1,
+        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "@CatsCornerGraphics",
+        "name": "Waking Dreams",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 21,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete The Dream-Eaters CPA, announce your completion in the Mythos Busters Discord server: The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Dream-Eaters expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/e4323553-6250-4e6a-848d-47030035ccc3-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194855311",
+        "thumbnail_url": "https://eons.arkham.build/e4323553-6250-4e6a-848d-47030035ccc3-Front-thumbnail.png?cachebust=1763194856027"
       }
     ],
     "encounter_sets": [
@@ -102,13 +121,18 @@
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025",
         "name": "The Circle Undone CPA 2025",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025-encounter-set-icon.png?cachebust=1755983330280"
+      },
+      {
+        "code": "6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025",
+        "name": "Where the Gods Dwell CPA 2025",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025-encounter-set-icon.png?cachebust=1763194844038"
       }
     ],
     "packs": [
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858",
         "name": "CPA Legacy Contracts",
-        "date_release": "2025-08-23",
+        "date_release": "2025-11-15",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       }
     ]

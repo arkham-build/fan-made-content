@@ -114,7 +114,7 @@ async function rehostCardImages(project: Project) {
         const sourceUrl = card[key];
         if (!sourceUrl) return acc;
 
-        const ext = extname(sourceUrl);
+        const ext = extname(sourceUrl) || ".png";
 
         if (!ext) {
           console.warn(`No file extension: ${code} / ${sourceUrl}`);
@@ -133,9 +133,16 @@ async function rehostCardImages(project: Project) {
     );
 
     for (const image of images) {
-      const { s3Path, key } = await rehostFile(image, true);
-      assert(key, `Key is required for ${image.sourceUrl}`);
-      project.data.cards[index][key] = makeCdnUrl(s3Path);
+      try {
+        const { s3Path, key } = await rehostFile(image, true);
+        assert(key, `Key is required for ${image.sourceUrl}`);
+        project.data.cards[index][key] = makeCdnUrl(s3Path);
+      } catch (err) {
+        console.error(
+          `Failed to rehost image for card ${code}: ${image.sourceUrl}`,
+          err,
+        );
+      }
     }
   }
 }

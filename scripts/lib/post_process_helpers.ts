@@ -50,6 +50,8 @@ export class Processor {
       if (card.text) card.text = fixCommonTextIssues(card.text);
       if (card.back_text) card.back_text = fixCommonTextIssues(card.back_text);
       if (card.subname) card.subname = fixCommonTextIssues(card.subname);
+      //if (card.traits) card.traits = fixTraits(card.traits);
+      //if (card.back_traits) card.back_traits = fixTraits(card.back_traits);
       card.name = fixCommonTextIssues(card.name);
       if (card.flavor) card.flavor = fixCommonTextIssues(card.flavor);
       if (card.back_flavor) {
@@ -60,6 +62,20 @@ export class Processor {
 
     fs.writeFileSync(filePath, JSON.stringify(fileContent, null, 2));
   }
+}
+
+function fixTraits(traits: string) {
+  const next = traits
+    .split(".")
+    .map((trait) => trait.trim())
+    .filter((trait) => trait.length > 0)
+    .join(". ");
+
+  if (next.endsWith(".") || next.endsWith("?") || next.endsWith("!")) {
+    return next;
+  }
+
+  return `${next}.`;
 }
 
 function fixCommonTextIssues(str: string) {
