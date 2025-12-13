@@ -17,7 +17,7 @@
     "cards": [
       {
         "back_flavor": "Bark Harrigan is the best of the best. Trained in paw-to-paw combat and barksmanship, he takes pride in being a protector of humanity. A shield against the feline forces that threaten to invade the world. But will his weapons and skills be enough? Or is he all bark and no bite?",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, [[Weapon]] cards level 0\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Catling Gun, More Bark Than Bite, 1 random basic weakness.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, [[Weapon]] cards level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Catling Gun, More Bark Than Bite, 1 random basic weakness.",
         "code": "zbh_00001",
         "deck_limit": 1,
         "deck_options": [
