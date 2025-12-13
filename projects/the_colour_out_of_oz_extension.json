@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "code": "061d3914-5367-44b6-8105-d219d2547c77",
+    "name": "Colour out of Oz Prologue",
+    "description": "Not for upload.",
+    "author": "Dinkleberg",
+    "language": "en",
+    "external_link": "",
+    "banner_url": "",
+    "banner_credit": "",
+    "types": ["player_cards"],
+    "status": "final",
+    "date_updated": "2025-12-13T20:37:43.968",
+    "generator": "Zoop 3.5, AHLCG plugin 9.91, Strange Eons 3.3.4241"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "cad37ab4-55b5-4a3e-8ecf-d22dc3aa94d4",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Insight"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "It was easily traced by the bizarre colour that glowed faintly around it . . .",
+        "illustrator": "Tim Barton",
+        "name": "Alien Display",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 250,
+        "quantity": 2,
+        "subname": "Observed the Meteor's Approach",
+        "text": "Permanent.\nYou know the Colour's full spectroscopic analysis.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Insight</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/cad37ab4-55b5-4a3e-8ecf-d22dc3aa94d4-Front-01%20-%20Alien%20Display-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654654489",
+        "thumbnail_url": "https://eons.arkham.build/cad37ab4-55b5-4a3e-8ecf-d22dc3aa94d4-Front-thumbnail.png?cachebust=1765654654993"
+      },
+      {
+        "code": "5b8945cd-f922-4bf6-9c9b-b166a1d51162",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Augury"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "The animals spoke - or perhaps something within them, rather - in unearthly tones with unrecognizable words, but still clearly speaking to each other . . .",
+        "illustrator": "Teresa Strobi",
+        "name": "Altered Creatures",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 251,
+        "quantity": 2,
+        "subname": "Studied the Affected Wildlife",
+        "text": "Permanent.\nYou know the Colour's mental influence.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Augury</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/5b8945cd-f922-4bf6-9c9b-b166a1d51162-Front-02%20-%20Altered%20Creatures-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654661663",
+        "thumbnail_url": "https://eons.arkham.build/5b8945cd-f922-4bf6-9c9b-b166a1d51162-Front-thumbnail.png?cachebust=1765654662156"
+      },
+      {
+        "code": "ddfcdc2d-75ee-413d-a068-f950761a5612",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Insight"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "He ranted about the remnant of the Colour in the well on blasted heath, and declared that a return of the Colour meant the destruction of all life on Earth . . .",
+        "illustrator": "David Villegas",
+        "name": "Facts of the Case",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 252,
+        "quantity": 2,
+        "subname": "Heard Ammi Pierce's Account",
+        "text": "Permanent.\nYou know the Colour's destructive methods.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Developed</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/ddfcdc2d-75ee-413d-a068-f950761a5612-Front-03%20-%20Facts%20of%20the%20Case-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654655503",
+        "thumbnail_url": "https://eons.arkham.build/ddfcdc2d-75ee-413d-a068-f950761a5612-Front-thumbnail.png?cachebust=1765654656155"
+      },
+      {
+        "code": "b35f5643-3b72-4c6b-b634-0eb198962edb",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Ally"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "While embellished, the old farmer told of watching the tests of the first globule they found, and how the Colour was fragile in its early stages . . .",
+        "illustrator": "Ahmed Albastaki",
+        "name": "First Person Source",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 253,
+        "quantity": 2,
+        "subname": "Questioned Former Residents",
+        "text": "Permanent.\nYou know the Colour's physical limitations.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Ally</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/b35f5643-3b72-4c6b-b634-0eb198962edb-Front-04%20-%20First%20Person%20Source-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654652456",
+        "thumbnail_url": "https://eons.arkham.build/b35f5643-3b72-4c6b-b634-0eb198962edb-Front-thumbnail.png?cachebust=1765654652982"
+      },
+      {
+        "code": "9d44d2f4-144a-4281-bd8a-142278196ea3",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Spirit"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "He was utterly drained of life, gray and brittle as plaster, and his body had completely collapsed in on itself . . .",
+        "illustrator": "Lucas Annunziata",
+        "name": "Grotesque Transformations",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 254,
+        "quantity": 2,
+        "subname": "Studied the Gardner Autopsies",
+        "text": "Permanent.\nYou know the Colour's full effects on the body.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Spirit</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/9d44d2f4-144a-4281-bd8a-142278196ea3-Front-05%20-%20Grotesque%20Transformations-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654662948",
+        "thumbnail_url": "https://eons.arkham.build/9d44d2f4-144a-4281-bd8a-142278196ea3-Front-thumbnail.png?cachebust=1765654663469"
+      },
+      {
+        "code": "1b5b438d-598a-4b73-949a-c8470b19bbee",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Fortune"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "Only once you had run clear of the blighted land did the light die down and recede into the gray soil . . .",
+        "illustrator": "Jonas De Rio",
+        "name": "Lingering Corruption",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "position": 255,
+        "quantity": 2,
+        "subname": "Visited the Blasted Heath",
+        "text": "You know the Colour's full effects on the land.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Fortune</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/1b5b438d-598a-4b73-949a-c8470b19bbee-Front-06%20-%20Lingering%20Corruption-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654653495",
+        "thumbnail_url": "https://eons.arkham.build/1b5b438d-598a-4b73-949a-c8470b19bbee-Front-thumbnail.png?cachebust=1765654653979"
+      },
+      {
+        "code": "23f1ac86-c880-4c62-939e-dd3baa0be1f0",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Practiced"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "You quickly discovered that due to the sudden disappearance of their first sample and failure to secure more, research was abandoned . . .",
+        "illustrator": "Alexandr Elichev",
+        "name": "Scientific Curiosity",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 256,
+        "quantity": 2,
+        "subname": "Read the Archived Lab Report",
+        "text": "Permanent.\nYou know the Colour's scientific composition.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Practiced</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/23f1ac86-c880-4c62-939e-dd3baa0be1f0-Front-07%20-%20Scientific%20Curiosity-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654658756",
+        "thumbnail_url": "https://eons.arkham.build/23f1ac86-c880-4c62-939e-dd3baa0be1f0-Front-thumbnail.png?cachebust=1765654659225"
+      },
+      {
+        "code": "113b687d-3361-48c0-be2a-ab3cc0a9c50a",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "By the time you finished, it had eaten up considerable time, effort, and mental space that could have been spent on other preparations . . .",
+        "illustrator": "Richard Jossy",
+        "name": "Scientific Curiosity",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 257,
+        "quantity": 2,
+        "subname": "It Took You Days to Organize",
+        "text": "Permanent.\nYou know the Colour's scientific composition.\nYou get +2 Deck Size.",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/113b687d-3361-48c0-be2a-ab3cc0a9c50a-Front-08%20-%20Scientific%20Curiosity2-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654660713",
+        "thumbnail_url": "https://eons.arkham.build/113b687d-3361-48c0-be2a-ab3cc0a9c50a-Front-thumbnail.png?cachebust=1765654661170"
+      },
+      {
+        "code": "22c15bb7-0556-4cb6-b102-6ffb3a4092c6",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "For the first time, you're able to have a real conversation with your faithful companion. The very idea is already giving you confidence that you didn't know you had.",
+        "illustrator": "Jake Murray",
+        "name": "Speaking Up",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 258,
+        "quantity": 2,
+        "text": "Permanent.\n\"Ashcan\" Pete gets +1 sanity.",
+        "traits": "Clairvoyant.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/22c15bb7-0556-4cb6-b102-6ffb3a4092c6-Front-09%20-%20Speaking%20Up-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654659719",
+        "thumbnail_url": "https://eons.arkham.build/22c15bb7-0556-4cb6-b102-6ffb3a4092c6-Front-thumbnail.png?cachebust=1765654660229"
+      },
+      {
+        "code": "926d9d77-5bdd-4f26-8b72-b9a55a452335",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 2,
+            "trait": ["Ritual"]
+          }
+        ],
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "Swirling vistas appeared before you of a world a thousand lifetimes away . . .",
+        "illustrator": "Alex Rommel",
+        "name": "Visions of Space",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "position": 259,
+        "quantity": 2,
+        "subname": "Used Occult Methods",
+        "text": "Permanent.\nYou know the Colour's true origin.\nYour investigator's Deckbuilding Options gain: \"up to 2 other <b><i>Ritual</i></b> cards level 0-2.\"",
+        "traits": "Preparation.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/926d9d77-5bdd-4f26-8b72-b9a55a452335-Front-10%20-%20Visions%20of%20Space-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654657698",
+        "thumbnail_url": "https://eons.arkham.build/926d9d77-5bdd-4f26-8b72-b9a55a452335-Front-thumbnail.png?cachebust=1765654658212"
+      },
+      {
+        "code": "5ba4208f-a4f8-47b1-b353-16773c270dbc",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "flavor": "\"You know, the Good Witch of the North looks out over girls like us. Keeps us safe from harm.\"",
+        "illustrator": "Aleksander Karcz",
+        "name": "Witch's Blessing",
+        "pack_code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "permanent": true,
+        "quantity": 2,
+        "text": "Permanent.\nWendy Adams gets +1 health.",
+        "traits": "Blessed.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/5ba4208f-a4f8-47b1-b353-16773c270dbc-Front-11%20-%20Witch's%20Blessing-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765654656677",
+        "thumbnail_url": "https://eons.arkham.build/5ba4208f-a4f8-47b1-b353-16773c270dbc-Front-thumbnail.png?cachebust=1765654657195"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "061d3914-5367-44b6-8105-d219d2547c77",
+        "name": "Colour out of Oz Prologue",
+        "date_release": "2025-12-13",
+        "icon_url": "https://eons.arkham.build/061d3914-5367-44b6-8105-d219d2547c77-collection-icon.png?cachebust=1765654663960"
+      }
+    ]
+  }
+}
