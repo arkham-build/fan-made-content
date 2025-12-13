@@ -10,7 +10,7 @@
     "banner_credit": "",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-11-15T09:30:55.508",
+    "date_updated": "2025-12-13T10:24:06.726",
     "generator": "Zoop 3.5, AHLCG plugin 9.91, Strange Eons 3.3.4241"
   },
   "data": {
@@ -171,6 +171,77 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/1177669d-2361-42b2-90c3-32197e4d8f4c-Front-3.%20Religious%20Pamphlet-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194956454",
         "thumbnail_url": "https://eons.arkham.build/1177669d-2361-42b2-90c3-32197e4d8f4c-Front-thumbnail.png?cachebust=1763194957081"
+      },
+      {
+        "code": "06beb6d4-2067-4cf5-be7b-d2500e260aea",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_vanishing_of_elina_harper",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Jake Murray",
+        "name": "<i>\"J'Accuse...!\"</i>",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 4,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Boon. Accept this contract during Scenario II Interlude: The Accusation.\n[reaction] After determining the results of your accusation: Cancel your accusation and choose again. Then, choose an investigator to add a copy of the Paranoia weakness to their deck. If you cannot, each investigator searches their deck and discard pile for a copy of Paranoia and draws it, then shuffles their deck afterwards.",
+        "traits": "Contract. Boon. Innsmouth.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/06beb6d4-2067-4cf5-be7b-d2500e260aea-Front-4.%20J'Accuse...!-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765617768486",
+        "thumbnail_url": "https://eons.arkham.build/06beb6d4-2067-4cf5-be7b-d2500e260aea-Front-thumbnail.png?cachebust=1765617769015"
+      },
+      {
+        "back_link": "eda82d9f-d80d-42b7-9767-99d7a160c9e1-back",
+        "code": "eda82d9f-d80d-42b7-9767-99d7a160c9e1",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Pete Von Sholly",
+        "name": "Mob Mentality",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 5,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract before <b>Scenario III: In Too Deep.</b>\n<b>Forced</b> - When the game ends, if Angry Mob is not in the victory display, record in your Campaign Log that <i>the Angry Mob is out for blood</i>. Next to this, in parentheses, record how much damage is on Angry Mob. Then, flip this card over.",
+        "traits": "Contract. Ultimatum. Innsmouth",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-5%20-%20Mob%20Mentality-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1765617769833",
+        "thumbnail_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-thumbnail.png?cachebust=1765617770345"
+      },
+      {
+        "code": "eda82d9f-d80d-42b7-9767-99d7a160c9e1-back",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep",
+        "encounter_position": 1,
+        "faction_code": "mythos",
+        "hidden": true,
+        "name": "Mob Justice",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 5,
+        "quantity": 1,
+        "text": "<blockquote><i>The Innsmouth townsfolk's fury cannot be quelled. They are determined to follow you throughout your investigations!</i></blockquote>\n<b>Forced</b> - At the start of the game during Scenario V, Scenario VI, and Scenario VIII, if <i>the Angry Mob is out for blood</i> is recorded in your Campaign Log: Shuffle the Angry Mob into the encounter deck.\n- If the current scenario is Scenario V: Horror in High Gear, the Angry Mob gains the [[Vehicle]] trait.\n- If the current scenario is Scenario VI: A Light in the Fog or Scenario VIII: Into the Maelstrom, the Angry Mob gains the [[Deep One]] trait.\n<b>Forced</b> - After Angry Mob enters play: Place damage on it equal to the amount of damage recorded in parentheses in your Campaign Log, then cross out that damage.\n<b>Forced</b> - When the game ends, if Angry Mob is not in the victory display: Next to <i>the Angry Mob is out for blood</i>, record how much damage is on Angry Mob.\n<b>Forced</b> - After Angry Mob is defeated: Read <b>Flashback VII</b> in the Campaign Guide. Then, cross off <i>the Angry Mob is out for blood</i> in your Campaign Log.",
+        "type_code": "story",
+        "image_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-5%20-%20Mob%20Mentality-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765617771062",
+        "thumbnail_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-thumbnail.png?cachebust=1765617770345"
+      },
+      {
+        "code": "4b179aea-3a30-4ab5-8e66-52c53b225c50",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_devil_reef",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Artist Unknown",
+        "name": "Blast Fishing",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "permanent": true,
+        "position": 6,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during setup for <b>Scenario IV: Devil Reef</b>. The lead investigator gains control of Blast Fishing for this scenario.\nUses (2 supplies).\n[action] Spend 1 supply and exhaust Blast Fishing: Choose either your location or a connecting location. Deal 3 damage to each enemy and investigator at the chosen location.\n<b>Forced</b> - When Blast Fishing leaves play (because the scenario ended or the controlling investigator left play), record <i>the investigators set off charges at Devil Reef</i> in the Campaign Log. Next to this, in parentheses, record how many supplies were used. Then, exile Blast Fishing.",
+        "traits": "Contract. Boon? Item. Innsmouth.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/4b179aea-3a30-4ab5-8e66-52c53b225c50-Front-6%20-%20Blast%20Fishing-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765617846019",
+        "thumbnail_url": "https://eons.arkham.build/4b179aea-3a30-4ab5-8e66-52c53b225c50-Front-thumbnail.png?cachebust=1765617846616"
       }
     ],
     "encounter_sets": [
@@ -180,9 +251,24 @@
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_2026_core-encounter-set-icon.png?cachebust=1763194949828"
       },
       {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_devil_reef",
+        "name": "CPA - Devil Reef",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_devil_reef-encounter-set-icon.png?cachebust=1765617845304"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep",
+        "name": "CPA - In Too Deep",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep-encounter-set-icon.png?cachebust=1765617767479"
+      },
+      {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy",
         "name": "CPA - The Innsmouth Conspiracy",
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy-encounter-set-icon.png?cachebust=1763194951139"
+      },
+      {
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_vanishing_of_elina_harper",
+        "name": "CPA - The Vanishing of Elina Harper",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_vanishing_of_elina_harper-encounter-set-icon.png?cachebust=1765617767990"
       },
       {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_tic_fhv",
@@ -195,7 +281,7 @@
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
         "name": "The Innsmouth Conspiracy CPA 2025",
         "date_release": "2025-11-15",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1763194962115"
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1765617772802"
       }
     ]
   }
