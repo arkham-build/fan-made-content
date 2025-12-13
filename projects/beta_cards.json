@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "code": "13419d62-e94c-4fd5-87b5-715bbcec1738",
+    "name": "Council Cards",
+    "description": "Play with beta copies of the cards created on FFG’s Create-a-Card livestreams before their final versions see official release.",
+    "author": "Fantasy Flight Games",
+    "language": "en",
+    "external_link": "https://www.youtube.com/watch?v=e0I3kYeWMcs",
+    "banner_url": "https://inexorablefate.com/projects/Council%20Cards.png",
+    "banner_credit": "Ethan Patrick Harris",
+    "types": ["player_cards"],
+    "status": "final",
+    "date_updated": "2025-12-13T19:17:50.533",
+    "generator": "Zoop 3.5, AHLCG plugin 9.91, Strange Eons 3.3.4241"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "zbt_00004",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "guardian",
+        "faction2_code": "mystic",
+        "illustrator": "Dual Brush Studios",
+        "name": "Dragon Pole",
+        "pack_code": "13419d62-e94c-4fd5-87b5-715bbcec1738",
+        "position": 2022,
+        "quantity": 2,
+        "skill_combat": 1,
+        "skill_willpower": 1,
+        "slot": "Hand x2",
+        "text": "You have 2 additional arcane slots.\n[action]: Fight. You get +1 [combat] for this attack for each of your arcane slots that is filled. If at least 2 are filled, this attack deals +1 damage. If you succeed, you may place the top card of your deck facedown in your play area, as an Aura. (It takes up an arcane slot. If it leaves play, add it to your hand.)\n<center><b>Card design by the Pride of Arkham.</b>",
+        "traits": "Item. Weapon. Melee.",
+        "type_code": "asset",
+        "xp": 3,
+        "image_url": "https://eons.arkham.build/45b31e5b-f01f-4daa-bc43-af3d037aa473-Front-Dragon%20Pole%20(3)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765649549649",
+        "thumbnail_url": "https://eons.arkham.build/45b31e5b-f01f-4daa-bc43-af3d037aa473-Front-thumbnail.png?cachebust=1765649550309"
+      },
+      {
+        "code": "zbt_00007",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Jeff Lee Johnson",
+        "name": "Fine Clothes",
+        "pack_code": "13419d62-e94c-4fd5-87b5-715bbcec1738",
+        "position": 2023,
+        "quantity": 2,
+        "skill_agility": 1,
+        "slot": "Body",
+        "subname": "Designed by Fine Crows",
+        "text": "Reduce the difficulty of skill tests you perform during ‘parley’ actions by 2.\n[action] Exhaust Fine Clothes: <b>Parley.</b> Choose an enemy at your location and test your lowest skill (X), where X is that enemy’s printed health. If you succeed, choose an [[Ally]] in your hand with cost X or less and play it, ignoring its cost.",
+        "traits": "Item. Clothing.",
+        "type_code": "asset",
+        "xp": 3,
+        "image_url": "https://eons.arkham.build/b84ad3cc-ee34-437e-b914-ea869cb8802b-Front-Fine%20Clothes%20(3)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765649869851",
+        "thumbnail_url": "https://eons.arkham.build/b84ad3cc-ee34-437e-b914-ea869cb8802b-Front-thumbnail.png?cachebust=1765649870526"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "13419d62-e94c-4fd5-87b5-715bbcec1738",
+        "name": "Council Cards",
+        "date_release": "2025-12-13",
+        "icon_url": "https://eons.arkham.build/13419d62-e94c-4fd5-87b5-715bbcec1738-collection-icon.png?cachebust=1765649552788"
+      }
+    ]
+  }
+}
