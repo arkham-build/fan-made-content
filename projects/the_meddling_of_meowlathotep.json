@@ -10,14 +10,14 @@
     "banner_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/banner.png",
     "types": ["investigators", "player_cards", "scenario"],
     "status": "final",
-    "date_updated": "2025-12-13T04:25:00.000Z",
+    "date_updated": "2025-12-13T18:30:00.000Z",
     "generator": "dlloyd"
   },
   "data": {
     "cards": [
       {
         "back_flavor": "Bark Harrigan is the best of the best. Trained in paw-to-paw combat and barksmanship, he takes pride in being a protector of humanity. A shield against the feline forces that threaten to invade the world. But will his weapons and skills be enough? Or is he all bark and no bite?",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, [[Weapon]] cards level 0\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Catling Gun, More Bark Than Bite, 1 random basic weakness.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, [[Weapon]] cards level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Catling Gun, More Bark Than Bite, 1 random basic weakness.",
         "code": "zbh_00001",
         "deck_limit": 1,
         "deck_options": [
@@ -53,7 +53,7 @@
         "skill_willpower": 3,
         "subname": "The Dog of War",
         "text": "You have 2 additional paw slots which can only be used to hold [[Weapon]] assets. Yes, that's right. You heard me. Don't ask how.\n[elder_sign] effect: +2. Reduce the cost of the next [[Weapon]] asset you play this round by 2.",
-        "traits": "Drifter. Entrepreneur.",
+        "traits": "Veteran.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001.jpg",
         "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001b.jpg"
@@ -213,7 +213,7 @@
         "skill_intellect": 3,
         "skill_willpower": 2,
         "subname": "The Pound Escapee",
-        "text": "[action]: Spend 1 resource: <b>Move.</b> You give a human puppy dog eyes until they give you a car ride. Move up to 3 times, ignoring enemy engagement. (Limit once per round.)\n[elder_sign] effect: +2. Deal 1 damage to the next enemy whose location you enter this round.",
+        "text": "[action] Spend 1 resource: <b>Move.</b> You give a human puppy dog eyes until they give you a car ride. Move up to 3 times, ignoring enemy engagement. (Limit once per round.)\n[elder_sign] effect: +2. Deal 1 damage to the next enemy whose location you enter this round.",
         "traits": "Criminal.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007.jpg",
@@ -335,7 +335,7 @@
       },
       {
         "back_flavor": "Arf. Arf arf arf. BARK! Grrrrrrrr. Woof. Arf arf arf arf arf arf arf. Bark bark. Mrr?... Bark. Bark bark. Arf arf arf arf arf. Borf borf. Woof woof woof! AROOOOOOO-",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to five other level 0 [[Ally]] cards who are either other dogs or humans who want to put you.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Friendly Human, Out of Doggie Treats, 1 random basic weakness.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to five other level 0 [[Ally]] cards who are either other dogs or humans who want to pet you.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Friendly Human, Out of Doggie Treats, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: ABSOLUTELY NO CATS UNDER ANY CIRCUMSTANCES!",
         "code": "zbh_00013",
         "deck_limit": 1,
         "deck_options": [
@@ -390,7 +390,7 @@
         "quantity": 1,
         "restrictions": "investigator:zbh_00013",
         "subname": "I Guess His Name is \"Pete?\"",
-        "text": "Duke deck only. Uses (5 treats).\n[reaction] After you succeed at a skill test, spend 1 treat: Good boy! Either (choose one) -\n- Heal 1 damage or 1 horror.\n- Draw 1 card\n- Gain 1 resource.",
+        "text": "Duke deck only. Uses (5 treats).\n[reaction] After you succeed at a skill test, spend 1 treat: Good boy! Either (choose one) -\n- Heal 1 damage or 1 horror.\n- Draw 1 card.\n- Gain 1 resource.",
         "traits": "Ally.",
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00014.jpg"
@@ -467,8 +467,8 @@
         "skill_combat": 1,
         "skill_intellect": 1,
         "slot": "Ally",
-        "text": "Barkham deck only.\n[fast] During your turn, exhaust Hired Dogs: <b>Fight/Investigate.</b> Either attack with a base [combat] skill of 4, or investigate with a base [intellect] skill of 4. After this test ends, either pay 1 resource in dog food or discard hired dogs.",
-        "traits": "Item. Armor.",
+        "text": "Barkham deck only.\n[fast] During your turn, exhaust Hired Dogs: <b>Fight/Investigate.</b> Either attack with a base [combat] skill of 4, or investigate with a base [intellect] skill of 4. After this test ends, either pay 1 resource in dog food or discard Hired Dogs.",
+        "traits": "Ally. Creature. Fellow Dogs.",
         "type_code": "asset",
         "xp": 0,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00018.jpg"
@@ -652,7 +652,7 @@
         "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00027b.jpg"
       },
       {
-        "back_flavor": "Where you go when you need to se a dog about a man.",
+        "back_flavor": "Where you go when you need to see a dog about a man.",
         "clues": 1,
         "code": "zbh_00028",
         "double_sided": true,
@@ -727,7 +727,7 @@
         "position": 31,
         "quantity": 1,
         "shroud": 4,
-        "text": "[action]: Heal 3 horror. (Limit once per game.)\n[action]: Take 1 horror: <b>Parley</b>. You overhear a strange way of barking. Baroo! Baroo! Catthulhu woofthagn! Test [willpower] (4) to learn how to bark that way too. If you succeed, remember that you \"learned the bark of the outer gods.\"",
+        "text": "[action]: Heal 3 horror. (Limit once per game.)\n[action] Take 1 horror: <b>Parley</b>. You overhear a strange way of barking. Baroo! Baroo! Catthulhu woofthagn! Test [willpower] (4) to learn how to bark that way too. If you succeed, remember that you \"learned the bark of the outer gods.\"",
         "traits": "Barkham.",
         "type_code": "location",
         "victory": 1,
@@ -777,7 +777,7 @@
         "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00033b.jpg"
       },
       {
-        "back_flavor": "You ain't nothing' but a pound dog.",
+        "back_flavor": "You ain't nothin' but a pound dog.",
         "clues": 2,
         "code": "zbh_00034",
         "double_sided": true,
@@ -790,7 +790,7 @@
         "position": 34,
         "quantity": 1,
         "shroud": 3,
-        "text": "[action]: Gain 3 resources. (Limit once per game.)\n[action] Spend 1 resource: <b>Parley.</b>Test [agility] (4) to convince the employees to part with some cat toys by acting adorable. If you succeed, remember that you \"possess a ball of yarn.\"",
+        "text": "[action]: Gain 3 resources. (Limit once per game.)\n[action] Spend 1 resource: <b>Parley.</b> Test [agility] (4) to convince the employees to part with some cat toys by acting adorable. If you succeed, remember that you \"possess a ball of yarn.\"",
         "traits": "Barkham.",
         "type_code": "location",
         "victory": 1,
@@ -811,7 +811,7 @@
         "position": 35,
         "quantity": 1,
         "shroud": 3,
-        "text": "[action]: Heal 3 danage. You're not happy about it though. (Limit once per game.)\n[action] Take 1 damage: <b>Parley.</b> Test [intellect] (4) to schedule a visit to the vet for a cat. This is physically painful for you. If you succeed, remember that \"a cat has an appointment with the vet.\"",
+        "text": "[action]: Heal 3 damage. You're not happy about it though. (Limit once per game.)\n[action] Take 1 damage: <b>Parley.</b> Test [intellect] (4) to schedule a visit to the vet for a cat. This is physically painful for you. If you succeed, remember that \"a cat has an appointment with the vet.\"",
         "traits": "Barkham.",
         "type_code": "location",
         "victory": 1,
@@ -1142,7 +1142,7 @@
         "pack_code": "zbh",
         "position": 51,
         "quantity": 2,
-        "text": "<b>Revelation</b> - If there are no enemies in play, On Your Tail gains surge. Otherwise, place 1 doom on the nearest enemy to you and test [agility] (X), where X is that enemy's evade value. If you fail, that enemy attacks you.",
+        "text": "<b>Revelation</b> - If there are no enemies in play, On Your Tail gains surge. Otherwise, place 1 doom on the enemy nearest to you and test [agility] (X), where X is that enemy's evade value. If you fail, that enemy attacks you.",
         "traits": "Scheme.",
         "type_code": "treachery",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00051.jpg"
@@ -1204,7 +1204,7 @@
         "pack_code": "zbh",
         "position": 55,
         "quantity": 2,
-        "text": "<b>Revelation</b> - Attach to the location in play with the most clues.\nA cat is laying on all of the evidence a this location. You obviously cannot investigate attached location.\n[action]: Test [willpower] (4) or [agility] (4) to shoo the cat away. If you succeed, discard Stubborn Cat.",
+        "text": "<b>Revelation</b> - Attach to the location in play with the most clues.\nA cat is laying on all of the evidence at this location. You obviously cannot investigate attached location.\n[action]: Test [willpower] (4) or [agility] (4) to shoo the cat away. If you succeed, discard Stubborn Cat.",
         "traits": "Hazard.",
         "type_code": "treachery",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00055.jpg"
