@@ -213,7 +213,7 @@
         "skill_intellect": 3,
         "skill_willpower": 2,
         "subname": "The Pound Escapee",
-        "text": "[action]: Spend 1 resource: <b>Move.</b> You give a human puppy dog eyes until they give you a car ride. Move up to 3 times, ignoring enemy engagement. (Limit once per round.)\n[elder_sign] effect: +2. Deal 1 damage to the next enemy whose location you enter this round.",
+        "text": "[action] Spend 1 resource: <b>Move.</b> You give a human puppy dog eyes until they give you a car ride. Move up to 3 times, ignoring enemy engagement. (Limit once per round.)\n[elder_sign] effect: +2. Deal 1 damage to the next enemy whose location you enter this round.",
         "traits": "Criminal.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007.jpg",
