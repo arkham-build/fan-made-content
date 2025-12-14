@@ -10,7 +10,7 @@
     "banner_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/banner.png",
     "types": ["investigators", "player_cards", "scenario"],
     "status": "final",
-    "date_updated": "2025-12-13T18:30:00.000Z",
+    "date_updated": "2025-12-14T04:30:00.000Z",
     "generator": "dlloyd"
   },
   "data": {
@@ -56,7 +56,9 @@
         "traits": "Veteran.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001b_thumb.jpg"
       },
       {
         "code": "zbh_00002",
@@ -76,7 +78,8 @@
         "text": "Bark Harrigan deck only.\nUses (12 ammo).\n[action][action] Spend 1-3 ammo: <b>Fight.</b> You get +X [combat] and deal +X damage for this attack. X is the amount of ammo spent as part of this ability's cost.",
         "traits": "Item. Weapon. Firearm.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00002.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00002.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00002_thumb.jpg"
       },
       {
         "code": "zbh_00003",
@@ -92,7 +95,8 @@
         "text": "<b>Revelation</b> - Put More Bark Than Bite into play in your threat area.\nYou get -3 [combat]. (BARK! BARK! BARK!)\n<b>Forced</b> - After you defeat an enemy: Discard More Bark Than Bite.",
         "traits": "Flaw.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00003.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00003.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00003_thumb.jpg"
       },
       {
         "back_flavor": "One of the brightest in Muttskatonic University Obedience School, Kate is an expert in theoretical physics, chemistry, and zoology. Thanks to her keen mind and attention to detail, she has concocted a way to defend herself and others from the machinations of cats everywhere. Using her newly constructed Feline Discombobulator - and her keen sense of smell - Kate will sniff out evil and defend Barkham from the forces that dwell in the shadows.",
@@ -136,7 +140,9 @@
         "traits": "Scholar. Pup.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00004.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00004b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00004_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00004b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00004b_thumb.jpg"
       },
       {
         "code": "zbh_00005",
@@ -157,7 +163,8 @@
         "text": "Kate Winthpup deck only.\n[reaction] When an enemy would spawn at your location, if that enemy is a cat, looks like a cat, or is some kind of weird cat-person hybrid, exhaust Feline Discombobulator: Automatically evade it.",
         "traits": "Item. Science.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00005.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00005.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00005_thumb.jpg"
       },
       {
         "code": "zbh_00006",
@@ -173,7 +180,8 @@
         "text": "<b>Revelation</b> - Put Foul Odor into play in your threat area.\n<b>Forced</b> - After you perofrm a skill test at a location you have sniffed: Take 1 horror.\n[action]: Discard Foul Odor and unsniff everything you've sniffed.",
         "traits": "Madness.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00006.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00006.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00006_thumb.jpg"
       },
       {
         "back_flavor": "\"Skids\" O'Drool always wanted to be a good boy. But his nose for trouble kept landing him in the pound, where the \"bad dogs\" go. Usually this was because of his favorite pastime: begging to go for a car ride, then fervently wrenching the wheel away from the hapless human. How this obsession with cars began, we may never know. All we know is that other drivers should be careful when \"Skids\" is on the loose.",
@@ -217,7 +225,9 @@
         "traits": "Criminal.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007b_thumb.jpg"
       },
       {
         "code": "zbh_00008",
@@ -236,7 +246,8 @@
         "text": "\"Skids\" O'Drool deck only.\nFast. Play only during your turn.\nFor the remainder of your turn, whenever you enter a location, deal 3 damage to an enemy at that location.",
         "traits": "What? No. Stop. That's bad. Bad dog.",
         "type_code": "event",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00008.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00008.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00008_thumb.jpg"
       },
       {
         "code": "zbh_00009",
@@ -257,7 +268,8 @@
         "text": "<b>Prey</b> - \"Skids\" O'Drool.\nHunter.\n<b>Forced</b> - After you enter Dogcatchers' location or Dogcatchers enters your location: You cannot move for the remainder of the round.",
         "traits": "Humanoid.",
         "type_code": "enemy",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00009.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00009.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00009_thumb.jpg"
       },
       {
         "back_flavor": "As a psychic, Jacqueline Canine can always foretell what is buried beneath the earth in any given spot. She knows where to go to find the best bones, where to rummage to find the tastiest scraps of food, and where to beg for the best treats. But what will Jacqueline do when these premonitions lead her to real danger?",
@@ -293,7 +305,9 @@
         "traits": "Clairvoyant.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00010.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00010b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00010_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00010b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00010b_thumb.jpg"
       },
       {
         "code": "zbh_00011",
@@ -315,7 +329,8 @@
         "text": "Jacqueline Canine deck only.\nYou may commit buried cards to skill tests as if they were in your hand.",
         "traits": "Item. Relic. Cursed.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00011.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00011.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00011_thumb.jpg"
       },
       {
         "code": "zbh_00012",
@@ -331,7 +346,8 @@
         "text": "<b>Revelation</b> - Oh no! You forgot where you buried all your cards! For each card you have buried, either take 1 horror or discard it.",
         "traits": "Flaw.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00012.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00012.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00012_thumb.jpg"
       },
       {
         "back_flavor": "Arf. Arf arf arf. BARK! Grrrrrrrr. Woof. Arf arf arf arf arf arf arf. Bark bark. Mrr?... Bark. Bark bark. Arf arf arf arf arf. Borf borf. Woof woof woof! AROOOOOOO-",
@@ -376,7 +392,9 @@
         "traits": "Drifter.",
         "type_code": "investigator",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00013.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00013b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00013_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00013b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00013b_thumb.jpg"
       },
       {
         "code": "zbh_00014",
@@ -393,7 +411,8 @@
         "text": "Duke deck only. Uses (5 treats).\n[reaction] After you succeed at a skill test, spend 1 treat: Good boy! Either (choose one) -\n- Heal 1 damage or 1 horror.\n- Draw 1 card.\n- Gain 1 resource.",
         "traits": "Ally.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00014.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00014.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00014_thumb.jpg"
       },
       {
         "code": "zbh_00015",
@@ -410,7 +429,8 @@
         "text": "<b>Revelation</b> - Remove all treats from Friendly Human.",
         "traits": "Blunder.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00015.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00015.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00015_thumb.jpg"
       },
       {
         "code": "zbh_00016",
@@ -429,7 +449,8 @@
         "traits": "Item. Armor.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00016.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00016.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00016_thumb.jpg"
       },
       {
         "code": "zbh_00017",
@@ -449,7 +470,8 @@
         "traits": "Item. Tool. Classy.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00017.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00017.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00017_thumb.jpg"
       },
       {
         "code": "zbh_00018",
@@ -471,7 +493,8 @@
         "traits": "Ally. Creature. Fellow Dogs.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00018.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00018.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00018_thumb.jpg"
       },
       {
         "code": "zbh_00019",
@@ -490,7 +513,8 @@
         "traits": "Spell.",
         "type_code": "event",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00019.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00019.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00019_thumb.jpg"
       },
       {
         "code": "zbh_00020",
@@ -509,7 +533,8 @@
         "traits": "Item. Footwear, but not really.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00020.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00020.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00020_thumb.jpg"
       },
       {
         "code": "zbh_00021",
@@ -526,7 +551,8 @@
         "traits": "Illicit.",
         "type_code": "skill",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00021.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00021.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00021_thumb.jpg"
       },
       {
         "back_text": "Hard / Expert\n[skull]: -X. X is the number of [[Meowsk]] enemies in play, in the victory display, and attached to Meowlathotep.\n[cultist]: -2. Place 1 doom on the nearest enemy.\n[tablet]: -2. Place 1 of your clues on your location.\n[elder_thing]: -7. Woof.",
@@ -542,7 +568,9 @@
         "text": "Easy / Standard\n[skull]: -X. X is half the number of [[Meowsk]] enemies in play, in the victory display, and attached to Meowlathotep, rounded up.\n[cultist]: -2. If you fail, place 1 doom on the nearest enemy.\n[tablet]: -2. If you fail, place 1 of your clues on your location.\n[elder_thing]: -5. Woof.",
         "type_code": "scenario",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00022.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00022b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00022_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00022b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00022b_thumb.jpg"
       },
       {
         "back_flavor": "The summoning is complete! Now one of the \"Meowsks\" of Meowlathotep prowls the streets of Barkham. It is up to you to put an end to this menace before its true master is unveiled.",
@@ -564,7 +592,9 @@
         "text": "[fast] Investigators at a location that is lousy with cats spend 2 [per_investigator] clues, as a group: Add the card beneath that location to the victory display.\n[action] If you are at a location that is lousy with cats: Flip the card beneath that location over and spawn it at that location, exhausted.",
         "type_code": "agenda",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00023.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00023b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00023_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00023b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00023b_thumb.jpg"
       },
       {
         "back_flavor": "You have run out of time. The Order's ritual is complete. Now there is nothing that can be done to stop Meowlathotep from dismantling this world and creating a paradise for felinekind. A world without doors, with endless birds to chase, posts to scratch, and sunlight to lounge in. A world with no dogs.",
@@ -585,7 +615,9 @@
         "stage": 2,
         "type_code": "agenda",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00024.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00024b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00024_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00024b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00024b_thumb.jpg"
       },
       {
         "back_flavor": "You have forced the Order's paw. Now their true master, the Prowling Chaos, has emerged. Can you even hope to stop this awful creature?",
@@ -607,7 +639,9 @@
         "text": "<b>Objective</b> - At the start of the investigation phase, if no locations are lousy with cats, advance.",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00025.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00025b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00025_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00025b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00025b_thumb.jpg"
       },
       {
         "back_flavor": "As the entity known as Meowlathotep collapses, its body dissolves into the shadows from whence it emerged. You know that one day the Order of Dead Rodents on the Doorstep will try to revive their master once more... but for now, at least, Barkham is safe. You let out a fierce howl to let the rest of the dogs in the city know of your victory. Within moments, the sky is filled with the triumphant howls of dogs everywhere. All across Barkham, humans look on in confusion, thinking: \"Why is my dog active weird?\"",
@@ -629,7 +663,9 @@
         "text": "[action] Spend 1 clue: Deal 2 damage to an enemy at your location, or 1 damage without provoking attacks of opportunity.\n<b>Objective</b> - If Meowlathotep is defeated, advance.",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00026.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00026b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00026_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00026b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00026b_thumb.jpg"
       },
       {
         "back_flavor": "Be cautious where you walk in Beasttown. You never know what you might step in.",
@@ -649,7 +685,9 @@
         "traits": "Barkham. Central.",
         "type_code": "location",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00027.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00027b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00027_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00027b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00027b_thumb.jpg"
       },
       {
         "back_flavor": "Where you go when you need to see a dog about a man.",
@@ -670,7 +708,9 @@
         "traits": "Barkham. Central.",
         "type_code": "location",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00028.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00028b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00028_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00028b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00028b_thumb.jpg"
       },
       {
         "back_flavor": "They've got a lid on every trashcan and a fence around every tree.",
@@ -690,7 +730,9 @@
         "traits": "Barkham. Central.",
         "type_code": "location",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00029.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00029b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00029_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00029b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00029b_thumb.jpg"
       },
       {
         "back_flavor": "The banks of the Muttskatonic River are lined with warehouses and stores, filled with exotic treats from around the world.",
@@ -711,7 +753,9 @@
         "traits": "Barkham. Central.",
         "type_code": "location",
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00030.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00030b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00030_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00030b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00030b_thumb.jpg"
       },
       {
         "back_flavor": "While baying at the moon is a fairly common occurrence in Barkham, the howls that escape the Asylum are... unnatural.",
@@ -732,7 +776,9 @@
         "type_code": "location",
         "victory": 1,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00031.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00031b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00031_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00031b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00031b_thumb.jpg"
       },
       {
         "back_flavor": "Both dogs and ghouls agree: Bones are delicious.",
@@ -753,7 +799,9 @@
         "type_code": "location",
         "victory": 1,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00032.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00032b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00032_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00032b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00032b_thumb.jpg"
       },
       {
         "back_flavor": "Only the smartest and goodest pups make it into the Muttskatonic University Obedience School. There, students can earn dogtorates in advanced mathematics, fine art, and not being afraid of the vacuum cleaner.",
@@ -774,7 +822,9 @@
         "type_code": "location",
         "victory": 1,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00033.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00033b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00033_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00033b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00033b_thumb.jpg"
       },
       {
         "back_flavor": "You ain't nothin' but a pound dog.",
@@ -795,7 +845,9 @@
         "type_code": "location",
         "victory": 1,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00034.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00034b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00034_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00034b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00034b_thumb.jpg"
       },
       {
         "back_flavor": "\"We're going for a car ride,\" they said.\n\"It'll be fun,\" they said.",
@@ -816,7 +868,9 @@
         "type_code": "location",
         "victory": 1,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00035.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00035b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00035_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00035b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00035b_thumb.jpg"
       },
       {
         "back_flavor": "It's got the best kibble in town.\nNo doggie bags allowed, of course.",
@@ -837,7 +891,9 @@
         "type_code": "location",
         "victory": 1,
         "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00036.jpg",
-        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00036b.jpg"
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00036_thumb.jpg",
+        "back_image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00036b.jpg",
+        "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00036b_thumb.jpg"
       },
       {
         "code": "zbh_00037",
@@ -861,7 +917,8 @@
         "traits": "Ancient One. Elite.",
         "type_code": "enemy",
         "victory": 3,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00037.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00037.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00037_thumb.jpg"
       },
       {
         "code": "zbh_00038",
@@ -884,7 +941,8 @@
         "traits": "Monster. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00038.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00038.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00038_thumb.jpg"
       },
       {
         "code": "zbh_00039",
@@ -907,7 +965,8 @@
         "traits": "Monster. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00039.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00039.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00039_thumb.jpg"
       },
       {
         "code": "zbh_00040",
@@ -930,7 +989,8 @@
         "traits": "Monster. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00040.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00040.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00040_thumb.jpg"
       },
       {
         "code": "zbh_00041",
@@ -953,7 +1013,8 @@
         "traits": "Humanoid. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00041.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00041.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00041_thumb.jpg"
       },
       {
         "code": "zbh_00042",
@@ -975,7 +1036,8 @@
         "traits": "Creature. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00042.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00042.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00042_thumb.jpg"
       },
       {
         "code": "zbh_00043",
@@ -998,7 +1060,8 @@
         "traits": "Monster. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00043.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00043.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00043_thumb.jpg"
       },
       {
         "code": "zbh_00044",
@@ -1020,7 +1083,8 @@
         "traits": "Humanoid. Meowsk. Elite.",
         "type_code": "enemy",
         "victory": 1,
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00044.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00044.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00044_thumb.jpg"
       },
       {
         "code": "zbh_00045",
@@ -1039,7 +1103,8 @@
         "text": "<b>Spawn</b> - Any empty location.\n<b>Forced</b> - After Estranged Cat enters play: Place 1 doom on it.\n<b>Forced</b> - When Estranged Cat would be defeated: It runs away to the discard pile, but isn't injured at all (please, I'm not a monster).",
         "traits": "Creature.",
         "type_code": "enemy",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00045.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00045.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00045_thumb.jpg"
       },
       {
         "code": "zbh_00046",
@@ -1059,7 +1124,8 @@
         "text": "<b>Prey</b> - Investigator nearest to a card that is lousy with cats.\nHunter.",
         "traits": "Humanoid. Cultist.",
         "type_code": "enemy",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00046.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00046.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00046_thumb.jpg"
       },
       {
         "code": "zbh_00047",
@@ -1078,7 +1144,8 @@
         "text": "<b>Spawn</b> - Any empty location.\nRetaliate.\n<b>Forced</b> - At the end of the mythos phase: Place 1 doom on Order Cultist.",
         "traits": "Humanoid, sort of? Cultist, definitely.",
         "type_code": "enemy",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00047.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00047.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00047_thumb.jpg"
       },
       {
         "code": "zbh_00048",
@@ -1099,7 +1166,8 @@
         "text": "<b>Spawn</b> - Location with the most enemies (including facedown encounter cards).\nAlert. Retaliate.",
         "traits": "Monster. Catbomination.",
         "type_code": "enemy",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00048.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00048.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00048_thumb.jpg"
       },
       {
         "code": "zbh_00049",
@@ -1114,7 +1182,8 @@
         "text": "<b>Revelation</b> - IT'S A SQUIRREL! You must chase it! Test [agility] (4). For each point you fail by, lose 1 action.",
         "traits": "Squirrel!",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00049.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00049.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00049_thumb.jpg"
       },
       {
         "code": "zbh_00050",
@@ -1129,7 +1198,8 @@
         "text": "<b>Revelation</b> - Put Hunted by Byakats into play in your threat area.\nAs an additional cost to perform any of the following actions (move, fight, or investigate), you must spend 1 resource in cat food to appease the pursuing Byakats.\n<b>Forced</b> - At the end of your turn: Test [intellect] (3). If you succeed, discard Hunted by Byakats.",
         "traits": "Scheme.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00050.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00050.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00050_thumb.jpg"
       },
       {
         "code": "zbh_00051",
@@ -1145,7 +1215,8 @@
         "text": "<b>Revelation</b> - If there are no enemies in play, On Your Tail gains surge. Otherwise, place 1 doom on the enemy nearest to you and test [agility] (X), where X is that enemy's evade value. If you fail, that enemy attacks you.",
         "traits": "Scheme.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00051.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00051.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00051_thumb.jpg"
       },
       {
         "code": "zbh_00052",
@@ -1161,7 +1232,8 @@
         "text": "<b>Revelation</b> - Test [willpower] (3). For each point you fail by, take 1 horror.",
         "traits": "Terror.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00052.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00052.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00052_thumb.jpg"
       },
       {
         "code": "zbh_00053",
@@ -1177,7 +1249,8 @@
         "text": "<b>Revelation</b> - Test [agility] (3). For each point you fail by, take 1 damage.",
         "traits": "Hazard.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00053.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00053.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00053_thumb.jpg"
       },
       {
         "code": "zbh_00054",
@@ -1192,7 +1265,8 @@
         "text": "<b>Revelation</b> - If...\n- ...Meowlathotep is in play, it attacks each investigator, in player order.\n- ...at least 1 location is lousy with cats, choose one of those locations. Flip the card beneath that location over and spawn it at that location.\n- ...neither is true, this card gains surge.",
         "traits": "Power.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00054.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00054.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00054_thumb.jpg"
       },
       {
         "code": "zbh_00055",
@@ -1207,7 +1281,8 @@
         "text": "<b>Revelation</b> - Attach to the location in play with the most clues.\nA cat is laying on all of the evidence at this location. You obviously cannot investigate attached location.\n[action]: Test [willpower] (4) or [agility] (4) to shoo the cat away. If you succeed, discard Stubborn Cat.",
         "traits": "Hazard.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00055.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00055.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00055_thumb.jpg"
       },
       {
         "code": "zbh_00056",
@@ -1222,7 +1297,8 @@
         "text": "<b>Revelation</b> - Test [willpower] (4). If you fail, choose an asset you control and slowly push it until it falls off the table (if you cannot, take 2 damage instead). Cards that fall off the table in this way are removed from the game.",
         "traits": "Scheme.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00056.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00056.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00056_thumb.jpg"
       },
       {
         "code": "zbh_00057",
@@ -1237,7 +1313,8 @@
         "text": "<b>Revelation</b> - Test [willpower] (5). For each point you fail by, either lose 1 resource or choose and discard 1 card from your hand. If this effect forces you to lose all of your resources and discard all of your cards, you feel really creeped out.",
         "traits": "Terror.",
         "type_code": "treachery",
-        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00057.jpg"
+        "image_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00057.jpg",
+        "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00057_thumb.jpg"
       }
     ],
     "encounter_sets": [

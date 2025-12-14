@@ -10,7 +10,7 @@
     "banner_credit": "Antonio Maínez, Anders Finér",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-12-13T10:57:03.318",
+    "date_updated": "2025-12-14T10:57:03.318",
     "generator": "Zoop 3.5, AHLCG plugin 9.91, Strange Eons 3.3.4241"
   },
   "data": {
@@ -42,8 +42,7 @@
         "faction_code": "neutral",
         "flavor": "This front is left intentionally blank.",
         "health": 7,
-        "illustrator": "Anders Finer",
-        "is_unique": true,
+        "illustrator": "Anders Finér",
         "name": "Johnny Anybody",
         "pack_code": "d12a4d9c-8c65-4df0-be0c-c2e14af65a21",
         "position": 1,
@@ -90,7 +89,6 @@
         "flavor": "This front is left intentionally blank.",
         "health": 7,
         "illustrator": "Antonio Maínez",
-        "is_unique": true,
         "name": "Jane Doe",
         "pack_code": "d12a4d9c-8c65-4df0-be0c-c2e14af65a21",
         "position": 1,
