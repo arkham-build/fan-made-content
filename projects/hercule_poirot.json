@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "code": "462ee889-7bbe-4561-98c1-462249130511",
+    "name": "Hercule Poirot",
+    "description": "The inexplicable troubles of Arkham have caught the attention of the famous detective, Hercule Poirot! Keen to pit his mind against the supposedly impossible, the Belgian genius is ready for the unknown.",
+    "author": "The Beard",
+    "language": "en",
+    "external_link": "https://mysteriouschanting.wordpress.com/2022/06/05/hercule-poirot-investigator/",
+    "banner_url": "https://inexorablefate.com/projects/Hercule%20Poirot.png",
+    "banner_credit": "Pavel Mamkin",
+    "types": ["investigators"],
+    "status": "final",
+    "date_updated": "2025-12-31T08:12:36.909",
+    "generator": "Zoop 3.5, AHLCG plugin 9.91, Strange Eons 3.3.4241"
+  },
+  "data": {
+    "cards": [
+      {
+        "back_flavor": "The famous Belgian detective was always a man for details. From his early days in the Brussels police to his life as a private detective in London, Poirot made a name for himself due to his patient observation and fastidious logic. Despite his skill and fame, Poirot only took on the cases that interested him personally. As the roaring twenties entered full swing, news of the mysterious town of Arkham finally reached his desk. These were not mere superstitions from the ignorant masses, but carefully catalogued impossibilities corroborated by Miskatonic scholars. Curious and confident in equal measure, Poirot departs for Arkham alongside his longtime friend Captain Hastings.",
+        "back_name": "Hercule Poirot",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 5 other Mystic and/or Rogue cards ([mystic] and/or [rogue]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: Little Grey Cells, Arthur Hastings, Compulsive Behaviour, 1 random basic weakness.",
+        "code": "99cbea80-282c-4b33-a74c-e2d973b8fd6d",
+        "deck_requirements": "size:30, card:6ac767e5-c7dd-40a4-9367-4c2a9b972e3b, card:b4f949d4-9b5c-4804-88ff-44ada8db2fa4, card:c3ac8154-9b91-46b6-975f-09e6e837bbd4, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["seeker"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": ["mystic", "rogue"],
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 5
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "seeker",
+        "flavor": "\"The impossible could not \nhave happened, therefore \nthe impossible must be possible \nin spite of appearances.\"",
+        "health": 5,
+        "illustrator": "Pavel Mamkin",
+        "is_unique": true,
+        "name": "Hercule Poirot",
+        "pack_code": "462ee889-7bbe-4561-98c1-462249130511",
+        "position": 1,
+        "quantity": 1,
+        "sanity": 9,
+        "skill_agility": 1,
+        "skill_combat": 2,
+        "skill_intellect": 5,
+        "skill_willpower": 4,
+        "subname": "The Private Detective",
+        "text": "[reaction] After you place 1 or more of your clues on your location via a player effect: Draw 1 card. (Limit once per phase.)\n[elder_sign] effect: +0. You may place 1 of your clues on your location to make this modifier +2 instead.",
+        "traits": "Detective. Police. Socialite.",
+        "type_code": "investigator",
+        "image_url": "https://eons.arkham.build/99cbea80-282c-4b33-a74c-e2d973b8fd6d-Front-Hercule%20Poirot-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1767165155519",
+        "thumbnail_url": "https://eons.arkham.build/99cbea80-282c-4b33-a74c-e2d973b8fd6d-Front-thumbnail.png?cachebust=1767165155871",
+        "back_image_url": "https://eons.arkham.build/99cbea80-282c-4b33-a74c-e2d973b8fd6d-Back-Hercule%20Poirot-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1767165156601",
+        "back_thumbnail_url": "https://eons.arkham.build/99cbea80-282c-4b33-a74c-e2d973b8fd6d-Back-thumbnail.png?cachebust=1767165156897"
+      },
+      {
+        "code": "6ac767e5-c7dd-40a4-9367-4c2a9b972e3b",
+        "cost": 3,
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "flavor": "\"Good lord, Poirot!\"",
+        "health": 3,
+        "illustrator": "auggie101",
+        "is_unique": true,
+        "name": "Arthur Hastings",
+        "pack_code": "462ee889-7bbe-4561-98c1-462249130511",
+        "position": 2,
+        "quantity": 1,
+        "restrictions": "investigator:99cbea80-282c-4b33-a74c-e2d973b8fd6d",
+        "sanity": 1,
+        "skill_wild": 1,
+        "skill_willpower": 1,
+        "slot": "Ally",
+        "subname": "Boon Companion",
+        "text": "Hercule Poirot deck only.\n[action] Place 1 of your clues on your location and exhaust Arthur Hastings: <b>Fight</b>. This attack uses [intellect] instead of [combat] and deals +1 damage.",
+        "traits": "Ally. Veteran.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/6ac767e5-c7dd-40a4-9367-4c2a9b972e3b-Front-Arthur%20Hastings-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1767164784751",
+        "thumbnail_url": "https://eons.arkham.build/6ac767e5-c7dd-40a4-9367-4c2a9b972e3b-Front-thumbnail.png?cachebust=1767164785084"
+      },
+      {
+        "code": "b4f949d4-9b5c-4804-88ff-44ada8db2fa4",
+        "cost": 3,
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "flavor": "\"The truth, however ugly in itself,\nis curious and beautiful to seekers after it.\"",
+        "illustrator": "Unknown",
+        "name": "Little Grey Cells",
+        "pack_code": "462ee889-7bbe-4561-98c1-462249130511",
+        "position": 3,
+        "quantity": 1,
+        "restrictions": "investigator:99cbea80-282c-4b33-a74c-e2d973b8fd6d",
+        "skill_intellect": 1,
+        "skill_wild": 1,
+        "subname": "The Truth Within",
+        "text": "Hercule Poirot deck only.\n[free] During your turn, place 1 of your clues on your location and exhaust Little Grey Cells: Move a clue from a connecting revealed location to your location.",
+        "traits": "Talent.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/b4f949d4-9b5c-4804-88ff-44ada8db2fa4-Front-Little%20Grey%20Cells-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1767164785370",
+        "thumbnail_url": "https://eons.arkham.build/b4f949d4-9b5c-4804-88ff-44ada8db2fa4-Front-thumbnail.png?cachebust=1767164785722"
+      },
+      {
+        "code": "c3ac8154-9b91-46b6-975f-09e6e837bbd4",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "flavor": "\"I am not mad. I am eccentric perhaps---\nat least certain people say so.\"",
+        "illustrator": "Nataly Lanier",
+        "name": "Compulsive Behaviour",
+        "pack_code": "462ee889-7bbe-4561-98c1-462249130511",
+        "position": 4,
+        "quantity": 1,
+        "restrictions": "investigator:99cbea80-282c-4b33-a74c-e2d973b8fd6d",
+        "subtype_code": "weakness",
+        "text": "<b>Revelation</b> - Place 3 of your clues on your location. If fewer than 3 clues were placed by this effect, take 1 horror and shuffle Compulsive Behaviour back into your deck. You cannot activate the [reaction] ability on Hercule Poirot while resolving this effect.",
+        "traits": "Madness.",
+        "type_code": "treachery",
+        "image_url": "https://eons.arkham.build/c3ac8154-9b91-46b6-975f-09e6e837bbd4-Front-Compulsive%20Behaviour-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1767164787486",
+        "thumbnail_url": "https://eons.arkham.build/c3ac8154-9b91-46b6-975f-09e6e837bbd4-Front-thumbnail.png?cachebust=1767164787797"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "462ee889-7bbe-4561-98c1-462249130511",
+        "name": "Hercule Poirot",
+        "date_release": "2025-12-31",
+        "icon_url": "https://eons.arkham.build/462ee889-7bbe-4561-98c1-462249130511-collection-icon.png?cachebust=1767164788209"
+      }
+    ]
+  }
+}
