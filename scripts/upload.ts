@@ -15,7 +15,7 @@ assert(process.env.API_BASE_URL, "API_BASE_URL is required");
 assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
 const SKIP_PROJECT = false;
-const SKIP_IMAGES = false;
+const SKIP_IMAGES = true;
 
 const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
