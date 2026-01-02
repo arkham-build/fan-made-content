@@ -10,7 +10,7 @@
     "banner_credit": "Vanessa Lemen",
     "types": ["investigators"],
     "status": "final",
-    "date_updated": "2025-06-26T09:44:25.825Z",
+    "date_updated": "2026-01-02T05:44:25.825Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -572,7 +572,7 @@
         "back_name": "Edith Foster",
         "back_text": "<b>Deck Size</b>: 30\n<b>Deckbuilding Options</b>: Mystic [mystic] level 0-3, Neutral level 0-5, [[Occult]] cards 0-5, up to 3 level 0 permanents purchased at deck creation from any class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 1 copy of Written in Blood, 1 copy of Consumed, 1 bonded [[Engraving]] asset (see below), 1 random basic weakness.\n<b>Additional Requirements</b>: You begin each scenario with Written in Blood in your opening hand. At deck creation, choose an [[Engraving]] asset from your 5 bonded cards to add to your deck. It is considered part of your Deckbuilding Requirements. For every 12 experience you've earned in total, you may randomly select a different [[Engraving]] asset from your bonded cards to add to your deck.\n<b>Deckbuilding Restrictions</b>: You may not have more than 3 bonded [[Engraving]] assets included in your deck. ",
         "code": "00e54a05-edc1-4f18-86e4-2ceafeee215f",
-        "deck_requirements": "size:30, card:05f6b498-d068-4c15-a227-cfd493930bdc, card:080c839e-6084-469b-b54e-4c94b8f7d37e, card:0d09f239-2548-4669-9379-85c3d5dcc388, card:67c26999-509c-4b2b-851e-f98f7936e8d1, card:8b94fbd4-bc36-48c9-84cd-76fb210306be, card:a2fc482a-964c-4514-8bd3-3f15f07c6a21, card:a3ba4fcc-992a-42ef-8c32-01bcf248b150, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:05f6b498-d068-4c15-a227-cfd493930bdc, card:080c839e-6084-469b-b54e-4c94b8f7d37e, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["mystic"],
