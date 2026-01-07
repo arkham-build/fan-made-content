@@ -91,6 +91,8 @@ function fixCommonTextIssues(str: string) {
     .replaceAll("</center>", "")
     .replaceAll("<hdr></hdr>", "")
     .replaceAll("<b></b>", "")
+    .replaceAll("<thsp>", " ")
+    .replaceAll("<hsp>", " ")
     .replaceAll("“", '"')
     .replaceAll("”", '"')
     .replaceAll("<res>", "→R")
