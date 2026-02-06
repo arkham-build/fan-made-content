@@ -57,7 +57,7 @@ async function rehostProject(project: Project) {
     );
 
     const res = await fetch(
-      `${process.env.API_BASE_URL}/v1/admin/fan_made_project`,
+      `${process.env.API_BASE_URL}/admin/fan_made_project_info`,
       {
         method: "POST",
         headers: {
