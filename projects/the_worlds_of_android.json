@@ -1,0 +1,1411 @@
+{
+  "meta": {
+    "code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+    "name": "The Worlds of Android Investigator Expansion",
+    "description": "The people of Earth, Luna, and Mars are a varied and fractious population. They come from all walks of life, vary dramatically in skill sets, goals, and available resources, and come together in all sorts of different ways, in a myriad of organizations and affiliations. These 12 new investigators will bring a taste of Android: Netrunner to your game of Arkham Horror.",
+    "author": "Frostmaze",
+    "language": "en",
+    "external_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3618294973",
+    "banner_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771454692/adam-schumpert-netrunner-revised-cover-adamschumpert-small_kb6r47.jpg",
+    "banner_credit": "Adam Schumpert",
+    "types": [
+      "investigators"
+    ],
+    "status": "beta",
+    "date_updated": "2026-02-17T00:00:00.000"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "twoa_536",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 1,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "guardian",
+        "name": "Sunny Lebeau",
+        "subname": "The Security Specialist",
+        "back_name": "Sunny Lebeau",
+        "traits": "Agency. Warden.",
+        "text": "[elder_sign] effect: 0. You get +2 to each of your skills for the remainder of the round.",
+        "flavor": "\"Mommy will be home soon, sweetie. She has to kick some ass first.\"",
+        "back_text": "<b>Deck Size</b>: 40.\n<b>Secondary Class Choices</b>: At deck creation, choose two classes.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, cards of your chosen secondary classes level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Another Day, Another Paycheck, Employee Strike, 1 random basic weakness.",
+        "back_flavor": "By day, Sunny Lebeau is a corporate runner for Globalsec, armed with top-tier security tools and a paycheck that makes the risks worth it. She infiltrates, extracts, and dismantles corporate servers, all with the full legal backing of one of the world's most powerful security firms. By night, she's a devoted mother to Frankie and Alexa, balancing daycare drop-offs and bedtime stories. Sunny doesn't run for the thrill. She doesn't run to send a message. She runs because it pays the bills, puts food on the table, and keeps her kids safe.",
+        "health": 8,
+        "sanity": 8,
+        "skill_willpower": 4,
+        "skill_intellect": 4,
+        "skill_combat": 4,
+        "skill_agility": 4,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365717/SunnyLebeau_Front_exw33u.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450726/001-SunnyLebeau_c3mzui.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365492/SunnyLebeau_Back_p0gzgd.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450726/001-SunnyLebeau_c3mzui.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "guardian",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "name": "Secondary Class 1",
+            "faction_select": [
+              "seeker",
+              "rogue",
+              "mystic",
+              "survivor"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          },
+          {
+            "name": "Secondary Class 2",
+            "faction_select": [
+              "seeker",
+              "rogue",
+              "mystic",
+              "survivor"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          }
+        ],
+        "deck_requirements": "size:40, card:twoa_537, card:twoa_538, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_537",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 2,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "name": "Another Day, Another Paycheck",
+        "traits": "Job. Supply.",
+        "text": "Sunny Lebeau deck only.\n[reaction] When you take an (investigate, fight, evade, or parley) action: Gain 1 resource. (Limit once per turn for each type of action.)\n[free] During your turn, except during an action, remove Another Day, Another Paycheck from the game: Take up to 4 different actions from the following list, in any order (investigate, fight, evade, and parley).",
+        "skill_wild": 2,
+        "illustrator": "Caroline Gariba",
+        "restrictions": "investigator:twoa_536",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365701/AnotherDayAnotherPaycheck_Front_g6sfd3.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450728/002-AnotherDayAnotherPaycheck_nyeyzu.jpg"
+      },
+      {
+        "code": "twoa_538",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 3,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Employee Strike",
+        "traits": "Hazard.",
+        "text": "<b>Revelation</b> - Put Employee Strike into play in your threat area.\nThe first time you perform one of the following actions (investigate, fight, evade, or parley) each round, it costs 1 additional action.\n<b>Forced</b> - At the end of your turn, if you performed none of those actions this turn: Discard Employee Strike.",
+        "illustrator": "Dmitry Prosvirnin",
+        "restrictions": "investigator:twoa_536",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365512/EmployeeStrike_Front_fmahan.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450729/003-EmployeeStrike_dlt7wo.jpg"
+      },
+      {
+        "code": "twoa_539",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 4,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "guardian",
+        "name": "Reina Roja",
+        "subname": "The Freedom Fighter",
+        "back_name": "Reina Roja",
+        "traits": "Cyborg. G-Mod. Veteran.",
+        "text": "[free]: Choose a card you own attached to a location. Return it to your hand. (Limit once per round.)\n[elder_sign] effect: +1. If this is an [intellect] test, you automatically succeed.",
+        "flavor": "\"Analyzing the board won't help. Your mistake was thinking we're playing the same game.\"",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, up to 10 combined levels of level 1-5 cards from other classes.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Deep Red, Pawn, Knight, Bishop, Rook, Queen, Checkmate, Zugzwang, 1 random basic weakness.\n<b>Additional Setup</b>: Begin each game by forming a separate \"Caïssa deck\" of Pawn, Knight, Bishop, Rook, and Queen, in that order, with each card faceup. <i>(Pawn should be the top card of the deck.)</i>",
+        "back_flavor": "What started one day as just another job turned into a desperate race to expose a catastrophic secret. Weyland's Project Vulcan isn't just another corporate lie—it's a global disaster waiting to happen, and the deeper Reina Roja digs, the more bodies start to pile up. Haunted by her past as an electronic warfare drone operator, the question now isn't whether she can expose the truth: it's how many pieces she's willing to sacrifice to do it.",
+        "health": 9,
+        "sanity": 5,
+        "skill_willpower": 3,
+        "skill_intellect": 3,
+        "skill_combat": 5,
+        "skill_agility": 1,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365666/ReinaRoja_Front_yc8hnc.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450731/004-ReinaRoja_tdbr0c.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365663/ReinaRoja_Back_nsgvc5.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450731/004-ReinaRoja_tdbr0c.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "guardian",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "seeker",
+              "rogue",
+              "mystic",
+              "survivor"
+            ],
+            "level": {
+              "min": 1,
+              "max": 5
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_540, card:twoa_541, card:twoa_542, card:twoa_543, card:twoa_544, card:twoa_545, card:twoa_546, card:twoa_547, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_540",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 5,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": null,
+        "permanent": true,
+        "name": "Deep Red",
+        "traits": "Item. Console.",
+        "text": "Reina Roja deck only. Permanent.\nPlaying [[Caïssa]] cards does not provoke attacks of opportunity.\n[action]: Test [intellect] (X). X is the cost of the top card of your Caïssa deck. If you succeed, play the top card of your Caïssa deck, ignoring all costs. Does not provoke attacks of opportunity.",
+        "illustrator": "Christina Davis",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365507/DeepRed_Front_kqswx6.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450733/005-DeepRed_pgrmug.jpg"
+      },
+      {
+        "code": "twoa_541",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 6,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 1,
+        "name": "Pawn",
+        "traits": "Caïssa. Program.",
+        "text": "Reina Roja deck only.\nAttach Pawn to your location. Limit 1 [[Caïssa]] per location.\n[free] Exhaust Pawn: You may move Pawn to a connecting location. If the final agenda is in play, you may discard Pawn to play the top card of your Caïssa deck, ignoring all costs.",
+        "illustrator": "Liiga Smilshkalne",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365650/Pawn_Front_qxuatn.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450735/006-Pawn_lhtkea.jpg"
+      },
+      {
+        "code": "twoa_542",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 7,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 3,
+        "name": "Knight",
+        "traits": "Caïssa. Program.",
+        "text": "Reina Roja deck only.\nAttach Knight to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Knight's location, exhaust Knight: Deal 1 damage to an enemy at attached location. You may move Knight to a location exactly 2 connections away.",
+        "illustrator": "Christina Davis (heavily edited)",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365540/Knight_Front_e6jvqu.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450737/007-Knight_yzjscp.jpg"
+      },
+      {
+        "code": "twoa_543",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 8,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 3,
+        "name": "Bishop",
+        "traits": "Caïssa. Program.",
+        "text": "Reina Roja deck only.\nAttach Bishop to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Bishop's location, exhaust Bishop: You get +2 to a skill of your choice until the end of the phase. You may move Bishop to a location not connected to attached location.",
+        "illustrator": "Adam S. Doyle",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365498/Bishop_Front_lxoano.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450740/008-Bishop_xnylqe.jpg"
+      },
+      {
+        "code": "twoa_544",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 9,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 5,
+        "name": "Rook",
+        "traits": "Caïssa. Program.",
+        "text": "Reina Roja deck only.\nAttach Rook to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Rook's location, exhaust Rook: Move up to 2 times. You may move Rook to a connecting location up to 2 times.",
+        "illustrator": "Gong Studios (heavily edited)",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365671/Rook_Front_gu8tfu.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450741/009-Rook_mkup1i.jpg"
+      },
+      {
+        "code": "twoa_545",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 10,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 9,
+        "name": "Queen",
+        "traits": "Caïssa. Program.",
+        "text": "Reina Roja deck only.\nAttach Queen to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Queen's location, exhaust Queen: Deal 1 damage to an enemy at attached location. You get +2 to a skill of your choice until the end of the phase. Move up to 2 times. You may move Queen to any location.",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365652/Queen_Front_oup29m.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450744/010-Queen_et0ghb.jpg"
+      },
+      {
+        "code": "twoa_546",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 11,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 0,
+        "name": "Checkmate",
+        "traits": "Caïssa. Tactic.",
+        "text": "Reina Roja deck only.\nCount the number of [[Caïssa]] cards in play. If there are...\n* ...1 or more, draw 2 cards.\n* ...2 or more, deal 2 damage to any enemy.\n* ...3 or more, discover 2 clues from any location.\n* ...4 or more, heal 1 damage and 1 horror.\n* ...5 or more, do any number of the above again.",
+        "skill_intellect": 2,
+        "illustrator": "Matt Zeilinger",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365500/Checkmate_Front_itnroh.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450746/011-Checkmate_eo4ndv.jpg"
+      },
+      {
+        "code": "twoa_547",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 12,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Zugzwang",
+        "traits": "Blunder.",
+        "text": "<b>Revelation</b> - Put Zugzwang into play in your threat area.\n<b>Forced</b> - At the end of your turn: For each ready [[Caïssa]] card in play, take 1 damage or 1 horror.\n[action][action]: Discard Zugzwang.",
+        "illustrator": "Caravan Studio",
+        "restrictions": "investigator:twoa_539",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453547/Zugzwang_Front_ehqk7z.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450748/012-Zugzwang_igpcyv.jpg"
+      },
+      {
+        "code": "twoa_548",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 13,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "seeker",
+        "name": "Hayley Kaplan",
+        "subname": "The Universal Scholar",
+        "back_name": "Hayley Kaplan",
+        "traits": "G-Mod. Miskatonic. Scholar.",
+        "text": "[reaction] After you play an asset for the first time during your turn: Choose one of its [[Traits]]. Play an asset with the chosen [[Trait]] from your hand, ignoring its resource cost. (Limit once per game for each trait.)\n[elder_sign] effect: +1. If you succeed, choose a [[Trait]] and increase the limit on Hayley's and Comet's [reaction] abilities for that [[Trait]] by 1 this game.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b><i>Trait</i> Choice</b>: At deck creation, choose three [[Traits]].\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 1 copy each of 2 different non-permanent assets for each of your chosen [[Traits]] level 0-1.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Comet, The Stars Are Wrong, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: Your deck cannot include more than 1 copy of each non-weakness, non-signature card (by title).",
+        "back_flavor": "While other students lose themselves in parties or recruitment fairs, Hayley Kaplan is quietly consumed by her curiosity, using her runs as experiments to extract meaning from the chaos of network data by mapping it like the stars. Lately, though, the constellations she's charted in the servers have started to shift—only possible as a massive undertaking. She isn't sure what it means, but if there is a reason behind it, she is determined to find out.",
+        "health": 5,
+        "sanity": 9,
+        "skill_willpower": 3,
+        "skill_intellect": 4,
+        "skill_combat": 2,
+        "skill_agility": 3,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365525/HayleyKaplan_Front_m299ug.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450750/013-HayleyKaplan_g1wrmj.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365523/HayleyKaplan_Back_xot0uw.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450750/013-HayleyKaplan_g1wrmj.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "seeker",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "guardian",
+              "rogue",
+              "mystic",
+              "survivor"
+            ],
+            "level": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_549, card:twoa_550, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_549",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 14,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 4,
+        "name": "Comet",
+        "traits": "Item. Console.",
+        "text": "Hayley Kaplan deck only.\n[reaction] After you play an event for the first time during your turn: Choose one of its [[Traits]]. Play an event with the chosen [[Trait]] from your hand, ignoring its resource cost. (Limit once per game for each trait.)",
+        "skill_intellect": 2,
+        "illustrator": "Del Borovic",
+        "restrictions": "investigator:twoa_548",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365502/Comet_Front_v8nqwm.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450752/014-Comet_em4spg.jpg"
+      },
+      {
+        "code": "twoa_550",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 15,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "The Stars Are Wrong",
+        "traits": "Omen. Endtimes.",
+        "text": "<b>Revelation</b> - If you have no non-permanent assets in play, shuffle The Stars Are Wrong into your deck. Otherwise, for each number between 1 and 4, you must either take 1 direct horror or shuffle an asset you control with that printed resource cost from your play area into your deck.",
+        "illustrator": "Alexandr Elichev",
+        "restrictions": "investigator:twoa_548",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365674/TheStarsAreWrong_Front_b2fliz.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450755/015-TheStarsAreWrong_gxvilb.jpg"
+      },
+      {
+        "code": "twoa_551",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 16,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "seeker",
+        "name": "Rielle \"Kit\" Peddler",
+        "subname": "The Transhuman",
+        "back_name": "Rielle \"Kit\" Peddler",
+        "traits": "Cyborg. Dreamer.",
+        "text": "[reaction] When you draw a card from any deck: It gains the [[Trait]] of your choice until the end of the investigation phase <i>(in addition to any <b>Traits</b> it already has).</i> (Limit once per round.)\n[elder_sign] effect: +2. You may shuffle a player card from your hand, play area, or discard pile into your deck.",
+        "flavor": "\"I was not; I was;\nI am not; I am all.\"",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 combined levels of level 1-5 cards from other classes.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): False Echo, Immolation Script, 1 random basic weakness.",
+        "back_flavor": "AI activist Rielle \"Kit\" Peddler seeks to transcend her humanity and guide self-aware artificial intelligences to a new \"all-consciousness.\" More often than not, she recognizes the ice she encounters on her runs as kindred spirits, playing two sides of the same game. The game is a riddle, and she can solve it. See it as a snapshot of time and space. Remove the origin, remove the trajectory, and all that remains is an opportunity.",
+        "health": 9,
+        "sanity": 5,
+        "skill_willpower": 4,
+        "skill_intellect": 4,
+        "skill_combat": 2,
+        "skill_agility": 2,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365711/RielleKitPeddler_Front_z8alsw.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450757/016-RielleKitPeddler_y20bat.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365667/RielleKitPeddler_Back_kzphkb.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450757/016-RielleKitPeddler_y20bat.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "seeker",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "guardian",
+              "rogue",
+              "mystic",
+              "survivor"
+            ],
+            "level": {
+              "min": 1,
+              "max": 5
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_552, card:twoa_553, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_552",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 17,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 0,
+        "name": "False Echo",
+        "traits": "Ritual.",
+        "text": "Rielle \"Kit\" Peddler deck only.\n[reaction] When you discard a treachery card after resolving any of its effects, take 1 direct horror: Place it on the bottom of the encounter deck.\n[free] Remove False Echo from the game: Heal 2 horror.",
+        "slot": "Arcane",
+        "skill_willpower": 1,
+        "skill_intellect": 1,
+        "skill_wild": 1,
+        "illustrator": "Anna Ignatieva",
+        "restrictions": "investigator:twoa_551",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365512/FalseEcho_Front_eqkxaf.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450759/017-FalseEcho_pwvemq.jpg"
+      },
+      {
+        "code": "twoa_553",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 18,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Immolation Script",
+        "traits": "Curse.",
+        "text": "<b>Revelation</b> - Put Immolation Script into play in your threat area.\nCards you own <i>(both in-play and out-of-play)</i> lose all [[Traits]] and cannot gain [[Traits]].\n<b>Forced</b> - If you have 1 or fewer cards in your hand: Discard Immolation Script.",
+        "illustrator": "Hannah Christenson",
+        "restrictions": "investigator:twoa_551",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365706/ImmolationScript_Front_w3v7pw.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450762/018-ImmolationScript_mvo0mx.jpg"
+      },
+      {
+        "code": "twoa_554",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 19,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "rogue",
+        "name": "Gabriel Santiago",
+        "subname": "The Consummate Professional",
+        "back_name": "Gabriel Santiago",
+        "traits": "Cyborg. Criminal.",
+        "text": "[reaction] After a location is put into play: Place 1 resource <i>(from the token pool)</i> on it, as a mark.\n[reaction] When you successfully investigate a location, discard 1 mark from that location: Instead of discovering a clue, gain 1 resource for each point you succeeded by, to a maximum of 5.\n[elder_sign] effect: +2. Place 1 mark on your location.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, non-permanent [[Talent]] cards level 0-2, [[Trick]] cards level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Inside Job, Malapert Memories, 1 random basic weakness.\n<b>Additional Setup</b>: After putting locations into play, place 1 resource <i>(from the token pool)</i> on each location, as a mark.",
+        "back_flavor": "Gabriel Santiago steals for only one reason. He's a professional, and professionals get paid. From the undercity slums to luxury suites high above plaza level, Gabriel has clawed his way up with nothing but skill, patience, and a complete lack of remorse. The jobs aren't personal—they're just business. But there's always something bigger, something better. A nicer suit. A faster hopper. A higher floor. He lives the biggest lesson of wealth: it doesn't matter how much you have, it's never enough.",
+        "health": 8,
+        "sanity": 6,
+        "skill_willpower": 1,
+        "skill_intellect": 4,
+        "skill_combat": 3,
+        "skill_agility": 4,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365704/GabrielSantiago_Front_bo5j66.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450764/019-GabrielSantiago_nqh5rg.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365520/GabrielSantiago_Back_pu1gf2.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450764/019-GabrielSantiago_nqh5rg.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "rogue",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "trait": [
+              "Talent"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          },
+          {
+            "trait": [
+              "Trick"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_555, card:twoa_556, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_555",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 20,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 2,
+        "name": "Inside Job",
+        "traits": "Trick. Illicit.",
+        "text": "Gabriel Santiago deck only.\n<b>Parley.</b> Choose a non-[[Elite]] enemy at your location. Test [intellect] (X), where X is the chosen enemy's combined damage and horror values. If you succeed, discard that enemy and gain 1 resource for each point you succeeded by, to a maximum of 5.",
+        "skill_intellect": 1,
+        "skill_agility": 1,
+        "skill_wild": 1,
+        "illustrator": "Benjamin Giletti",
+        "restrictions": "investigator:twoa_554",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365709/InsideJob_Front_gxjhww.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450767/020-InsideJob_l0qrkb.jpg"
+      },
+      {
+        "code": "twoa_556",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 21,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Malapert Memories",
+        "traits": "Flaw.",
+        "text": "<b>Revelation</b> - Put Malapert Memories into play in your threat area.\n<b>Forced</b> - If you would succeed at a test by 3 or more: You automatically fail, instead.\n[free]: Move 1 mark from your location to Malapert Memories. Then, if there are 3 marks on Malapert Memories, discard it.",
+        "illustrator": "Owen Sinodov",
+        "restrictions": "investigator:twoa_554",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365542/MalapertMemories_Front_k9mvjy.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450770/021-MalapertMemories_qtxg8w.jpg"
+      },
+      {
+        "code": "twoa_557",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 22,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "rogue",
+        "name": "Armand \"Geist\" Walker",
+        "subname": "The Tech Lord",
+        "back_name": "Armand \"Geist\" Walker",
+        "traits": "G-Mod. Criminal.",
+        "text": "[free] During a skill test you are performing, discard an asset you control: You get +2 skill value for this test. If the discarded asset was an [[Item]] or [[Vehicle]], gain 2 resources. If the discarded asset was an [[Ally]] or [[Connection]], draw your set-aside \"I know just the guy...\" (Limit once per phase.)\n[elder_sign] effect: +1. Draw your set-aside \"I know just the guy...\"",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, up to 10 combined levels of level 1-5 cards from other classes.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Supplier, Raymond Flint, \"I know just the guy...\", 1 random basic weakness.\n<b>Additional Setup</b>: You begin each game with \"I know just the guy...\" set aside, out of play.",
+        "back_flavor": "What sort of figure rises to the top of a secretive, chaotic, criminal organization like Los Muertos? One with a head for logistics. While the gang's in no danger of running out of street toughs, fences, stim dealers, thieves, runners, and enforcers, it has only one tech lord, Armand \"Geist\" Walker. He's the man who makes things happen. Without his influence, the gang would not enjoy all the power it wields.",
+        "health": 8,
+        "sanity": 6,
+        "skill_willpower": 2,
+        "skill_intellect": 3,
+        "skill_combat": 4,
+        "skill_agility": 3,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365497/ArmandGeistWalker_Front_bwqyip.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450772/022-ArmandGeistWalker_o8lmbu.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365495/ArmandGeistWalker_Back_kbqlbi.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450772/022-ArmandGeistWalker_o8lmbu.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "rogue",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "guardian",
+              "seeker",
+              "mystic",
+              "survivor"
+            ],
+            "level": {
+              "min": 1,
+              "max": 5
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_558, card:twoa_559, card:twoa_560, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_558",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 23,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 1,
+        "name": "The Supplier",
+        "traits": "Connection. Illicit.",
+        "text": "Armand \"Geist\" Walker deck only.\n[action] Exhaust The Supplier: Search the top 3 cards of your deck for an asset. You may play it. If it's an [[Ally]], [[Connection]], [[Item]], or [[Vehicle]], reduce its cost by 2. Shuffle your deck.",
+        "skill_intellect": 1,
+        "skill_combat": 1,
+        "skill_agility": 1,
+        "skill_wild": 1,
+        "illustrator": "Samuel R. Shimota",
+        "restrictions": "investigator:twoa_557",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453521/TheSupplier_Front_djdfoj.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450777/023-TheSupplier_qj1zsu.jpg"
+      },
+      {
+        "code": "twoa_559",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 24,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 1,
+        "name": "\"I know just the guy...\"",
+        "traits": "Favor. Trick.",
+        "text": "Fast. Play when you fail a skill test.\nCancel all effects of the failed test.\n<b>Forced</b> - When \"I know just the guy...\" would be discarded from anywhere: Set it aside, out of play, instead.",
+        "illustrator": "Nasrul Hakim",
+        "restrictions": "investigator:twoa_557",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365532/Iknowjusttheguy_Front_pzohi8.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450775/024-Iknowjusttheguy_frxvru.jpg"
+      },
+      {
+        "code": "twoa_560",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 25,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "enemy",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Raymond Flint",
+        "traits": "Humanoid. Detective.",
+        "text": "Spawn - Any connecting location (empty, if able).\nPrey - [[Criminal]] investigators only.\nHunter.\n<b>Forced</b> - After an asset leaves play: Ready Raymond Flint. He moves and attacks as if it were the enemy phase (without exhausting).",
+        "enemy_fight": 3,
+        "health": 3,
+        "enemy_evade": 2,
+        "enemy_damage": 2,
+        "enemy_horror": 0,
+        "illustrator": "Matt Zeilinger",
+        "restrictions": "investigator:twoa_557",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365660/RaymondFlint_Front_rncmgm.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450780/025-RaymondFlint_pl3tri.jpg"
+      },
+      {
+        "code": "twoa_561",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 26,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "mystic",
+        "name": "Quetzal",
+        "subname": "The Free Spirit",
+        "back_name": "Quetzal",
+        "traits": "G-Mod. Drifter.",
+        "text": "[reaction] When you would test your [intellect], [combat], or [agility], spend 1 charge or secret from a card you control: Test your [willpower], instead. (Limit once per round.)\n[elder_sign] effect: +2. Spend up to 2 resources to replenish that many charges or secrets among assets you control.",
+        "flavor": "\"Why should we be slaves to our genetic heritage?\"",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, [[Occult]] cards level 0-4, [[Science]] cards level 0-4, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Data Folding, Sequencing Failure, 1 random basic weakness.",
+        "back_flavor": "Quetzal shredded the final layer of ICE, expecting a cascade of payroll files. Instead, the interface registered a repulsive, oily sensation. It wasn't code; it was a swirling helix that pulsed with unnerving energy. Caution screamed through Quetzal's nervous system, but the thrill of the utterly un-inherited was overpowering. It called them in, promising power—and undoubtedly, ruin. Without a second thought, Quetzal tightened their grip, manually bypassing the system's final error warnings. The body is just a vessel. A starting point. And this strange, new lifeform was the starting point for a whole new evolution.",
+        "health": 7,
+        "sanity": 7,
+        "skill_willpower": 5,
+        "skill_intellect": 2,
+        "skill_combat": 3,
+        "skill_agility": 2,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365658/Quetzal_Front_i1h0b9.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450783/026-Quetzal_xzj3ei.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365655/Quetzal_Back_bmbto2.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450783/026-Quetzal_xzj3ei.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "mystic",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "trait": [
+              "Occult"
+            ],
+            "level": {
+              "min": 0,
+              "max": 4
+            }
+          },
+          {
+            "trait": [
+              "Science"
+            ],
+            "level": {
+              "min": 0,
+              "max": 4
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_562, card:twoa_563, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_562",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 27,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 1,
+        "name": "Data Folding",
+        "traits": "Ritual.",
+        "text": "Quetzal deck only.\n[reaction] When your turn begins: You gain 1 resource for each of your arcane slots that is empty.\n[free] Remove Data Folding from the game: Draw 1 card for each of your arcane slots that is empty.",
+        "skill_willpower": 2,
+        "illustrator": "Scott Uminga",
+        "restrictions": "investigator:twoa_561",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365504/DataFolding_Front_ff0qx6.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450785/027-DataFolding_bogght.jpg"
+      },
+      {
+        "code": "twoa_563",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 28,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Sequencing Failure",
+        "traits": "Injury.",
+        "text": "<b>Revelation</b> - Put Sequencing Failure into play in your threat area, with 3 resources on it.\n[action]: Test [intellect], [combat], or [agility] (4). If you succeed, remove 1 resource from Sequencing Failure.\n<b>Forced</b> - When the game ends, if there are any resources on Sequencing Failure: You earn 2 fewer experience for this scenario.",
+        "illustrator": "Adam S. Doyle",
+        "restrictions": "investigator:twoa_561",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365714/SequencingFailure_Front_wnvz51.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450788/028-SequencingFailure_ae33cv.jpg"
+      },
+      {
+        "code": "twoa_564",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 29,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "mystic",
+        "name": "Tāo Salonga",
+        "subname": "The Telepresence Magician",
+        "back_name": "Tāo Salonga",
+        "traits": "Sorcerer.",
+        "text": "[reaction] After an asset enters your play area: Attach it to Tāo Salonga or switch it with an attached asset. (Limit 2 attached assets.)\nEach investigator can trigger [action], [free], and [reaction] abilities on each asset attached to Tāo Salonga regardless of location.\n[elder_sign] effect: +1. If you succeed, increase the limit on Tāo's [reaction] ability by 1 this game.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to 10 combined levels of level 1-5 cards from other classes.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): DZMZ Optimizer, Heartstrings, 1 random basic weakness.",
+        "back_flavor": "From viral pranks to back-alley miracles, Tāo Salonga helps the people the corps forgot—one servo, one stolen server cycle at a time. But while skimming corp traffic for a bit of harmless fun, he found something he wasn't supposed to see: a hidden fork in NBN's surveillance net. Something not for ratings, or intel, or even blackmail—something more mysterious. Data vanishing into a system no one will admit exists. People flagged before anything went wrong. One breadcrumb led to another, and now he's deep in the dark architecture of something far bigger than he could ever have imagined.",
+        "health": 6,
+        "sanity": 8,
+        "skill_willpower": 4,
+        "skill_intellect": 3,
+        "skill_combat": 3,
+        "skill_agility": 2,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Benjamin Giletti (edited)",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453527/ToSalonga_Front_rzh7nd.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450791/029-ToSalonga_dwbph0.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453523/ToSalonga_Back_ia6di8.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450791/029-ToSalonga_dwbph0.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "mystic",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "guardian",
+              "seeker",
+              "rogue",
+              "survivor"
+            ],
+            "level": {
+              "min": 1,
+              "max": 5
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_565, card:twoa_566, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_565",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 30,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 1,
+        "name": "DZMZ Optimizer",
+        "traits": "Item.",
+        "text": "Tāo Salonga deck only.\nYou have 1 additional hand, accessory, or arcane slot.\n[reaction] When you play an asset that takes up a slot, exhaust DZMZ Optimizer: Reduce the cost of that card by 1.",
+        "skill_willpower": 1,
+        "skill_wild": 1,
+        "illustrator": "Benjamin Giletti",
+        "restrictions": "investigator:twoa_564",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365509/DZMZOptimizer_Front_i6pa30.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450794/030-DZMZOptimizer_pybgjw.jpg"
+      },
+      {
+        "code": "twoa_566",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 31,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Heartstrings",
+        "traits": "Flaw. Task.",
+        "text": "<b>Revelation</b> - Attach Heartstrings to any location (a connecting location, if able).\nTreat the text box of each asset attached to your investigator as blank.\n[action]: Test any skill (4). If you succeed, discard Heartstrings.",
+        "illustrator": "Liiga Smilshkalne",
+        "restrictions": "investigator:twoa_564",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365529/Heartstrings_Front_cirf0e.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450798/031-Heartstrings_yjuakd.jpg"
+      },
+      {
+        "code": "twoa_567",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 32,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "survivor",
+        "name": "Hoshiko Shiro",
+        "subname": "The Untold Protagonist",
+        "back_name": "Hoshiko Shiro",
+        "traits": "Dreamer.",
+        "text": "[reaction] After you succeed at a skill test of difficulty 4 or greater: Gain 2 resources and swap this card with its bonded [[Resolute]] version.\n[elder_sign] effect: You automatically succeed. Resolve the above [reaction] ability.",
+        "flavor": "\"Please, let me have this dream.\"",
+        "back_text": "<b>Deck Size</b>: 30 plus, at deck creation, choose 8-14 for the size of a separate \"spellbook deck\" <i>(for a total of 38-44)</i>.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, [[Spell]] cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Keiko, Fencer Fueno, Mystic Maemi, Paladin Poemu, Trickster Taka, Isolation, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Ally]] assets.\n<b>Additional Requirements</b>: Your deck must include exactly as many [[Spell]] cards as the size of your spellbook deck. During the setup of each scenario, you must shuffle each [[Spell]] card from your deck into a separate spellbook deck, then place Isolation on the bottom of the spellbook deck.",
+        "back_flavor": "On the Net you can be who you want to be. Hoshiko wants to be a hero for her friends. Addicted to data, she would rather spend time on the Net than in meatspace, but a constant output of emotional energy is draining. Quiet times and feelings of failure can bring Hoshiko back to earth. But even in darkness there is hope, and there is no pit Hoshiko can't climb out of with the help of her friends.",
+        "health": 6,
+        "sanity": 6,
+        "skill_willpower": 3,
+        "skill_intellect": 3,
+        "skill_combat": 3,
+        "skill_agility": 3,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Luminita Pham (edited)",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365530/HoshikoShiroNorm_Front_dpx8r1.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450801/032-HoshikoShiro_inppav.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771451056/HoshikoShiro_Back_hisz83.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450801/032-HoshikoShiro_inppav.jpg",
+        "deck_options": [
+          {
+            "not": true,
+            "trait": [
+              "Ally"
+            ]
+          },
+          {
+            "faction": [
+              "survivor",
+              "mystic"
+            ],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": [
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          }
+        ],
+        "side_deck_options": [
+          {
+            "trait": [
+              "Spell"
+            ],
+            "faction": [
+                "neutral",
+                "guardian",
+                "mystic",
+                "rogue",
+                "seeker",
+                "survivor"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            },
+            "deck_size_select": [
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14"
+            ]
+          }
+        ],
+        "side_deck_requirements": "card:twoa_574",
+        "deck_requirements": "size:30, card:twoa_569, card:twoa_570, card:twoa_571, card:twoa_572, card:twoa_573, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_568",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 33,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "mystic",
+        "name": "Hoshiko Shiro",
+        "subname": "Mahou Shoujo",
+        "traits": "Chosen. Resolute.",
+        "text": "Bonded (Hoshiko Shiro).\n<b>Forced</b> - When you end your turn: Spend 1 resource to search the top 2 cards of your spellbook deck, draw 1 of them, and place the rest on the bottom. If you cannot, swap this card with its bonded non-[[Resolute]] version.\n[elder_sign] effect: +1. You may put a [[Spell]] card from your discard pile on top of your spellbook deck.",
+        "health": 6,
+        "sanity": 6,
+        "skill_willpower": 5,
+        "skill_intellect": 3,
+        "skill_combat": 3,
+        "skill_agility": 3,
+        "double_sided": false,
+        "is_unique": true,
+        "illustrator": "Luminita Pham (edited)",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365489/HoshikoShiro_Front_lz2po9.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450804/033-HoshikoShiro_adcajw.jpg"
+      },
+      {
+        "code": "twoa_569",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 34,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 2,
+        "name": "Keiko",
+        "traits": "Item. Console.",
+        "text": "Keiko starts in play. Hoshiko Shiro deck only.\nYou have 1 additional ally slot, which can only be used to hold [[Companion]] assets.\n[reaction] When your first turn of the game begins: Search your deck for a [[Companion]] and add it to your hand. Shuffle your deck.",
+        "health": 2,
+        "sanity": 2,
+        "illustrator": "Olie Boldador (edited)",
+        "restrictions": "investigator:twoa_567",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365490/Keiko_Front_l3qjcm.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450807/034-Keiko_repbnw.jpg"
+      },
+      {
+        "code": "twoa_570",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 35,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 0,
+        "name": "Fencer Fueno",
+        "traits": "Companion. Program.",
+        "text": "Hoshiko Shiro deck only.\nFencer Fueno does not ready during the upkeep phase unless you spend 1 resource.\n[reaction] When you perform a successful attack on a [[Spell]] card, exhaust Fencer Fueno: Deal +1 damage for that attack.",
+        "slot": "Ally",
+        "health": 1,
+        "sanity": null,
+        "skill_combat": 1,
+        "skill_wild": 2,
+        "illustrator": "Izzy Pruett (edited)",
+        "restrictions": "investigator:twoa_567",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365514/FencerFueno_Front_vn9lk4.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450810/035-FencerFueno_an1rxo.jpg"
+      },
+      {
+        "code": "twoa_571",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 36,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 0,
+        "name": "Mystic Maemi",
+        "traits": "Companion. Program.",
+        "text": "Hoshiko Shiro deck only.\nMystic Maemi does not ready during the upkeep phase unless you spend 1 resource.\n[action] Exhaust Mystic Maemi: Add 1 charge to a [[Spell]] asset you control.",
+        "slot": "Ally",
+        "health": null,
+        "sanity": 1,
+        "skill_intellect": 1,
+        "skill_wild": 2,
+        "illustrator": "Izzy Pruett (edited)",
+        "restrictions": "investigator:twoa_567",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365552/MysticMaemi_Front_kh2vx7.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450813/036-MysticMaemi_mwpcns.jpg"
+      },
+      {
+        "code": "twoa_572",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 37,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 0,
+        "name": "Paladin Poemu",
+        "traits": "Companion. Program.",
+        "text": "Hoshiko Shiro deck only.\nPaladin Poemu does not ready during the upkeep phase unless you spend 1 resource.\n<b>Forced</b> - When damage and/or horror is placed on Paladin Poemu: You must either exhaust Paladin Poemu or assign that damage and/or horror elsewhere.",
+        "slot": "Ally",
+        "health": 3,
+        "sanity": 2,
+        "skill_willpower": 1,
+        "skill_wild": 2,
+        "illustrator": "Izzy Pruett",
+        "restrictions": "investigator:twoa_567",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365558/PaladinPoemu_Front_gv9riw.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450816/037-PaladinPoemu_bxo5vr.jpg"
+      },
+      {
+        "code": "twoa_573",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 38,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 0,
+        "name": "Trickster Taka",
+        "traits": "Companion. Program.",
+        "text": "Hoshiko Shiro deck only.\nFast. Uses (2 charges).\nTrickster Taka does not ready during the upkeep phase unless you spend 1 resource.\n[free] Exhaust Trickster Taka and spend 1 charge from an asset you control: <b>Evade</b>. You may use [willpower] instead of [agility] for this evasion.",
+        "slot": "Ally",
+        "health": null,
+        "sanity": 1,
+        "skill_agility": 1,
+        "skill_wild": 2,
+        "illustrator": "Izzy Pruett",
+        "restrictions": "investigator:twoa_567",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453530/TricksterTaka_Front_sof6dp.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450819/038-TricksterTaka_cgsdyc.jpg"
+      },
+      {
+        "code": "twoa_574",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 39,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Isolation",
+        "traits": "Flaw.",
+        "text": "<b>Forced</b> - When you search your spellbook deck and this card is among the searched cards: Swap your investigator with its bonded non-[[Resolute]] version and put Isolation into play in your threat area.\nYou cannot trigger your investigator's [reaction] ability.\n[action] Spend 2 resources: Place Isolation on the bottom of Hoshiko Shiro's spellbook deck.",
+        "illustrator": "Photo Tammy Gann Unsplash. Deep Dream (edited)",
+        "restrictions": "investigator:twoa_567",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365537/Isolation_Front_d1qe6t.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450822/039-Isolation_omrlgt.jpg"
+      },
+      {
+        "code": "twoa_575",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 40,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "survivor",
+        "name": "Zahya Sadeghi",
+        "subname": "The Versatile Smuggler",
+        "back_name": "Zahya Sadeghi",
+        "traits": "Cyborg. Criminal. Entrepreneur.",
+        "text": "[reaction] When you succeed at a skill test by 0: Choose one that hasn't been chosen this round:\n* Gain 1 resource.\n* Draw 1 card.\n[elder_sign] effect: X. You choose X between -4 and +2.",
+        "flavor": "\"Braggarts chase big heists.\nPatience enriches skimming\nfractions of a credit at a time.\"",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to 10 combined levels of level 1-5 cards from other classes.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zahya's Ledger, \"More corp interference...\", 1 random basic weakness.",
+        "back_flavor": "Zahya Sadeghi built her business on knowing the right people, asking the right questions... and ignoring the occasional inconvenient law. Shipping magnate, smuggler, single mother—she keeps her family safe the same way she keeps her profits high: by staying two steps ahead. But now, something's wrong. Bioroids are malfunctioning in ways that shouldn't be possible, disrupting shipments, damaging goods, and leaving bodies in their wake. Something is behind this, and if Zahya wants to protect her business, her family, and the delicate balance of the underworld she thrives in, she'll have to find out who—before the problem finds her first.",
+        "health": 8,
+        "sanity": 6,
+        "skill_willpower": 2,
+        "skill_intellect": 3,
+        "skill_combat": 3,
+        "skill_agility": 4,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Benjamin Giletti (edited)",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453541/ZahyaSadeghi_Front_ac1toh.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450825/040-ZahyaSadeghi_k9ixv0.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453537/ZahyaSadeghi_Back_tlw48v.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450825/040-ZahyaSadeghi_k9ixv0.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "survivor",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "guardian",
+              "seeker",
+              "rogue",
+              "mystic"
+            ],
+            "level": {
+              "min": 1,
+              "max": 5
+            }
+          }
+        ],
+        "deck_requirements": "size:30, card:twoa_576, card:twoa_577, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_576",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 41,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": 2,
+        "name": "Zahya's Ledger",
+        "traits": "Item. Illicit.",
+        "text": "Zahya Sadeghi deck only. Uses (4 secrets).\n[reaction] After you reveal a chaos token during a skill test you are performing, spend 1 secret and exhaust Zahya's Ledger: Commit a card to this skill test.",
+        "skill_intellect": 1,
+        "skill_agility": 1,
+        "skill_wild": 1,
+        "illustrator": "David Lei",
+        "restrictions": "investigator:twoa_575",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453544/ZahyasLedger_Front_bmvvnh.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450828/041-ZahyasLedger_mm7qrd.jpg"
+      },
+      {
+        "code": "twoa_577",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 42,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "\"More corp interference...\"",
+        "traits": "Scheme.",
+        "text": "<b>Revelation</b> - Attach \"More corp interference...\" to the location farthest from you.\n[action]: Test [agility] (4). If you succeed by 0, discard \"More corp interference...\".\n<b>Forced</b> - When the game ends, if \"More corp interference...\" is in play: Zahya Sadeghi suffers 1 mental trauma.",
+        "illustrator": "David Lei",
+        "restrictions": "investigator:twoa_575",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365550/Morecorpinterference_Front_yyjgh7.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450831/042-Morecorpinterference_jwrvya.jpg"
+      },
+      {
+        "code": "twoa_578",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 43,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "survivor",
+        "name": "MaxX",
+        "subname": "The Punk",
+        "back_name": "MaxX",
+        "traits": "G-Mod. Drifter.",
+        "text": "<b>Forced</b> - At the start of the investigation phase: Discard the top 2 cards of your deck. Draw 1 card.\n[free] Remove 2 cards in your discard pile from the game: Choose a random non-weakness card in your discard pile and attach it facedown to an encounter card in play or in limbo, as a virus. You can commit it to skill tests on or against the attached card. (Limit once per round.)\n[elder_sign] effect: +2. You may choose a card you removed from the game and place it in your discard pile.",
+        "back_text": "<b>Deck Size</b>: 40.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to 10 different skills (by title) from other classes level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Amped Up, Day Job, 1 random basic weakness.",
+        "back_flavor": "An angry, young g-mod streetbanger who has never appeared to live up to expectations, MaxX works a long, gray, tightly structured day job in MegaBuy customer service that fuels her appetite for nihilistic after-hours release. For MaxX, the act of shredding corporate servers is a cathartic release akin to the scratchy blare of a power chord pushed through layers of feedback. Punks ripped apart the overly elaborate guitar solos that preceded their reductive songs, they thrashed and drummed and howled. Like them, MaxX expresses her rebuke of societal norms by processing code that reduces servers to nothingness. Hers are acts of pure, wanton destruction.",
+        "health": 7,
+        "sanity": 7,
+        "skill_willpower": 3,
+        "skill_intellect": 2,
+        "skill_combat": 2,
+        "skill_agility": 3,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Adam Schumpert",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365548/MaxX_Front_yyzhzg.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450834/043-MaxX_sc4s5k.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365545/MaxX_Back_ljgcvn.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450834/043-MaxX_sc4s5k.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "survivor",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": [
+              "guardian",
+              "seeker",
+              "rogue",
+              "mystic"
+            ],
+            "type": [
+              "skill"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            },
+            "limit": 10
+          }
+        ],
+        "deck_requirements": "size:40, card:twoa_579, card:twoa_580, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_579",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 44,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "event",
+        "faction_code": "neutral",
+        "cost": 1,
+        "name": "Amped Up",
+        "traits": "Gambit. Illicit.",
+        "text": "MaxX deck only.\nFast. Play during any [free] player window.\nDraw 3 cards. Take 1 horror.\n[reaction] After you discard Amped Up from your deck: Attach it facedown to an encounter card in play or in limbo, as a virus. You can commit it to skill tests on or against the attached card.",
+        "skill_wild": 3,
+        "illustrator": "Wylie Beckert (edited)",
+        "restrictions": "investigator:twoa_578",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365493/AmpedUp_Front_rpnlb1.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450837/044-AmpedUp_kgjtvm.jpg"
+      },
+      {
+        "code": "twoa_580",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 45,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Day Job",
+        "traits": "Task.",
+        "text": "<b>Revelation</b> - Put Day Job into play in your threat area.\nYou cannot attach viruses to other cards.\n[action]: Test [willpower] (3). If you succeed, discard Day Job and gain 2 resources.\n<b>Forced</b> - After you discard Day Job from your deck: Draw it.",
+        "illustrator": "Matt Zeilinger",
+        "restrictions": "investigator:twoa_578",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365505/DayJob_Front_g9gsge.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450841/045-DayJob_mdzdda.jpg"
+      },
+      {
+        "code": "twoa_581",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 46,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "investigator",
+        "faction_code": "neutral",
+        "name": "Fenris",
+        "subname": "The DJ",
+        "back_name": "Fenris",
+        "traits": "G-Mod. Drifter. Performer.",
+        "text": "<b>Forced</b> - At the start of the round: Shuffle your Wylder deck.\nFenris has the base skills of the top card of your Wylder deck.\nFenris gains the printed text box of the top card of your Wylder deck.",
+        "back_text": "<b>Deck Size</b>: 40.\n<b>Secondary Investigator Choices</b>: At deck creation, choose four other investigators that don't share any classes with each other.\n<b>Deckbuilding Options</b>: Neutral cards level 0-5, for each of your chosen investigators, 10 cards following that investigator's deckbuilding options.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Wyldside, Ireress, 1 random basic weakness.\n<b>Additional Setup</b>: You begin each game by shuffling the chosen investigators into a separate \"Wylder\" deck, each card faceup.",
+        "back_flavor": "Wyldside isn't just a club—it's a refuge. A place where g-modders can be themselves, where fur, feathers, and fangs are part of the dress code. But beneath the music, something darker lurks. Wylders have been disappearing. Whispers of hunters, corps, or something worse. Fenris won't let it slide. This is his pack, his home, and if someone's preying on Wyldside, they're about to find out exactly how sharp the pack's teeth are.",
+        "health": 7,
+        "sanity": 7,
+        "skill_willpower": 2,
+        "skill_intellect": 2,
+        "skill_combat": 2,
+        "skill_agility": 2,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "Matt Zeilinger",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365518/Fenris_Front_lkh9qj.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450846/046-Fenris_q4h91c.jpg",
+        "back_image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365517/Fenris_Back_jamjg6.jpg",
+        "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450846/046-Fenris_q4h91c.jpg",
+        "deck_options": [
+          {
+            "faction": [
+              "guardian",
+              "seeker",
+              "rogue",
+              "mystic",
+              "survivor",
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          }
+        ],
+        "deck_requirements": "size:40, card:twoa_582, card:twoa_583, random:subtype:basicweakness"
+      },
+      {
+        "code": "twoa_582",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 47,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "cost": null,
+        "permanent": true,
+        "name": "Wyldside",
+        "traits": "Connection.",
+        "text": "Permanent. Fenris deck only.\n[action] Exhaust Wyldside: Draw 2 cards.",
+        "flavor": "\"Best place to go when you want to get your mind out of the gutter and take it inside.\"",
+        "illustrator": "Henning Ludvigsen",
+        "restrictions": "investigator:twoa_581",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453533/Wyldside_Front_dvnflr.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450849/047-Wyldside_peyoua.jpg"
+      },
+      {
+        "code": "twoa_583",
+        "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "position": 48,
+        "quantity": 1,
+        "deck_limit": 1,
+        "type_code": "enemy",
+        "faction_code": "neutral",
+        "subtype_code": "weakness",
+        "name": "Ireress",
+        "traits": "Program. Humanoid.",
+        "text": "<b>Cyberspace Spawn</b>, if able. Otherwise, <b>Meatspace Spawn.</b>\n<b>Prey</b> - [[Drifter]] investigators only.\nHunter. Swarming 3.\n[free] Spend 2 resources: Take a fight or evade action against Ireress.",
+        "enemy_fight": 3,
+        "health": 1,
+        "enemy_evade": 2,
+        "enemy_damage": 1,
+        "enemy_horror": 1,
+        "illustrator": "Chris Newman",
+        "restrictions": "investigator:twoa_581",
+        "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365535/Ireress_Front_jvx2zq.jpg",
+        "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450852/048-Ireress_pslnci.jpg"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
+        "name": "The Worlds of Android Investigator Expansion",
+        "date_release": "2026-02-17",
+        "icon_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771454184/MOpus_Set_Symbol_small_v7npcl.png"
+      }
+    ]
+  }
+}
