@@ -8,9 +8,7 @@
     "external_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3618294973",
     "banner_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771454692/adam-schumpert-netrunner-revised-cover-adamschumpert-small_kb6r47.jpg",
     "banner_credit": "Adam Schumpert",
-    "types": [
-      "investigators"
-    ],
+    "types": ["investigators"],
     "status": "beta",
     "date_updated": "2026-02-17T00:00:00.000"
   },
@@ -47,10 +45,7 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450726/001-SunnyLebeau_c3mzui.jpg",
         "deck_options": [
           {
-            "faction": [
-              "guardian",
-              "neutral"
-            ],
+            "faction": ["guardian", "neutral"],
             "level": {
               "min": 0,
               "max": 5
@@ -58,12 +53,8 @@
           },
           {
             "name": "Secondary Class 1",
-            "faction_select": [
-              "seeker",
-              "rogue",
-              "mystic",
-              "survivor"
-            ],
+            "id": "secondary_class",
+            "faction_select": ["seeker", "rogue", "mystic", "survivor"],
             "level": {
               "min": 0,
               "max": 2
@@ -71,12 +62,8 @@
           },
           {
             "name": "Secondary Class 2",
-            "faction_select": [
-              "seeker",
-              "rogue",
-              "mystic",
-              "survivor"
-            ],
+            "id": "secondary_class_2",
+            "faction_select": ["seeker", "rogue", "mystic", "survivor"],
             "level": {
               "min": 0,
               "max": 2
@@ -150,22 +137,14 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450731/004-ReinaRoja_tdbr0c.jpg",
         "deck_options": [
           {
-            "faction": [
-              "guardian",
-              "neutral"
-            ],
+            "faction": ["guardian", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "seeker",
-              "rogue",
-              "mystic",
-              "survivor"
-            ],
+            "faction": ["seeker", "rogue", "mystic", "survivor"],
             "level": {
               "min": 1,
               "max": 5
@@ -341,22 +320,14 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450750/013-HayleyKaplan_g1wrmj.jpg",
         "deck_options": [
           {
-            "faction": [
-              "seeker",
-              "neutral"
-            ],
+            "faction": ["seeker", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "guardian",
-              "rogue",
-              "mystic",
-              "survivor"
-            ],
+            "faction": ["guardian", "rogue", "mystic", "survivor"],
             "level": {
               "min": 0,
               "max": 1
@@ -431,22 +402,14 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450757/016-RielleKitPeddler_y20bat.jpg",
         "deck_options": [
           {
-            "faction": [
-              "seeker",
-              "neutral"
-            ],
+            "faction": ["seeker", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "guardian",
-              "rogue",
-              "mystic",
-              "survivor"
-            ],
+            "faction": ["guardian", "rogue", "mystic", "survivor"],
             "level": {
               "min": 1,
               "max": 5
@@ -523,28 +486,21 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450764/019-GabrielSantiago_nqh5rg.jpg",
         "deck_options": [
           {
-            "faction": [
-              "rogue",
-              "neutral"
-            ],
+            "faction": ["rogue", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "trait": [
-              "Talent"
-            ],
+            "trait": ["Talent"],
             "level": {
               "min": 0,
               "max": 2
             }
           },
           {
-            "trait": [
-              "Trick"
-            ],
+            "trait": ["Trick"],
             "level": {
               "min": 0,
               "max": 2
@@ -620,22 +576,14 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450772/022-ArmandGeistWalker_o8lmbu.jpg",
         "deck_options": [
           {
-            "faction": [
-              "rogue",
-              "neutral"
-            ],
+            "faction": ["rogue", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "guardian",
-              "seeker",
-              "mystic",
-              "survivor"
-            ],
+            "faction": ["guardian", "seeker", "mystic", "survivor"],
             "level": {
               "min": 1,
               "max": 5
@@ -735,28 +683,21 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450783/026-Quetzal_xzj3ei.jpg",
         "deck_options": [
           {
-            "faction": [
-              "mystic",
-              "neutral"
-            ],
+            "faction": ["mystic", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "trait": [
-              "Occult"
-            ],
+            "trait": ["Occult"],
             "level": {
               "min": 0,
               "max": 4
             }
           },
           {
-            "trait": [
-              "Science"
-            ],
+            "trait": ["Science"],
             "level": {
               "min": 0,
               "max": 4
@@ -830,22 +771,14 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450791/029-ToSalonga_dwbph0.jpg",
         "deck_options": [
           {
-            "faction": [
-              "mystic",
-              "neutral"
-            ],
+            "faction": ["mystic", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "guardian",
-              "seeker",
-              "rogue",
-              "survivor"
-            ],
+            "faction": ["guardian", "seeker", "rogue", "survivor"],
             "level": {
               "min": 1,
               "max": 5
@@ -922,24 +855,17 @@
         "deck_options": [
           {
             "not": true,
-            "trait": [
-              "Ally"
-            ]
+            "trait": ["Ally"]
           },
           {
-            "faction": [
-              "survivor",
-              "mystic"
-            ],
+            "faction": ["survivor", "mystic"],
             "level": {
               "min": 0,
               "max": 3
             }
           },
           {
-            "faction": [
-              "neutral"
-            ],
+            "faction": ["neutral"],
             "level": {
               "min": 0,
               "max": 5
@@ -948,30 +874,20 @@
         ],
         "side_deck_options": [
           {
-            "trait": [
-              "Spell"
-            ],
+            "trait": ["Spell"],
             "faction": [
-                "neutral",
-                "guardian",
-                "mystic",
-                "rogue",
-                "seeker",
-                "survivor"
+              "neutral",
+              "guardian",
+              "mystic",
+              "rogue",
+              "seeker",
+              "survivor"
             ],
             "level": {
               "min": 0,
               "max": 5
             },
-            "deck_size_select": [
-              "8",
-              "9",
-              "10",
-              "11",
-              "12",
-              "13",
-              "14"
-            ]
+            "deck_size_select": ["8", "9", "10", "11", "12", "13", "14"]
           }
         ],
         "side_deck_requirements": "card:twoa_574",
@@ -1156,22 +1072,14 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450825/040-ZahyaSadeghi_k9ixv0.jpg",
         "deck_options": [
           {
-            "faction": [
-              "survivor",
-              "neutral"
-            ],
+            "faction": ["survivor", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "guardian",
-              "seeker",
-              "rogue",
-              "mystic"
-            ],
+            "faction": ["guardian", "seeker", "rogue", "mystic"],
             "level": {
               "min": 1,
               "max": 5
@@ -1247,25 +1155,15 @@
         "back_thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450834/043-MaxX_sc4s5k.jpg",
         "deck_options": [
           {
-            "faction": [
-              "survivor",
-              "neutral"
-            ],
+            "faction": ["survivor", "neutral"],
             "level": {
               "min": 0,
               "max": 5
             }
           },
           {
-            "faction": [
-              "guardian",
-              "seeker",
-              "rogue",
-              "mystic"
-            ],
-            "type": [
-              "skill"
-            ],
+            "faction": ["guardian", "seeker", "rogue", "mystic"],
+            "type": ["skill"],
             "level": {
               "min": 0,
               "max": 5
