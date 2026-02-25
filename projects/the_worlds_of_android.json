@@ -874,23 +874,19 @@
         ],
         "side_deck_options": [
           {
+            "name": "Deck Size",
+            "faction": [],
+            "deck_size_select": ["8", "9", "10", "11", "12", "13", "14"]
+          },
+          {
             "trait": ["Spell"],
-            "faction": [
-              "neutral",
-              "guardian",
-              "mystic",
-              "rogue",
-              "seeker",
-              "survivor"
-            ],
             "level": {
               "min": 0,
               "max": 5
-            },
-            "deck_size_select": ["8", "9", "10", "11", "12", "13", "14"]
+            }
           }
         ],
-        "side_deck_requirements": "card:twoa_574",
+        "side_deck_requirements": "size:8, card:twoa_574",
         "deck_requirements": "size:30, card:twoa_569, card:twoa_570, card:twoa_571, card:twoa_572, card:twoa_573, random:subtype:basicweakness"
       },
       {
