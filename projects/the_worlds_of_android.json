@@ -10,12 +10,12 @@
     "banner_credit": "Adam Schumpert",
     "types": ["investigators"],
     "status": "beta",
-    "date_updated": "2026-02-17T00:00:00.000"
+    "date_updated": "2026-03-08T00:00:00.000"
   },
   "data": {
     "cards": [
       {
-        "code": "twoa_536",
+        "code": "net00",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 1,
         "quantity": 1,
@@ -70,10 +70,10 @@
             }
           }
         ],
-        "deck_requirements": "size:40, card:twoa_537, card:twoa_538, random:subtype:basicweakness"
+        "deck_requirements": "size:40, card:twoa10002700, card:twoa10002701, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_537",
+        "code": "twoa10002700",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 2,
         "quantity": 1,
@@ -85,12 +85,12 @@
         "text": "Sunny Lebeau deck only.\n[reaction] When you take an (investigate, fight, evade, or parley) action: Gain 1 resource. (Limit once per turn for each type of action.)\n[free] During your turn, except during an action, remove Another Day, Another Paycheck from the game: Take up to 4 different actions from the following list, in any order (investigate, fight, evade, and parley).",
         "skill_wild": 2,
         "illustrator": "Caroline Gariba",
-        "restrictions": "investigator:twoa_536",
+        "restrictions": "investigator:net00",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365701/AnotherDayAnotherPaycheck_Front_g6sfd3.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450728/002-AnotherDayAnotherPaycheck_nyeyzu.jpg"
       },
       {
-        "code": "twoa_538",
+        "code": "twoa10002701",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 3,
         "quantity": 1,
@@ -102,12 +102,12 @@
         "traits": "Hazard.",
         "text": "<b>Revelation</b> - Put Employee Strike into play in your threat area.\nThe first time you perform one of the following actions (investigate, fight, evade, or parley) each round, it costs 1 additional action.\n<b>Forced</b> - At the end of your turn, if you performed none of those actions this turn: Discard Employee Strike.",
         "illustrator": "Dmitry Prosvirnin",
-        "restrictions": "investigator:twoa_536",
+        "restrictions": "investigator:net00",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365512/EmployeeStrike_Front_fmahan.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450729/003-EmployeeStrike_dlt7wo.jpg"
       },
       {
-        "code": "twoa_539",
+        "code": "net01",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 4,
         "quantity": 1,
@@ -151,10 +151,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_540, card:twoa_541, card:twoa_542, card:twoa_543, card:twoa_544, card:twoa_545, card:twoa_546, card:twoa_547, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002702, card:twoa10002703, card:twoa10002704, card:twoa10002705, card:twoa10002706, card:twoa10002707, card:twoa10002708, card:twoa10002709, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_540",
+        "code": "twoa10002702",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 5,
         "quantity": 1,
@@ -167,12 +167,12 @@
         "traits": "Item. Console.",
         "text": "Reina Roja deck only. Permanent.\nPlaying [[Caïssa]] cards does not provoke attacks of opportunity.\n[action]: Test [intellect] (X). X is the cost of the top card of your Caïssa deck. If you succeed, play the top card of your Caïssa deck, ignoring all costs. Does not provoke attacks of opportunity.",
         "illustrator": "Christina Davis",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365507/DeepRed_Front_kqswx6.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450733/005-DeepRed_pgrmug.jpg"
       },
       {
-        "code": "twoa_541",
+        "code": "twoa10002703",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 6,
         "quantity": 1,
@@ -184,12 +184,12 @@
         "traits": "Caïssa. Program.",
         "text": "Reina Roja deck only.\nAttach Pawn to your location. Limit 1 [[Caïssa]] per location.\n[free] Exhaust Pawn: You may move Pawn to a connecting location. If the final agenda is in play, you may discard Pawn to play the top card of your Caïssa deck, ignoring all costs.",
         "illustrator": "Liiga Smilshkalne",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365650/Pawn_Front_qxuatn.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450735/006-Pawn_lhtkea.jpg"
       },
       {
-        "code": "twoa_542",
+        "code": "twoa10002704",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 7,
         "quantity": 1,
@@ -201,12 +201,12 @@
         "traits": "Caïssa. Program.",
         "text": "Reina Roja deck only.\nAttach Knight to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Knight's location, exhaust Knight: Deal 1 damage to an enemy at attached location. You may move Knight to a location exactly 2 connections away.",
         "illustrator": "Christina Davis (heavily edited)",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365540/Knight_Front_e6jvqu.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450737/007-Knight_yzjscp.jpg"
       },
       {
-        "code": "twoa_543",
+        "code": "twoa10002705",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 8,
         "quantity": 1,
@@ -218,12 +218,12 @@
         "traits": "Caïssa. Program.",
         "text": "Reina Roja deck only.\nAttach Bishop to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Bishop's location, exhaust Bishop: You get +2 to a skill of your choice until the end of the phase. You may move Bishop to a location not connected to attached location.",
         "illustrator": "Adam S. Doyle",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365498/Bishop_Front_lxoano.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450740/008-Bishop_xnylqe.jpg"
       },
       {
-        "code": "twoa_544",
+        "code": "twoa10002706",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 9,
         "quantity": 1,
@@ -235,12 +235,12 @@
         "traits": "Caïssa. Program.",
         "text": "Reina Roja deck only.\nAttach Rook to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Rook's location, exhaust Rook: Move up to 2 times. You may move Rook to a connecting location up to 2 times.",
         "illustrator": "Gong Studios (heavily edited)",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365671/Rook_Front_gu8tfu.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450741/009-Rook_mkup1i.jpg"
       },
       {
-        "code": "twoa_545",
+        "code": "twoa10002707",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 10,
         "quantity": 1,
@@ -251,12 +251,12 @@
         "name": "Queen",
         "traits": "Caïssa. Program.",
         "text": "Reina Roja deck only.\nAttach Queen to your location. Limit 1 [[Caïssa]] per location.\n[free] If you are at Queen's location, exhaust Queen: Deal 1 damage to an enemy at attached location. You get +2 to a skill of your choice until the end of the phase. Move up to 2 times. You may move Queen to any location.",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365652/Queen_Front_oup29m.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450744/010-Queen_et0ghb.jpg"
       },
       {
-        "code": "twoa_546",
+        "code": "twoa10002708",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 11,
         "quantity": 1,
@@ -269,12 +269,12 @@
         "text": "Reina Roja deck only.\nCount the number of [[Caïssa]] cards in play. If there are...\n* ...1 or more, draw 2 cards.\n* ...2 or more, deal 2 damage to any enemy.\n* ...3 or more, discover 2 clues from any location.\n* ...4 or more, heal 1 damage and 1 horror.\n* ...5 or more, do any number of the above again.",
         "skill_intellect": 2,
         "illustrator": "Matt Zeilinger",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365500/Checkmate_Front_itnroh.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450746/011-Checkmate_eo4ndv.jpg"
       },
       {
-        "code": "twoa_547",
+        "code": "twoa10002709",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 12,
         "quantity": 1,
@@ -286,12 +286,12 @@
         "traits": "Blunder.",
         "text": "<b>Revelation</b> - Put Zugzwang into play in your threat area.\n<b>Forced</b> - At the end of your turn: For each ready [[Caïssa]] card in play, take 1 damage or 1 horror.\n[action][action]: Discard Zugzwang.",
         "illustrator": "Caravan Studio",
-        "restrictions": "investigator:twoa_539",
+        "restrictions": "investigator:net01",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453547/Zugzwang_Front_ehqk7z.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450748/012-Zugzwang_igpcyv.jpg"
       },
       {
-        "code": "twoa_548",
+        "code": "net02",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 13,
         "quantity": 1,
@@ -334,10 +334,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_549, card:twoa_550, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002710, card:twoa10002711, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_549",
+        "code": "twoa10002710",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 14,
         "quantity": 1,
@@ -350,12 +350,12 @@
         "text": "Hayley Kaplan deck only.\n[reaction] After you play an event for the first time during your turn: Choose one of its [[Traits]]. Play an event with the chosen [[Trait]] from your hand, ignoring its resource cost. (Limit once per game for each trait.)",
         "skill_intellect": 2,
         "illustrator": "Del Borovic",
-        "restrictions": "investigator:twoa_548",
+        "restrictions": "investigator:net02",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365502/Comet_Front_v8nqwm.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450752/014-Comet_em4spg.jpg"
       },
       {
-        "code": "twoa_550",
+        "code": "twoa10002711",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 15,
         "quantity": 1,
@@ -367,12 +367,12 @@
         "traits": "Omen. Endtimes.",
         "text": "<b>Revelation</b> - If you have no non-permanent assets in play, shuffle The Stars Are Wrong into your deck. Otherwise, for each number between 1 and 4, you must either take 1 direct horror or shuffle an asset you control with that printed resource cost from your play area into your deck.",
         "illustrator": "Alexandr Elichev",
-        "restrictions": "investigator:twoa_548",
+        "restrictions": "investigator:net02",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365674/TheStarsAreWrong_Front_b2fliz.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450755/015-TheStarsAreWrong_gxvilb.jpg"
       },
       {
-        "code": "twoa_551",
+        "code": "net03",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 16,
         "quantity": 1,
@@ -416,10 +416,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_552, card:twoa_553, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002712, card:twoa10002713, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_552",
+        "code": "twoa10002712",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 17,
         "quantity": 1,
@@ -435,12 +435,12 @@
         "skill_intellect": 1,
         "skill_wild": 1,
         "illustrator": "Anna Ignatieva",
-        "restrictions": "investigator:twoa_551",
+        "restrictions": "investigator:net03",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365512/FalseEcho_Front_eqkxaf.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450759/017-FalseEcho_pwvemq.jpg"
       },
       {
-        "code": "twoa_553",
+        "code": "twoa10002713",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 18,
         "quantity": 1,
@@ -452,12 +452,12 @@
         "traits": "Curse.",
         "text": "<b>Revelation</b> - Put Immolation Script into play in your threat area.\nCards you own <i>(both in-play and out-of-play)</i> lose all [[Traits]] and cannot gain [[Traits]].\n<b>Forced</b> - If you have 1 or fewer cards in your hand: Discard Immolation Script.",
         "illustrator": "Hannah Christenson",
-        "restrictions": "investigator:twoa_551",
+        "restrictions": "investigator:net03",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365706/ImmolationScript_Front_w3v7pw.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450762/018-ImmolationScript_mvo0mx.jpg"
       },
       {
-        "code": "twoa_554",
+        "code": "net04",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 19,
         "quantity": 1,
@@ -507,10 +507,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_555, card:twoa_556, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002714, card:twoa10002715, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_555",
+        "code": "twoa10002714",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 20,
         "quantity": 1,
@@ -525,12 +525,12 @@
         "skill_agility": 1,
         "skill_wild": 1,
         "illustrator": "Benjamin Giletti",
-        "restrictions": "investigator:twoa_554",
+        "restrictions": "investigator:net04",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365709/InsideJob_Front_gxjhww.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450767/020-InsideJob_l0qrkb.jpg"
       },
       {
-        "code": "twoa_556",
+        "code": "twoa10002715",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 21,
         "quantity": 1,
@@ -542,12 +542,12 @@
         "traits": "Flaw.",
         "text": "<b>Revelation</b> - Put Malapert Memories into play in your threat area.\n<b>Forced</b> - If you would succeed at a test by 3 or more: You automatically fail, instead.\n[free]: Move 1 mark from your location to Malapert Memories. Then, if there are 3 marks on Malapert Memories, discard it.",
         "illustrator": "Owen Sinodov",
-        "restrictions": "investigator:twoa_554",
+        "restrictions": "investigator:net04",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365542/MalapertMemories_Front_k9mvjy.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450770/021-MalapertMemories_qtxg8w.jpg"
       },
       {
-        "code": "twoa_557",
+        "code": "net05",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 22,
         "quantity": 1,
@@ -590,10 +590,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_558, card:twoa_559, card:twoa_560, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002716, card:twoa10002717, card:twoa10002718, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_558",
+        "code": "twoa10002716",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 23,
         "quantity": 1,
@@ -609,12 +609,12 @@
         "skill_agility": 1,
         "skill_wild": 1,
         "illustrator": "Samuel R. Shimota",
-        "restrictions": "investigator:twoa_557",
+        "restrictions": "investigator:net05",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453521/TheSupplier_Front_djdfoj.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450777/023-TheSupplier_qj1zsu.jpg"
       },
       {
-        "code": "twoa_559",
+        "code": "twoa10002717",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 24,
         "quantity": 1,
@@ -626,12 +626,12 @@
         "traits": "Favor. Trick.",
         "text": "Fast. Play when you fail a skill test.\nCancel all effects of the failed test.\n<b>Forced</b> - When \"I know just the guy...\" would be discarded from anywhere: Set it aside, out of play, instead.",
         "illustrator": "Nasrul Hakim",
-        "restrictions": "investigator:twoa_557",
+        "restrictions": "investigator:net05",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365532/Iknowjusttheguy_Front_pzohi8.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450775/024-Iknowjusttheguy_frxvru.jpg"
       },
       {
-        "code": "twoa_560",
+        "code": "twoa10002718",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 25,
         "quantity": 1,
@@ -648,12 +648,12 @@
         "enemy_damage": 2,
         "enemy_horror": 0,
         "illustrator": "Matt Zeilinger",
-        "restrictions": "investigator:twoa_557",
+        "restrictions": "investigator:net05",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365660/RaymondFlint_Front_rncmgm.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450780/025-RaymondFlint_pl3tri.jpg"
       },
       {
-        "code": "twoa_561",
+        "code": "net06",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 26,
         "quantity": 1,
@@ -704,10 +704,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_562, card:twoa_563, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002719, card:twoa10002720, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_562",
+        "code": "twoa10002719",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 27,
         "quantity": 1,
@@ -720,12 +720,12 @@
         "text": "Quetzal deck only.\n[reaction] When your turn begins: You gain 1 resource for each of your arcane slots that is empty.\n[free] Remove Data Folding from the game: Draw 1 card for each of your arcane slots that is empty.",
         "skill_willpower": 2,
         "illustrator": "Scott Uminga",
-        "restrictions": "investigator:twoa_561",
+        "restrictions": "investigator:net06",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365504/DataFolding_Front_ff0qx6.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450785/027-DataFolding_bogght.jpg"
       },
       {
-        "code": "twoa_563",
+        "code": "twoa10002720",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 28,
         "quantity": 1,
@@ -737,12 +737,12 @@
         "traits": "Injury.",
         "text": "<b>Revelation</b> - Put Sequencing Failure into play in your threat area, with 3 resources on it.\n[action]: Test [intellect], [combat], or [agility] (4). If you succeed, remove 1 resource from Sequencing Failure.\n<b>Forced</b> - When the game ends, if there are any resources on Sequencing Failure: You earn 2 fewer experience for this scenario.",
         "illustrator": "Adam S. Doyle",
-        "restrictions": "investigator:twoa_561",
+        "restrictions": "investigator:net06",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365714/SequencingFailure_Front_wnvz51.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450788/028-SequencingFailure_ae33cv.jpg"
       },
       {
-        "code": "twoa_564",
+        "code": "net07",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 29,
         "quantity": 1,
@@ -785,10 +785,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_565, card:twoa_566, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002721, card:twoa10002722, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_565",
+        "code": "twoa10002721",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 30,
         "quantity": 1,
@@ -802,12 +802,12 @@
         "skill_willpower": 1,
         "skill_wild": 1,
         "illustrator": "Benjamin Giletti",
-        "restrictions": "investigator:twoa_564",
+        "restrictions": "investigator:net07",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365509/DZMZOptimizer_Front_i6pa30.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450794/030-DZMZOptimizer_pybgjw.jpg"
       },
       {
-        "code": "twoa_566",
+        "code": "twoa10002722",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 31,
         "quantity": 1,
@@ -819,12 +819,12 @@
         "traits": "Flaw. Task.",
         "text": "<b>Revelation</b> - Attach Heartstrings to any location (a connecting location, if able).\nTreat the text box of each asset attached to your investigator as blank.\n[action]: Test any skill (4). If you succeed, discard Heartstrings.",
         "illustrator": "Liiga Smilshkalne",
-        "restrictions": "investigator:twoa_564",
+        "restrictions": "investigator:net07",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365529/Heartstrings_Front_cirf0e.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450798/031-Heartstrings_yjuakd.jpg"
       },
       {
-        "code": "twoa_567",
+        "code": "net08",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 32,
         "quantity": 1,
@@ -886,11 +886,11 @@
             }
           }
         ],
-        "side_deck_requirements": "size:8, card:twoa_574",
-        "deck_requirements": "size:30, card:twoa_569, card:twoa_570, card:twoa_571, card:twoa_572, card:twoa_573, random:subtype:basicweakness"
+        "side_deck_requirements": "size:8, card:twoa10002728",
+        "deck_requirements": "size:30, card:twoa10002723, card:twoa10002724, card:twoa10002725, card:twoa10002726, card:twoa10002727, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_568",
+        "code": "net09",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 33,
         "quantity": 1,
@@ -915,7 +915,7 @@
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450804/033-HoshikoShiro_adcajw.jpg"
       },
       {
-        "code": "twoa_569",
+        "code": "twoa10002723",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 34,
         "quantity": 1,
@@ -929,12 +929,12 @@
         "health": 2,
         "sanity": 2,
         "illustrator": "Olie Boldador (edited)",
-        "restrictions": "investigator:twoa_567",
+        "restrictions": "investigator:net08",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365490/Keiko_Front_l3qjcm.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450807/034-Keiko_repbnw.jpg"
       },
       {
-        "code": "twoa_570",
+        "code": "twoa10002724",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 35,
         "quantity": 1,
@@ -951,12 +951,12 @@
         "skill_combat": 1,
         "skill_wild": 2,
         "illustrator": "Izzy Pruett (edited)",
-        "restrictions": "investigator:twoa_567",
+        "restrictions": "investigator:net08",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365514/FencerFueno_Front_vn9lk4.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450810/035-FencerFueno_an1rxo.jpg"
       },
       {
-        "code": "twoa_571",
+        "code": "twoa10002725",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 36,
         "quantity": 1,
@@ -973,12 +973,12 @@
         "skill_intellect": 1,
         "skill_wild": 2,
         "illustrator": "Izzy Pruett (edited)",
-        "restrictions": "investigator:twoa_567",
+        "restrictions": "investigator:net08",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365552/MysticMaemi_Front_kh2vx7.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450813/036-MysticMaemi_mwpcns.jpg"
       },
       {
-        "code": "twoa_572",
+        "code": "twoa10002726",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 37,
         "quantity": 1,
@@ -995,12 +995,12 @@
         "skill_willpower": 1,
         "skill_wild": 2,
         "illustrator": "Izzy Pruett",
-        "restrictions": "investigator:twoa_567",
+        "restrictions": "investigator:net08",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365558/PaladinPoemu_Front_gv9riw.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450816/037-PaladinPoemu_bxo5vr.jpg"
       },
       {
-        "code": "twoa_573",
+        "code": "twoa10002727",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 38,
         "quantity": 1,
@@ -1017,12 +1017,12 @@
         "skill_agility": 1,
         "skill_wild": 2,
         "illustrator": "Izzy Pruett",
-        "restrictions": "investigator:twoa_567",
+        "restrictions": "investigator:net08",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453530/TricksterTaka_Front_sof6dp.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450819/038-TricksterTaka_cgsdyc.jpg"
       },
       {
-        "code": "twoa_574",
+        "code": "twoa10002728",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 39,
         "quantity": 1,
@@ -1034,12 +1034,12 @@
         "traits": "Flaw.",
         "text": "<b>Forced</b> - When you search your spellbook deck and this card is among the searched cards: Swap your investigator with its bonded non-[[Resolute]] version and put Isolation into play in your threat area.\nYou cannot trigger your investigator's [reaction] ability.\n[action] Spend 2 resources: Place Isolation on the bottom of Hoshiko Shiro's spellbook deck.",
         "illustrator": "Photo Tammy Gann Unsplash. Deep Dream (edited)",
-        "restrictions": "investigator:twoa_567",
+        "restrictions": "investigator:net08",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365537/Isolation_Front_d1qe6t.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450822/039-Isolation_omrlgt.jpg"
       },
       {
-        "code": "twoa_575",
+        "code": "net10",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 40,
         "quantity": 1,
@@ -1083,10 +1083,10 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:twoa_576, card:twoa_577, random:subtype:basicweakness"
+        "deck_requirements": "size:30, card:twoa10002729, card:twoa10002730, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_576",
+        "code": "twoa10002729",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 41,
         "quantity": 1,
@@ -1101,12 +1101,12 @@
         "skill_agility": 1,
         "skill_wild": 1,
         "illustrator": "David Lei",
-        "restrictions": "investigator:twoa_575",
+        "restrictions": "investigator:net10",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453544/ZahyasLedger_Front_bmvvnh.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450828/041-ZahyasLedger_mm7qrd.jpg"
       },
       {
-        "code": "twoa_577",
+        "code": "twoa10002730",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 42,
         "quantity": 1,
@@ -1118,12 +1118,12 @@
         "traits": "Scheme.",
         "text": "<b>Revelation</b> - Attach \"More corp interference...\" to the location farthest from you.\n[action]: Test [agility] (4). If you succeed by 0, discard \"More corp interference...\".\n<b>Forced</b> - When the game ends, if \"More corp interference...\" is in play: Zahya Sadeghi suffers 1 mental trauma.",
         "illustrator": "David Lei",
-        "restrictions": "investigator:twoa_575",
+        "restrictions": "investigator:net10",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365550/Morecorpinterference_Front_yyjgh7.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450831/042-Morecorpinterference_jwrvya.jpg"
       },
       {
-        "code": "twoa_578",
+        "code": "net11",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 43,
         "quantity": 1,
@@ -1168,10 +1168,10 @@
             "limit": 10
           }
         ],
-        "deck_requirements": "size:40, card:twoa_579, card:twoa_580, random:subtype:basicweakness"
+        "deck_requirements": "size:40, card:twoa10002731, card:twoa10002732, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_579",
+        "code": "twoa10002731",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 44,
         "quantity": 1,
@@ -1184,12 +1184,12 @@
         "text": "MaxX deck only.\nFast. Play during any [free] player window.\nDraw 3 cards. Take 1 horror.\n[reaction] After you discard Amped Up from your deck: Attach it facedown to an encounter card in play or in limbo, as a virus. You can commit it to skill tests on or against the attached card.",
         "skill_wild": 3,
         "illustrator": "Wylie Beckert (edited)",
-        "restrictions": "investigator:twoa_578",
+        "restrictions": "investigator:net11",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365493/AmpedUp_Front_rpnlb1.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450837/044-AmpedUp_kgjtvm.jpg"
       },
       {
-        "code": "twoa_580",
+        "code": "twoa10002732",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 45,
         "quantity": 1,
@@ -1201,12 +1201,12 @@
         "traits": "Task.",
         "text": "<b>Revelation</b> - Put Day Job into play in your threat area.\nYou cannot attach viruses to other cards.\n[action]: Test [willpower] (3). If you succeed, discard Day Job and gain 2 resources.\n<b>Forced</b> - After you discard Day Job from your deck: Draw it.",
         "illustrator": "Matt Zeilinger",
-        "restrictions": "investigator:twoa_578",
+        "restrictions": "investigator:net11",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365505/DayJob_Front_g9gsge.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450841/045-DayJob_mdzdda.jpg"
       },
       {
-        "code": "twoa_581",
+        "code": "net12",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 46,
         "quantity": 1,
@@ -1249,10 +1249,10 @@
             }
           }
         ],
-        "deck_requirements": "size:40, card:twoa_582, card:twoa_583, random:subtype:basicweakness"
+        "deck_requirements": "size:40, card:twoa10002733, card:twoa10002734, random:subtype:basicweakness"
       },
       {
-        "code": "twoa_582",
+        "code": "twoa10002733",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 47,
         "quantity": 1,
@@ -1266,12 +1266,12 @@
         "text": "Permanent. Fenris deck only.\n[action] Exhaust Wyldside: Draw 2 cards.",
         "flavor": "\"Best place to go when you want to get your mind out of the gutter and take it inside.\"",
         "illustrator": "Henning Ludvigsen",
-        "restrictions": "investigator:twoa_581",
+        "restrictions": "investigator:net12",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771453533/Wyldside_Front_dvnflr.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450849/047-Wyldside_peyoua.jpg"
       },
       {
-        "code": "twoa_583",
+        "code": "twoa10002734",
         "pack_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
         "position": 48,
         "quantity": 1,
@@ -1288,7 +1288,7 @@
         "enemy_damage": 1,
         "enemy_horror": 1,
         "illustrator": "Chris Newman",
-        "restrictions": "investigator:twoa_581",
+        "restrictions": "investigator:net12",
         "image_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771365535/Ireress_Front_jvx2zq.jpg",
         "thumbnail_url": "https://res.cloudinary.com/dczozcdig/image/upload/v1771450852/048-Ireress_pslnci.jpg"
       }
