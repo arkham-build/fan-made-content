@@ -5,29 +5,27 @@
     "description": "Duality of Man is a project designed to be a spin on the classic \"Main Class level 0-5, Secondary Class level 0-2\" deckbuilding investigators.\nInvestigators in this pack all contain the same deckbuilding: 0-3 on both of their classes, and up to 3 level 4-5 cards from either of those classes along with the usual Neutral ones.",
     "author": "TomásAmi",
     "language": "en",
-    "external_link": "https://discord.com/channels/225349059689447425/1428097852625653810",
-    "banner_url": "https://render.fineartamerica.com/images/rendered/medium/print/8/6.5/break/images/artworkimages/medium/2/gold-comedy-and-tragedy-theater-masks-john-schwegel.jpg",
+    "external_link": "https://www.reddit.com/r/arkhamhorrorlcg/comments/1r4xrv9/homebrew_content_duality_of_man_investigators_pack/",
+    "banner_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1774978459/Duality_of_Man_ufqdly.jpg",
     "banner_credit": "John Schwegel",
     "types": ["investigators"],
-    "status": "complete",
-    "date_updated": "2026-02-09T22:55:03.297",
-    "generator": "Zoop 3.5, AHLCG plugin 9.92, Strange Eons 3.3.4241"
+    "status": "final",
+    "date_updated": "2026-03-31T13:07:30.578",
+    "generator": "Zoop 3.6, AHLCG plugin 9.92, Strange Eons 3.3.4241"
   },
   "data": {
     "cards": [
       {
-        "back_flavor": "Betty never thought her life would amount to more than endless ledgers and black ink. But when her firm was contracted to review the accounts of the Silver Twilight Lodge, she uncovered discrepancies that weren’t just financial. Funds vanishing into properties that don’t exist, names of \"donors\" who had been dead for decades, and entire columns of figures that seemed to shift when she looked away. Now, with her once-stable career unraveling, Betty finds herself drawn into Arkham’s shadowed streets, where the Lodge’s corruption festers like a hidden rot. She knows the numbers don’t lie, rather the opposite, for in Arkham the truth they reveal may be far worse than fraud.",
+        "back_flavor": "Betty never thought her life would amount to more than endless ledgers and black ink. But when her firm was contracted to review the accounts of the Silver Twilight Lodge, she uncovered discrepancies that weren’t just financial. Funds vanishing into properties that don’t exist, names of “donors” who had been dead for decades, and entire columns of figures that seemed to shift when she looked away. Now, with her once-stable career unraveling, Betty finds herself drawn into Arkham’s shadowed streets, where the Lodge’s corruption festers like a hidden rot. She knows the numbers don’t lie, rather the opposite, for in Arkham the truth they reveal may be far worse than fraud.",
         "back_name": "Betty Kim",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Seeker cards ([seeker]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Seeker cards ([guardian]/[seeker]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Neat and Tidy, Compulsive, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Seeker [seeker] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Seeker cards ([seeker]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Seeker cards ([guardian]/[seeker]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: 3 copies of Neat and Tidy, Compulsive, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Seeker [seeker] cards.",
         "code": "3eaf5502-8dde-4333-808c-970409088b8d",
         "deck_requirements": "size:30, card:993bc667-35e0-4698-acca-5055ac3edf1d, card:f916581e-12a9-4a8f-a5bb-a2b23448bb80, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["guardian", "seeker"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -42,6 +40,7 @@
           },
           {
             "faction": ["guardian", "seeker"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -52,6 +51,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "guardian",
+        "faction2_code": "seeker",
         "flavor": "Need both the original and the copy, ma'am.",
         "health": 7,
         "illustrator": "Simon Tosovsky",
@@ -66,7 +66,7 @@
         "skill_intellect": 3,
         "skill_willpower": 4,
         "subname": "The Auditor",
-        "text": "[reaction] After you play a card: Play another copy of that card from your hand, at no cost. (Limit once per round.)\n[elder_sign] effect: +0. If you played two or more cards with the same name this round, you automatically succeed and draw 1 card instead.",
+        "text": "[reaction] After you play a card: Play another copy of that card from your hand, at no cost. (Limit once per round.)\n[elder_sign] effect: +0. If you played two or more cards with the same name this round, you automatically succeed and draw&nbsp;1&nbsp;card&nbsp;instead.",
         "traits": "Assistant. Civic.",
         "type_code": "investigator",
         "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695700/fadfukukij4jc4hoqpjk.png",
@@ -105,25 +105,23 @@
         "quantity": 1,
         "restrictions": "investigator:3eaf5502-8dde-4333-808c-970409088b8d",
         "subtype_code": "weakness",
-        "text": "Hidden.\nPlay only if Compulsive is the only non-weakness player card in your hand.\nWhile Compulsive is in your hand, the first time you perform a play action each round, it costs 1 additional action.",
+        "text": "Hidden.\nPlay only if you have no non-weakness cards in your hand.\nWhile Compulsive is in your hand, the first time you would play another card each round, it costs 1 additional action.",
         "traits": "Flaw.",
         "type_code": "event",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135667/na9mvchry3axwr0d0bxt.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135668/sypnswougimtbhyrjcbi.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/11769512366945562903/C151529CC9FED591F62D768FEF2542FC22561FAB/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/18177389463399451814/4516F0B36F42E9BBA7498BDC8A2E54E6437DD5D9/"
       },
       {
         "back_flavor": "Kelly was still rather green when they sent her under. The Sheldons were supposed to be just another gang, but the assignment stretched into three long years. She played the part, climbed the ladder, and dirtied her hands more than once to keep suspicion off her back. Now she’s earned a seat at the big table and she's eating the good portion of the pie. That’s when she hears the talk of rites, symbols, and names that don’t belong in any sane tongue. The Sheldons aren’t just crooks. They’re acolytes or handlers of something bigger, nastier, and dirtier.",
         "back_name": "Kelly McNab",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Rogue cards ([guardian]/[rogue]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Unlikely Informant, Compromised Cover, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Rogue [rogue] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Rogue cards ([guardian]/[rogue]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: 2 copies of Unlikely Informant, Compromised Cover, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Rogue [rogue] cards.",
         "code": "27d5391e-9add-4f4f-899c-25b2af6fa3ef",
         "deck_requirements": "size:30, card:01cf9577-0124-4887-9683-b9aca79ca3a5, card:827cae29-b252-4503-9040-f22cdd19b2c5, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["guardian", "rogue"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -138,6 +136,7 @@
           },
           {
             "faction": ["guardian", "rogue"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -148,6 +147,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "guardian",
+        "faction2_code": "rogue",
         "health": 8,
         "illustrator": "Tryryche",
         "is_unique": true,
@@ -212,16 +212,14 @@
       {
         "back_flavor": "The Ilyin family had dabbled in the occult for generations. Prayers, rituals, and superstition were always part of Joseph’s life. He made his living as an exorcist, more interested in a quick buck than true faith, something that quickly changed the day he actually saw a spirit in one of his visitations. From that moment on, Joseph put his family’s knowledge to the test, delving into the strangest and most terrifying happenings in Arkham, offering his services as a thaumaturge.",
         "back_name": "Joseph Ilyin",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Mystic cards ([guardian]/[mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Profane Censer, Sadistic, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Mystic [mystic] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Mystic cards ([guardian]/[mystic]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: Profane Censer, Sadistic, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Mystic [mystic] cards.",
         "code": "ad5b1609-4233-44eb-bdfe-7d2cea84a3b9",
         "deck_requirements": "size:30, card:592996a2-85be-410c-a0df-1f20d88231de, card:5fbde6bb-0dfc-4585-b0f3-ac3c8cea7332, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["guardian", "mystic"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -236,6 +234,7 @@
           },
           {
             "faction": ["guardian", "mystic"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -246,6 +245,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "guardian",
+        "faction2_code": "mystic",
         "flavor": "Everybody-everything-has a weakness.",
         "health": 9,
         "illustrator": "Julija Supova",
@@ -307,18 +307,16 @@
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135569/s56oq1ovqqtut9dlzucf.png"
       },
       {
-        "back_flavor": "For as long as he could remember, the answer to \"What do you want to do when you grow up?\" was always the same: firefighter. And in time, that dream was fulfilled. He has served more than twenty years in Arkham’s Fire Department, a career that gave him the chance to notice unsettling patterns behind a few of the city’s disasters. Every seven years, without fail, a massive forest fire erupts outside Arkham. This year, determined to uncover the truth, he began his own investigation. After extinguishing the fire, he discovered a half-burned scrap of paper. Its message pointed to a name he had never heard before: the \"Brethren of Ash.\" Whoever they are, they will soon have a visitor.",
+        "back_flavor": "For as long as he could remember, the answer to “What do you want to do when you grow up?” was always the same: firefighter. And in time, that dream was fulfilled. He has served more than twenty years in Arkham’s Fire Department, a career that gave him the chance to notice unsettling patterns behind a few of the city’s disasters. Every seven years, without fail, a massive forest fire erupts outside Arkham. This year, determined to uncover the truth, he began his own investigation. After extinguishing the fire, he discovered a half-burned scrap of paper. Its message pointed to a name he had never heard before: the \"Brethren of Ash.\" Whoever they are, they will soon have a visitor.",
         "back_name": "Robert Scott",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Survivor cards ([guardian]/[survivor]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jet Strike, Put out the Fire, Can't Save Them All, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Survivor [survivor] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Survivor cards ([guardian]/[survivor]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: Jet Strike, Put out the Fire, Can't Save Them All, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Survivor [survivor] cards.",
         "code": "a5a24167-f20e-40b9-92ed-551374516701",
         "deck_requirements": "size:30, card:50571516-0d4a-46da-b8c3-6ba26b2baaec, card:675f833b-dd06-4784-b785-c9f3762fbef2, card:6c392683-6c14-4c45-a5d6-25d58d433433, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["guardian", "survivor"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -333,6 +331,7 @@
           },
           {
             "faction": ["guardian", "survivor"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -343,6 +342,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "guardian",
+        "faction2_code": "survivor",
         "flavor": "Be proud! Be brave!\nBe strong! Be prepared!",
         "health": 8,
         "illustrator": "Cyril Foiret",
@@ -357,13 +357,13 @@
         "skill_intellect": 1,
         "skill_willpower": 4,
         "subname": "The Firefighter",
-        "text": "[free] Exile a level 1-5 card in your discard pile: Gain resources equal to its level. (Limit once per round.)\nResources on Robert Scott's resource pool may be spent by any investigator at his location.\n[elder_sign] effect: +0. Gain 1 resource.",
-        "traits": "Warden.",
+        "text": "[free] Exile a level 1-5 card in your discard pile: Gain resources equal to its level. (Limit once per round.)\nResources on Robert Scott's resource pool may be spent by any investigator at his location.\n[elder_sign] effect: +0. After this test ends, you may gain 1 resource.",
+        "traits": "Civic. Warden.",
         "type_code": "investigator",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695675/gx81bf7rnoaa4htov1a5.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695677/icrbmxo3xywpuvl1zuxe.png",
-        "back_image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695678/hjat1lxqeeueamolxzvv.png",
-        "back_thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695679/kqs1l7hfpgouteprdmv4.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/15671924927231812580/30DD8B894BEC818943DEAF263A5D98C21C2DD05E/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/16815913471378533641/96E92854CD1814C481A3585E5E21D9EA0884672C/",
+        "back_image_url": "https://steamusercontent-a.akamaihd.net/ugc/13414530938673143169/84DCFB6B21B73904A50945C2019708D7C46710ED/",
+        "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/11025143807182539471/A424E806262A2489290158FEC2E687A51929CDA6/"
       },
       {
         "code": "50571516-0d4a-46da-b8c3-6ba26b2baaec",
@@ -423,16 +423,14 @@
       {
         "back_flavor": "Valerie was always gifted, numbers are a second nature to her ever since she learnt how to count. She used to say she'd be a professor at Miskatonic someday, but that was just the first lie in a long line of them. These days, she makes her living under the low lights of La Bella Luna, turning probability into profit and watching the other patrons sweat. Math still speaks to her to this day, only that lately she's been thinking on algorithms she doesn't remember ever learning.",
         "back_name": "Valerie Dalton",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Seeker and/or Rogue cards ([seeker]/[rogue]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hunch, Miscalculation, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Seeker [seeker] and 10 Rogue [rogue] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Seeker and/or Rogue cards ([seeker]/[rogue]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: Hunch, Miscalculation, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Seeker [seeker] and 10 Rogue [rogue] cards.",
         "code": "434de31f-e32d-451a-8e08-5f2df520201e",
         "deck_requirements": "size:30, card:09b2c147-1b82-45d8-ab06-a3f016b8381e, card:d347aa9b-a693-41f2-9309-3a5a5c34ab11, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["seeker", "rogue"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -447,6 +445,7 @@
           },
           {
             "faction": ["seeker", "rogue"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -457,6 +456,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "seeker",
+        "faction2_code": "rogue",
         "flavor": "\"2 and a 7? Whatever shall I do!\"",
         "health": 6,
         "illustrator": "Fay Dalton",
@@ -471,13 +471,13 @@
         "skill_intellect": 4,
         "skill_willpower": 3,
         "subname": "The Card Counter",
-        "text": "[reaction] After you commit a <b><i>Gambit</i></b> card to a skill test: Ignore that card's printed text box <i>(except for traits)</i>. Double that card's icons. (Limit once per round.)\n[reaction] After you commit a <b><i>Practiced</i></b> card to a skill test: Ignore that card's icons. Double that card's printed text box. (Limit once per round.)\n[elder_sign] effect: +0. You may now commit a card from your hand.",
+        "text": "[reaction] After you commit a <b><i>Gambit</i></b> card to a skill test: Ignore that card's printed text box <i>(except for traits)</i>. Double that card's printed icons. (Limit once per round.)\n[reaction] After you commit a <b><i>Practiced</i></b> card to a skill test: Ignore that card's printed icons. Double that card's printed text box. (Limit once per round.)\n[elder_sign] effect: +0. You may now commit a card from your hand.",
         "traits": "Criminal. Scholar.",
         "type_code": "investigator",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695665/qvmmhrezdzvsrauj2nzo.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695666/tynskxynfx22dtnfezru.png",
-        "back_image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695666/mu1osir8ojv6pg2u4dgb.png",
-        "back_thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695667/dgrs7rq6nijmmgt5u4ba.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/13363258394819973007/8FA3FCEB4A360ED450A846BE41E0106436863CDF/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/16024637521869747400/9142C3F379E4936DBC68B1CD855F981F2717ECD4/",
+        "back_image_url": "https://steamusercontent-a.akamaihd.net/ugc/10478267731851422522/DF2E362C4F1301FCECF739E8D8E2B201A0DF0893/",
+        "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/13231992011033345090/4329BEB40FA254BFE5203AE700F193E944062B4D/"
       },
       {
         "code": "d347aa9b-a693-41f2-9309-3a5a5c34ab11",
@@ -508,27 +508,25 @@
         "position": 16,
         "quantity": 1,
         "restrictions": "investigator:434de31f-e32d-451a-8e08-5f2df520201e",
-        "skill_wild": 2,
+        "skill_wild": 3,
         "subtype_code": "weakness",
-        "text": "You must commit Miscalculation to each eligible skill test you perform, and perform either of Valerie's [reaction] abilities <i>(ignoring all limits)</i>. This skill's icons subtract from your skill value instead of adding to it. You cannot ignore this paragraph.\nIf you succeed, return Miscalculation to your hand and take 1 horror. If you fail, lose 3 resources.",
+        "text": "You must commit Miscalculation to each eligible skill test you perform on which you could trigger one of Valerie’s [reaction] abilities, and you must trigger exactly one of those abilities. This skill's icons subtract from your skill value instead of adding to it. You cannot ignore this paragraph.\nIf you succeed, return Miscalculation to your hand and take 1 horror. If you fail, lose 3 resources.",
         "traits": "Gambit. Practiced.",
         "type_code": "skill",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135583/yiy94ryjcnkwvyeoox13.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135585/selbzntxwi0hkpmfhzla.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/15802819308469962362/9681368DF4A62B4AF1872EF024CEA88DD8B099B4/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/17683549606259958772/9B9D0642504B302250A5417200C56D835197B9E9/"
       },
       {
         "back_flavor": "The Burke family has been cursed for generations. Laurie's unnatural connection to her ancestors allowed her to see and interact with the supernatural from a young age. Skills she turned into a very profitable career. Her abilities were a mystery to her, though. She always knew she could interact with the beyond, she just didn’t know why. It was only when she researched her family’s history in Miskatonic University’s Library that she uncovered the truth behind this matter… and realized someone had been waiting for her to find it.",
         "back_name": "Laurie Burke",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Seeker and/or Mystic cards ([seeker]/[mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Prophetic Vision, Sir Nikolai Burke, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Seeker [seeker] and 10 Mystic [mystic] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Seeker and/or Mystic cards ([seeker]/[mystic]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: Prophetic Vision, Sir Nikolai Burke, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Seeker [seeker] and 10 Mystic [mystic] cards.",
         "code": "bfb0c3af-ddbd-4ae0-9ec2-808a0c0b1dcd",
         "deck_requirements": "size:30, card:7938903f-b87c-4a23-90d9-0ac350b1e5d1, card:ede96434-bf78-4dcf-affb-0acc7665c357, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["seeker", "mystic"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -543,6 +541,7 @@
           },
           {
             "faction": ["seeker", "mystic"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -553,6 +552,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "seeker",
+        "faction2_code": "mystic",
         "health": 5,
         "illustrator": "Laurie Lee Brom",
         "is_unique": true,
@@ -621,16 +621,14 @@
       {
         "back_flavor": "Morris always had weird dreams. Like that one time he dreamt of the neighbour's house catching fire. Or that other time where the Essex train vanished without a trace, or even that one when the government seized Innsmouth for a week. All of which became real shortly after. For months now, his dream is always the same. He dreams of something sleeping, its awakening, and the doom of Arkham. With some luck, he will learn to interpret his dreams in time.",
         "back_name": "Morris Robinson",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Seeker and/or Survivor cards ([seeker]/[survivor]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of \"I was right!\", The End is Nigh, 1 random basic weakness.\n<b>Additional Restrictions</b>: Your deck must contain at least 10 Seeker [seeker] and 10 Survivor [survivor] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Seeker and/or Survivor cards ([seeker]/[survivor]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: 3 copies of \"I was right!\", The End is Nigh, 1 random basic weakness.\n<b>Additional Restrictions</b>: Your deck must contain at least 10 Seeker [seeker] and 10 Survivor [survivor] cards.",
         "code": "50d26ec7-ad00-42bb-8679-0e232c346958",
         "deck_requirements": "size:30, card:31b061ca-32b4-49fa-8484-1d7d12af3a49, card:b54c3559-11e9-48b7-9fe6-4a20623a044c, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["seeker", "survivor"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -645,6 +643,7 @@
           },
           {
             "faction": ["seeker", "survivor"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -655,6 +654,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "seeker",
+        "faction2_code": "survivor",
         "flavor": "I've told you, I've told you all!",
         "health": 8,
         "illustrator": "n.d.",
@@ -718,16 +718,14 @@
       {
         "back_flavor": "If it can be sold, he's making profit out of it. Calibre big enough to kill someone inside a tank? Stolen Egyptian paraphernalia? Book that drives people mad? Sell it. Just don't get caught using it before. And if you do, make sure they can't tell nobody afterwards.",
         "back_name": "Gianluca Vietti",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Rogue and/or Mystic cards ([rogue]/[mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Offer They Cannot Refuse, Overwhelmed, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Rogue [rogue] and 10 Mystic [mystic] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Mystic cards ([mystic]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Rogue and/or Mystic cards ([rogue]/[mystic]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: 2 copies of Offer They Cannot Refuse, Overwhelmed, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Rogue [rogue] and 10 Mystic [mystic] cards.",
         "code": "662b8480-6089-4c62-9b96-2b1be1ecdda9",
         "deck_requirements": "size:30, card:1d859d48-b3a3-4cd1-9879-80be66efec39, card:ba786c8d-9e58-4358-a238-ebcff63dd3bf, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["rogue", "mystic"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -742,6 +740,7 @@
           },
           {
             "faction": ["rogue", "mystic"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -752,6 +751,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "rogue",
+        "faction2_code": "mystic",
         "flavor": "\"So, we have ourselves a deal?\"",
         "health": 6,
         "illustrator": "Christopher Shy",
@@ -766,25 +766,25 @@
         "skill_intellect": 2,
         "skill_willpower": 4,
         "subname": "The Antiquarian",
-        "text": "[free] During a skill test on an <b><i>Illicit</i></b>, <b><i>Occult</i></b>, <b><i>Relic</i></b>, <b><i>Ritual</i></b>, and/or <b><i>Spell</i></b> card, exhaust X <i>(at least one)</i> non-permanent assets with any of these <i>other</i> <b><i>Traits</i></b>: You get +X skill value for this test. If you succeed by 2 or more, ready an asset you control. (Limit once per round.)\n[elder_sign] effect: +2. If you succeed, you may ready an asset you control.",
+        "text": "[free] During a skill test on an <b><i>Illicit</i></b>, <b><i>Occult</i></b>, <b><i>Relic</i></b>, <b><i>Ritual</i></b>, or <b><i>Spell</i></b> card, exhaust X <i>(at least one)</i> non-permanent assets with any of these <b><i>Traits</i></b>: You get +X skill value for this test. If you succeed by 2 or more, ready an asset you control. (Limit once per round.)\n[elder_sign] effect: +2. If you succeed, you may ready an asset you control.",
         "traits": "Criminal. Sorcerer.",
         "type_code": "investigator",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695695/efyx6hpjw4ska8aafp75.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695697/wtk5zsmbhkenghzgmi3x.png",
-        "back_image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695697/rw6c9nmmtzxwe1ftenm4.png",
-        "back_thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695698/no2mywwf3qmuemq1ezup.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/12652380078230143107/72514DC22671796C231E8F5B93A9D16043E1CC7D/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/17616468479005077922/0085F3E7F55C49AFF9423920BE18649F1EF98A0D/",
+        "back_image_url": "https://steamusercontent-a.akamaihd.net/ugc/16042038194183864556/B0D540CD8B74F3415F495A3EC2AB9C2378DABB59/",
+        "back_thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/15326985932420800355/36D6DF0A7DE4462A5D8F0790BB3F51D19DA7B745/"
       },
       {
         "code": "ba786c8d-9e58-4358-a238-ebcff63dd3bf",
         "cost": 2,
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "neutral",
         "flavor": "\"If you leave me the fuck alone, I won't ditch you in a pit, deal?\"",
         "illustrator": "Corey Brickley",
         "name": "Offer They Cannot Refuse",
         "pack_code": "34b4aa11-db69-46e4-83fe-3c5adfcd8bca",
         "position": 24,
-        "quantity": 1,
+        "quantity": 2,
         "restrictions": "investigator:662b8480-6089-4c62-9b96-2b1be1ecdda9",
         "skill_agility": 1,
         "skill_wild": 1,
@@ -792,8 +792,8 @@
         "text": "<b>Evade</b> ([willpower] or [agility]). Immediately before this evasion attempt, you may engage the evaded enemy. For each point you succeed by, ready an asset you control (to a maximum of 3).",
         "traits": "Pact.",
         "type_code": "event",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135549/n8qndojfyqqen7mad3jz.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135551/zzah6nt8wlf1wxcqoxgd.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/10099959607577032715/FEFEEEE1A65D88CB4F38C26B22729A31FE5CAA06/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/17398916245377094366/DB2BCF7D239E64035FCCD49277E89755393691DC/"
       },
       {
         "code": "1d859d48-b3a3-4cd1-9879-80be66efec39",
@@ -806,25 +806,23 @@
         "quantity": 1,
         "restrictions": "investigator:662b8480-6089-4c62-9b96-2b1be1ecdda9",
         "subtype_code": "weakness",
-        "text": "<b>Revelation</b> - Put Overwhelmed into play in your play area.\nWhile Overwhelmed is ready, whenever you would succeed at a skill test, you succeed by 2 more and take 1 horror.\nWhile Overwhelmed is exhausted, you get -2 to all skills.\n[reaction] After you ready Overwhelmed outside of the upkeep phase: Discard it.",
+        "text": "<b>Revelation</b> - Put Overwhelmed into play in your play area.\nWhile Overwhelmed is ready, whenever you would succeed at a skill test, you succeed by 2 more and take 1 horror.\nWhile Overwhelmed is exhausted, you get -2 to all skills.\n[reaction] After you ready Overwhelmed outside of the upkeep phase: Discard it.\nTHECOSMOSSPEAKSTOME",
         "traits": "Illicit. Occult. Relic. Ritual. Spell.",
         "type_code": "asset",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135690/gjsqbveodsukqim7k3hi.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135691/pwzder06gxiggi2miwli.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/16818592186731604243/099BA4329F86664B7651B73B1DE00E83892B57D3/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/11711881241231281128/12BF7D61E4057B2945EB5C176BE36ECA5513613C/"
       },
       {
         "back_flavor": "Mabel has improved the Tick-Tock Club’s reputation the hard way, by pulling strings, smoothing egos, and making sure the right people walked through the door while the wrong ones stayed in La Bella Luna. When a string of disappearances traced back to patrons she personally invited, she couldn't help but to dig deeper until she found a pattern: every missing guest had been approached by the same sharply dressed stranger with the red gloves. Curious how not once of the people she interviewed remembers the man face, how his voice sounds, nor the smell of his perfume; everybody just fixated the gloves.",
         "back_name": "Mabel Roy",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Rogue and/or Survivor cards ([rogue]/[survivor]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Cordial Invitation, Party's Over, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Rogue [rogue] and 10 Survivor [survivor] cards.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Rogue and/or Survivor cards ([rogue]/[survivor]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: 2 copies of Cordial Invitation, Party's Over, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Rogue [rogue] and 10 Survivor [survivor] cards.",
         "code": "f10f057f-a962-4727-8475-a1e64b6a0476",
         "deck_requirements": "size:30, card:2417ae59-d7a9-4c2f-8f0a-758923d1b693, card:b55789c1-934f-4c46-9086-2eb9ec4d0a9f, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["rogue", "survivor"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -839,6 +837,7 @@
           },
           {
             "faction": ["rogue", "survivor"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -849,6 +848,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "rogue",
+        "faction2_code": "survivor",
         "health": 7,
         "illustrator": "Denman Rooke",
         "is_unique": true,
@@ -899,11 +899,11 @@
         "quantity": 1,
         "restrictions": "investigator:f10f057f-a962-4727-8475-a1e64b6a0476",
         "subtype_code": "weakness",
-        "text": "<b>Revelation</b> - Put Party's Over into play in your threat area.\n[reaction] After you commit two or more cards to another investigator during their turn: Place 1 resource <i>(from the token pool)</i> on Party's Over.\n<b>Forced</b> - When the game ends, if Party's Over has fewer than 3 resources on it: You earn 2 fewer experience for this scenario.",
+        "text": "<b>Revelation</b> - Put Party's Over into play in your threat area.\n[reaction] At the end of another investigator's turn, if you have committed two or more cards to their skill tests this turn: Place 1 resource <i>(from the token pool)</i> on Party's Over.\n<b>Forced</b> - When the game ends, if Party's Over has fewer than 3 resources on it: You earn 2 fewer experience for this scenario.",
         "traits": "Blunder.",
         "type_code": "treachery",
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135574/p61fa8mreeqisvzywdka.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135575/jivvccdclpbquqit0ilz.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/11398775548757346449/C5C6002A562D549F6E2DEC752B898DC612BF354E/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/17748058454661358831/C1B375468FC102C849AB7AD2CACA2C4F212A9764/"
       },
       {
         "back_flavor": "P.I. work ain’t easy. Even less so when you’re as thorough as Deshawn. He obsesses over every detail his clients provide, chasing the best path to reach his marks. For the most part, the method worked. Until this last gig. The details were so gruesome they gave even a professional like him nightmares, night after night. Still, Deshawn pressed on. He made a plan, and when he thought he finally had his mark cornered, he realized it was the other way around. He—it—was already hunting him, and had found him first",
@@ -914,10 +914,8 @@
         "deck_options": [
           {
             "faction": ["mystic", "survivor"],
-            "atleast": {
-              "factions": 2,
-              "min": 10
-            },
+            "atleast": { "factions": 2, "min": 10 },
+            "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
               "max": 3
@@ -932,6 +930,7 @@
           },
           {
             "faction": ["mystic", "survivor"],
+            "error": "Too many level 4-5 cards.",
             "level": {
               "min": 4,
               "max": 5
@@ -942,6 +941,7 @@
         "deck_limit": 1,
         "double_sided": true,
         "faction_code": "mystic",
+        "faction2_code": "survivor",
         "health": 7,
         "illustrator": "Piotr Arendzikowski",
         "is_unique": true,
@@ -1146,12 +1146,12 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_intellect": 1,
-        "text": "[reaction] After you succeed at a skill test by exactly 1 or 3, exhaust Automation: Return a <b><i>Practiced</i></b> skill you have committed that test to your hand.",
+        "text": "Limit 1 per investigator.\n[free]: Choose 1 <b><i>Practiced</i></b> skill in your hand and attach it facedown to Automation (max 1 card attached).\n[free] Exhaust Automation: Commit the card attached to Automation, if able. Do not discard it when the test ends. If you fail, remove the attached card from the game.",
         "traits": "Talent. Science.",
         "type_code": "asset",
-        "xp": 1,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424959/tqkzzxk9is0phfhopp9b.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424960/zmohdz7assi7wimtns5q.png"
+        "xp": 3,
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/12222545528262440879/29E5965EA140FF4CAA71C74CA620E6996D76569D/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/15705575766784822968/C6E9F10EB44EA376815AEFAA070B6F77647FEB99/"
       },
       {
         "code": "b0d80da1-db60-46bf-8f6a-3b5869417684",
@@ -1169,7 +1169,7 @@
         "traits": "Item. Science.",
         "type_code": "asset",
         "xp": 3,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424953/xe6ayfrn26df9d0wotvv.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135654/azdgu1kv2f3bfr84d09c.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424955/mis239zvrjmbdjhjrnyr.png"
       },
       {
@@ -1262,7 +1262,7 @@
         "traits": "Item. Relic. Occult. Cursed.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424969/hec1fhznpq29y4rmwini.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135628/hhoogaiiig4nt7ekjyvo.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424970/cpeqcdupksy19akk2i67.png"
       },
       {
@@ -1300,7 +1300,7 @@
         "traits": "Ritual.",
         "type_code": "skill",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424982/fpzzyak8vx25fyywdcxu.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135680/rupf6to7h0rzk8bib9ro.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424983/b1ndy2ycssfjsq4v1rij.png"
       },
       {
@@ -1339,7 +1339,7 @@
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424971/pot5x1bm5jwcfoeig9rx.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135638/ghgnkqy46a3bioctygu2.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424972/tbv6tbg8y38yxz83ulav.png"
       },
       {
@@ -1351,7 +1351,7 @@
         "pack_code": "34b4aa11-db69-46e4-83fe-3c5adfcd8bca",
         "permanent": true,
         "position": 49,
-        "quantity": 2,
+        "quantity": 1,
         "text": "Permanent. Limit 1 per deck. Purchase at deck creation.\nEarn 3 experience, which can only be spent on cards that exile.\nBetween two scenarios of a campaign you must purchase cards you have exiled last scenario <i>(if any)</i> before you are able to purchase new cards.",
         "traits": "Condition.",
         "type_code": "asset",
@@ -1368,12 +1368,12 @@
         "pack_code": "34b4aa11-db69-46e4-83fe-3c5adfcd8bca",
         "position": 50,
         "quantity": 2,
-        "text": "You may commit Workhorse to any type of skill test.\nWhile Workhorse is committed to a skill test, that test gets +2 difficulty.\nIf this test is successful, the performing investigator draws 1 card and gains 2 resources.",
+        "text": "You may commit Workhorse to any type of skill test.\nWhile Workhorse is committed to a skill test, that test gets +2 difficulty.\nWhen you commit Workhorse, the performing investigator draws 1 card and gains 1 resource.",
         "traits": "Innate.",
         "type_code": "skill",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135544/qihk6aebzaogn6ick94i.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135545/yej0pfhetxpntktah9cw.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/15365255613232972749/682B73C519BB03BEDB06715464655201E5001F13/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/11889623208500953531/52C851D535DC658CA900A9905E3092F5576BAA3C/"
       },
       {
         "code": "f3fc306d-daa7-4a19-acae-eaf5acee9518",
@@ -1391,7 +1391,7 @@
         "traits": "Practiced.",
         "type_code": "skill",
         "xp": 1,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424992/ktsc72nmgwzw1p3nyovq.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135662/ybzfv5negcdyookyrbrf.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424993/ielzngso1dd74dbnaifu.png"
       },
       {
@@ -1409,12 +1409,12 @@
         "skill_intellect": 1,
         "skill_willpower": 1,
         "slot": "Accessory",
-        "text": "Uses (0 backups).\n[reaction] After you perform a non-move basic action: Place 1 resource on Backup Files.\n[free] During your turn, spend 2 backups and exhaust Backup Files: Take a basic action.",
+        "text": "Uses (0 backups).\n[reaction] After you perform a non-move basic action: Place 1 resource <i>(from the token pool)</i> on Backup Files, as a backup.\n[free] During your turn, spend 2 backups and exhaust Backup Files: Take a basic action.",
         "traits": "Police. Tome.",
         "type_code": "asset",
         "xp": 1,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424980/lw1driw9mf43rfhiftov.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424981/vaogje9pouxbu2szagfb.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/13050489347991702382/245E641248AC58B32A8BC791F04509045B64CE7E/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/10219643217802526801/ADE0A78223DD0E137B704B89FC4A7B81ABDCF74C/"
       },
       {
         "code": "056cae31-6032-4d62-9a25-6024746be003",
@@ -1430,12 +1430,12 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "Fast. Play when you would defeat an enemy.\nDiscover 2 total clues from among your location and connecting locations instead.",
+        "text": "Fast. Play when you would deal damage to an enemy equal to or greater than its remaining health.\nCancel that damage. Then, discover 2 total clues from among your location and connecting locations.",
         "traits": "Tactic. Illicit.",
         "type_code": "event",
         "xp": 2,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135588/pradjqrpcayt9llcwwsa.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135589/wanq2qvr0c6oildshb4w.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/17009467173061710118/D8F7BF4235FDBFEA5428F33026E48A2913695AD9/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/13300161869100414393/9B51FE3EBB6120E8124B07EFAD256DDF65818EA6/"
       },
       {
         "code": "48f92ff5-d980-4d2e-923b-b618b64ce119",
@@ -1454,7 +1454,7 @@
         "traits": "Occult. Ritual.",
         "type_code": "event",
         "xp": 1,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424956/ozgzvughbk5ifuxn7z9s.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135601/xzzyu2uo1h5xzvlilnmx.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424957/u76spjdw6p3jh0hsqvrg.png"
       },
       {
@@ -1474,7 +1474,7 @@
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 3,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424961/bmpxleefeeddux7jsc5f.png",
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135646/vrm5hsyr1ojgwzujkjqh.png",
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770424962/pq7lpamzvgav84n3tyak.png"
       },
       {
@@ -1492,12 +1492,12 @@
         "skill_agility": 1,
         "skill_intellect": 1,
         "skill_wild": 1,
-        "text": "[reaction] After you successfully investigate with this card committed to the test: Play this card <i>(paying its cost)</i>.\nChoose and take two different basic actions of the following, in any order (move, evade, or investigate).",
+        "text": "[reaction] After you successfully investigate with this card committed to the test: Play this card <i>(paying its cost)</i>.\nChoose and take two (three if you played In the Zone from your hand) different basic actions of the following, in any order (move, evade, or investigate).",
         "traits": "Gambit.",
         "type_code": "event",
-        "xp": 1,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135676/ney3x7v3zy3a5pfg994w.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135677/kjegpfqqjjyey39kg7aq.png"
+        "xp": 2,
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/13433495286474468807/53C02BDC6CF334A908DFEC953D2F1EA584D795A8/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/14082406603066968074/9D737F5CC10EF0D18CDB7582E2030DC143562065/"
       },
       {
         "code": "698cc3db-c514-45e1-ac6a-a4e83bfbd801",
@@ -1555,12 +1555,12 @@
         "position": 59,
         "quantity": 1,
         "subname": "Shadow of Something Higher",
-        "text": "Exceptional.\n[action] Exhaust Tesseract: Test [agility] (3). If you have at least 5 [willpower] you get +2 [agility]. For each point you succeed by, <b>Move</b> (to a maximum of 3 times).\n[action] Ready Tesseract: <b>Evade</b> ([willpower]). If you have at least   5 [agility] you get +2 [willpower]. Target any enemy at your location or a connecting location.",
+        "text": "Exceptional.\n[free] Exhaust Tesseract: Test [agility] (3). If you have at least 5 [willpower] you get +2 [agility]. For each point you succeed by, <b>Move</b> (to a maximum of 3 times).\n[action] Ready Tesseract: <b>Evade</b> ([willpower]). If you have at least   5 [agility] you get +2 [willpower]. Target any enemy at your location or a connecting location.",
         "traits": "Item. Occult.",
         "type_code": "asset",
         "xp": 2,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135557/fgif3y0kdz4acd75g1c4.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135557/uc4bqrdjomp3ahootnrk.png"
+        "image_url": "https://steamusercontent-a.akamaihd.net/ugc/18395044998683971937/7912ABCDFE7944F8FFBA3210D6AD651643EC4199/",
+        "thumbnail_url": "https://steamusercontent-a.akamaihd.net/ugc/9867644856132887712/1F8B8E264512BF8522819498DEB6F669D175DD0B/"
       },
       {
         "code": "5bc6e585-265d-46fb-bdff-0da20642c13f",
@@ -1609,7 +1609,7 @@
       {
         "code": "34b4aa11-db69-46e4-83fe-3c5adfcd8bca",
         "name": "Duality of Man - Investigators Pack",
-        "date_release": "2026-02-09",
+        "date_release": "2026-03-31",
         "icon_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770695704/fjxf23iwwzymdc8bestv.png"
       }
     ]
