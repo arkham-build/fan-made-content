@@ -10,7 +10,7 @@
     "banner_credit": "Vanessa Lemen",
     "types": ["investigators"],
     "status": "final",
-    "date_updated": "2026-01-02T05:44:25.825Z",
+    "date_updated": "2026-04-12T05:44:25.825Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -2717,6 +2717,7 @@
         "skill_wild": 1,
         "skill_willpower": 1,
         "slot": "Ally",
+        "restrictions": "trait:cultist, trait:cursed, trait:scholar, trait:sorcerer",
         "text": "[[Cultist]], [[Cursed]], [[Scholar]], [[Sorcerer]] deck only.\nWhen Goetic Patron enters play, choose a type of asset slot. (<i>Hand, Body, Arcane, Ally, Tarot, Accessory.</i>) You get 1 additional slot of that type.\n<b>Forced</b> - When you would use any printed ability on an asset in a slot granted by Goetic Patron: Put 1 doom on that asset.  This doom may cause the agenda to advance.",
         "traits": "Ally. Patron. Daemon. Goetia.",
         "type_code": "asset",
