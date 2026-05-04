@@ -16,7 +16,7 @@
   "data": {
     "cards": [
       {
-        "back_flavor": "Betty never thought her life would amount to more than endless ledgers and black ink. But when her firm was contracted to review the accounts of the Silver Twilight Lodge, she uncovered discrepancies that weren’t just financial. Funds vanishing into properties that don’t exist, names of “donors” who had been dead for decades, and entire columns of figures that seemed to shift when she looked away. Now, with her once-stable career unraveling, Betty finds herself drawn into Arkham’s shadowed streets, where the Lodge’s corruption festers like a hidden rot. She knows the numbers don’t lie, rather the opposite, for in Arkham the truth they reveal may be far worse than fraud.",
+        "back_flavor": "Betty never thought her life would amount to more than endless ledgers and black ink. But when her firm was contracted to review the accounts of the Silver Twilight Lodge, she uncovered discrepancies that weren’t just financial. Funds vanishing into properties that don’t exist, names of \"donors\" who had been dead for decades, and entire columns of figures that seemed to shift when she looked away. Now, with her once-stable career unraveling, Betty finds herself drawn into Arkham’s shadowed streets, where the Lodge’s corruption festers like a hidden rot. She knows the numbers don’t lie, rather the opposite, for in Arkham the truth they reveal may be far worse than fraud.",
         "back_name": "Betty Kim",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Seeker cards ([seeker]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Seeker cards ([guardian]/[seeker]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: 3 copies of Neat and Tidy, Compulsive, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Seeker [seeker] cards.",
         "code": "3eaf5502-8dde-4333-808c-970409088b8d",
@@ -24,7 +24,10 @@
         "deck_options": [
           {
             "faction": ["guardian", "seeker"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -120,7 +123,10 @@
         "deck_options": [
           {
             "faction": ["guardian", "rogue"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -218,7 +224,10 @@
         "deck_options": [
           {
             "faction": ["guardian", "mystic"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -307,7 +316,7 @@
         "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1769135569/s56oq1ovqqtut9dlzucf.png"
       },
       {
-        "back_flavor": "For as long as he could remember, the answer to “What do you want to do when you grow up?” was always the same: firefighter. And in time, that dream was fulfilled. He has served more than twenty years in Arkham’s Fire Department, a career that gave him the chance to notice unsettling patterns behind a few of the city’s disasters. Every seven years, without fail, a massive forest fire erupts outside Arkham. This year, determined to uncover the truth, he began his own investigation. After extinguishing the fire, he discovered a half-burned scrap of paper. Its message pointed to a name he had never heard before: the \"Brethren of Ash.\" Whoever they are, they will soon have a visitor.",
+        "back_flavor": "For as long as he could remember, the answer to \"What do you want to do when you grow up?\" was always the same: firefighter. And in time, that dream was fulfilled. He has served more than twenty years in Arkham’s Fire Department, a career that gave him the chance to notice unsettling patterns behind a few of the city’s disasters. Every seven years, without fail, a massive forest fire erupts outside Arkham. This year, determined to uncover the truth, he began his own investigation. After extinguishing the fire, he discovered a half-burned scrap of paper. Its message pointed to a name he had never heard before: the \"Brethren of Ash.\" Whoever they are, they will soon have a visitor.",
         "back_name": "Robert Scott",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5, up to 3 level 4-5 Guardian and/or Survivor cards ([guardian]/[survivor]).\n<b>Deckbuilding Requirements (do not count toward deck size)</b>: Jet Strike, Put out the Fire, Can't Save Them All, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must contain at least 10 Guardian [guardian] and 10 Survivor [survivor] cards.",
         "code": "a5a24167-f20e-40b9-92ed-551374516701",
@@ -315,7 +324,10 @@
         "deck_options": [
           {
             "faction": ["guardian", "survivor"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -429,7 +441,10 @@
         "deck_options": [
           {
             "faction": ["seeker", "rogue"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -525,7 +540,10 @@
         "deck_options": [
           {
             "faction": ["seeker", "mystic"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -627,7 +645,10 @@
         "deck_options": [
           {
             "faction": ["seeker", "survivor"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -724,7 +745,10 @@
         "deck_options": [
           {
             "faction": ["rogue", "mystic"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -821,7 +845,10 @@
         "deck_options": [
           {
             "faction": ["rogue", "survivor"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
@@ -914,7 +941,10 @@
         "deck_options": [
           {
             "faction": ["mystic", "survivor"],
-            "atleast": { "factions": 2, "min": 10 },
+            "atleast": {
+              "factions": 2,
+              "min": 10
+            },
             "error": "You must have at least 10 cards from each Class.",
             "level": {
               "min": 0,
