@@ -10,7 +10,7 @@
     "banner_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/banner.png",
     "types": ["investigators", "player_cards", "scenario"],
     "status": "final",
-    "date_updated": "2025-12-14T04:30:00.000Z",
+    "date_updated": "2026-05-03T04:30:00.000Z",
     "generator": "dlloyd"
   },
   "data": {
@@ -134,7 +134,7 @@
         "skill_agility": 4,
         "skill_combat": 1,
         "skill_intellect": 4,
-        "skill_willpower": 2,
+        "skill_willpower": 3,
         "subname": "The Laboratory Labrador",
         "text": "While you are at a location you've sniffed, each skill test you perform gets -1 difficulty.\n[action]: Sniff your location or a connecting location. This action does not provoke attacks of opportunity.\n[elder_sign] effect: +0. Sniff your location or a connecting location.",
         "traits": "Scholar. Pup.",
