@@ -10,7 +10,7 @@
     "banner_credit": "Tomasz Jedruszek",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2025-12-13T09:29:58.863Z",
+    "date_updated": "2026-05-04T18:36:14.234Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -34,7 +34,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "1395013e-0e68-40eb-8b8a-4bcc77fd6c8b",
+        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
         "encounter_position": 1
       },
       {
@@ -56,7 +56,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "1395013e-0e68-40eb-8b8a-4bcc77fd6c8b",
+        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
         "encounter_position": 2
       },
       {
@@ -78,7 +78,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "1395013e-0e68-40eb-8b8a-4bcc77fd6c8b",
+        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
         "encounter_position": 3
       },
       {
@@ -97,7 +97,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
         "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540",
-        "encounter_code": "1395013e-0e68-40eb-8b8a-4bcc77fd6c8b",
+        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
         "encounter_position": 4
       },
       {
@@ -116,7 +116,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
         "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989",
-        "encounter_code": "1395013e-0e68-40eb-8b8a-4bcc77fd6c8b",
+        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
         "encounter_position": 5
       },
       {
@@ -138,7 +138,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "2609adbd-32c1-4ffe-b29b-c5d3808999f4",
+        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
         "encounter_position": 1
       },
       {
@@ -160,7 +160,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "2609adbd-32c1-4ffe-b29b-c5d3808999f4",
+        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
         "encounter_position": 2
       },
       {
@@ -182,7 +182,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "2609adbd-32c1-4ffe-b29b-c5d3808999f4",
+        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
         "encounter_position": 3
       },
       {
@@ -204,7 +204,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "2609adbd-32c1-4ffe-b29b-c5d3808999f4",
+        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
         "encounter_position": 4
       },
       {
@@ -224,6 +224,50 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-05%20-%20Nine%20of%20Cups-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983335459",
         "thumbnail_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-thumbnail.png?cachebust=1755983336073",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "e3c8a2a0-6fed-4804-9ab7-03dd27866511",
+        "deck_limit": 1,
+        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-cpa_legacy_contracts",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Call of Cthulhu",
+        "name": "Dreams of Y'ha-nthlei",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 11,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete the Innsmouth Conspiracy CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from the Innsmouth Conspiracy expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-11.%20Dreams%20of%20Y'ha-nthlei-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919321998",
+        "thumbnail_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-thumbnail.png?cachebust=1777919322267",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "58108b97-ea3e-4e12-9007-7bba107c2f99",
+        "deck_limit": 1,
+        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "@CatsCornerGraphics",
+        "name": "Waking Dreams",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 21,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete The Dream-Eaters CPA, announce your completion in the Mythos Busters Discord server: The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Dream-Eaters expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763195182178",
+        "thumbnail_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-thumbnail.png?cachebust=1763195182897",
         "card_pool_extension": {
           "type": "card"
         },
@@ -252,323 +296,52 @@
         "permanent": true
       },
       {
-        "back_link": "1d87b39b-c1b7-4094-b5bd-43304b72a791-back",
-        "code": "1d87b39b-c1b7-4094-b5bd-43304b72a791",
+        "code": "5bb1951c-311f-4ddd-bbd6-ac01878bda87",
         "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_tic_fhv",
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026",
         "encounter_position": 1,
         "faction_code": "neutral",
-        "illustrator": "Peter van Boucle",
-        "name": "Fish and Loaves",
+        "flavor": "\"I'm not proud of the things I've done for Tillinghast, \nbut I'd be lying if I said I didn't learn anything from it.\"",
+        "illustrator": "Christine Mitzuk",
+        "name": "Haunted by the Past",
         "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "permanent": true,
         "position": 1,
         "quantity": 1,
         "subname": "Campaign Play-Along",
-        "text": "Ultimatum. Accept this contract only during campaign creation.\nIf you are playing The Innsmouth Conspiracy, add all cards with the [[Blessed]] and [[Cursed]] trait from The Feast of Hemlock Vale to the available card pool, or vice-versa. \n<b>Forced -</b> After choosing investigators, flip this card over.",
-        "traits": "Contract. Ultimatum. Paradox. Innsmouth. Hemlock.",
+        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, suffer 2 total physical and/or mental trauma. Then, choose one trait. Your investigator gains that trait for the duration of this campaign.",
+        "traits": "Contract. Hardship. Drowned City.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/1d87b39b-c1b7-4094-b5bd-43304b72a791-Front-1.%20Fish%20and%20Loaves-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194951978",
-        "thumbnail_url": "https://eons.arkham.build/1d87b39b-c1b7-4094-b5bd-43304b72a791-Front-thumbnail.png?cachebust=1763194952696",
+        "image_url": "https://eons.arkham.build/5bb1951c-311f-4ddd-bbd6-ac01878bda87-Front-1%20-%20Haunted%20by%20the%20Past-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919564755",
+        "thumbnail_url": "https://eons.arkham.build/5bb1951c-311f-4ddd-bbd6-ac01878bda87-Front-thumbnail.png?cachebust=1777919564956",
         "card_pool_extension": {
-          "type": "card",
-          "selections": [
-            "10126",
-            "10022",
-            "10024",
-            "10038",
-            "10105",
-            "10019",
-            "07193",
-            "07262",
-            "10125",
-            "10075",
-            "07017",
-            "07191",
-            "07118",
-            "07032",
-            "07034",
-            "07018",
-            "07020",
-            "07023",
-            "07026",
-            "07028",
-            "07030",
-            "07037",
-            "07110",
-            "07112",
-            "07119",
-            "07120",
-            "07116",
-            "07117",
-            "07122",
-            "07155",
-            "07156",
-            "07160",
-            "07190",
-            "07221",
-            "07194",
-            "07195",
-            "07197",
-            "07220",
-            "07225",
-            "07226",
-            "07229",
-            "07227",
-            "07230",
-            "07271",
-            "07269",
-            "07272",
-            "07273",
-            "07301",
-            "07309",
-            "07310",
-            "10046",
-            "07109",
-            "07031",
-            "07192",
-            "07302",
-            "07222",
-            "07308",
-            "10055",
-            "10098",
-            "10099",
-            "07113",
-            "07224",
-            "10029",
-            "10104",
-            "07306",
-            "07036",
-            "07263",
-            "07268",
-            "10068",
-            "10056",
-            "07153",
-            "07019",
-            "10034",
-            "10124",
-            "10085",
-            "10119",
-            "10131",
-            "07035",
-            "07228",
-            "10025",
-            "10092",
-            "10095",
-            "10052"
-          ]
+          "type": "investigator_traits",
+          "values": "trait_choice"
+        }
+      },
+      {
+        "code": "1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d",
+        "deck_limit": 1,
+        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026",
+        "encounter_position": 2,
+        "faction_code": "neutral",
+        "flavor": "\"Did you really think you could just steal\n from the Syndicate and walk away?\"",
+        "illustrator": "Adam Schumpert",
+        "name": "Criminal Associates",
+        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "position": 2,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract when assembling investigator decks.\nEach investigator gains the [[Criminal]] and [[Assistant]] traits.\n<b>Forced</b> - When gathering cards during setup, gather all cards from <i>The Gangs of Arkham</i> encounter set.",
+        "traits": "Contract. Ultimatum. Syndicate. Drowned City.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d-Front-2%20-%20Criminal%20Associate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919564229",
+        "thumbnail_url": "https://eons.arkham.build/1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d-Front-thumbnail.png?cachebust=1777919564456",
+        "card_pool_extension": {
+          "type": "investigator_traits",
+          "values": ["Criminal", "Assistant"]
         },
         "permanent": true
-      },
-      {
-        "code": "1d87b39b-c1b7-4094-b5bd-43304b72a791-back",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_tic_fhv",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "hidden": true,
-        "illustrator": "Peter van Boucle",
-        "name": "Fish and Loaves",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 1,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Ultimatum. Choose one investigator to become the bearer of the Dread Curse weakness. For the remainder of this campaign, any time the bearer of the Dread Curse leaves the campaign for any reason, choose a new investigator to become the bearer of the Dread Curse weakness, and add it to that investigator's deck.\n<b>Forced</b> - After opening hands are drawn: Add 5 [curse] tokens to the chaos bag",
-        "traits": "Contract. Ultimatum. Paradox. Innsmouth. Hemlock.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/1d87b39b-c1b7-4094-b5bd-43304b72a791-Front-1.%20Fish%20and%20Loaves-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1763194953615",
-        "thumbnail_url": "https://eons.arkham.build/1d87b39b-c1b7-4094-b5bd-43304b72a791-Front-thumbnail.png?cachebust=1763194952696",
-        "permanent": true
-      },
-      {
-        "code": "810f1f79-6c7b-4139-9918-dc53e905db20",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_2026_core",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "flavor": "\"...and all the earth would flame with a holocaust of ecstasy and freedom.\" - H.P. Lovecraft, The Call of Cthulhu",
-        "illustrator": "Artist Unknown",
-        "name": "Cinderkin",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 1,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Boon. Accept this contract at any time.\nAdd all previewed cards from the 2026 Core Set to the card pool for the duration of this campaign.",
-        "traits": "Contract. Boon. Future.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/810f1f79-6c7b-4139-9918-dc53e905db20-Front-1.%20Cinderkin-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194959248",
-        "thumbnail_url": "https://eons.arkham.build/810f1f79-6c7b-4139-9918-dc53e905db20-Front-thumbnail.png?cachebust=1763194959887"
-      },
-      {
-        "back_link": "fbf7c988-8437-4733-bc0e-b5ab927c2beb-back",
-        "code": "fbf7c988-8437-4733-bc0e-b5ab927c2beb",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "illustrator": "David Frasheski",
-        "name": "Resisting the Call",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "permanent": true,
-        "position": 1,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Permanent. Accept this contract only during deck creation.\n<b>Forced</b> - When your turn begins, if you are at a partially flooded location, you feel the lure of the deep: When your turn ends, if you are at an unflooded location, take 1 damage or horror (your choice).\n<b>Forced</b> - When your turn begins, if you are at a fully flooded location, flip this over.",
-        "traits": "Contract. Curse. Innsmouth.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/fbf7c988-8437-4733-bc0e-b5ab927c2beb-Front-1.%20Resisting%20the%20Call-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194954355",
-        "thumbnail_url": "https://eons.arkham.build/fbf7c988-8437-4733-bc0e-b5ab927c2beb-Front-thumbnail.png?cachebust=1763194955050"
-      },
-      {
-        "code": "fbf7c988-8437-4733-bc0e-b5ab927c2beb-back",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "hidden": true,
-        "illustrator": "Nele Diel",
-        "name": "Lure of the Deep",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "permanent": true,
-        "position": 1,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Permanent. You gain the [[Deep One]] trait.\n<b>Forced</b> - If a <b>Forced</b> ability of a [[Deep One]] enemy would trigger as a result of that enemy engaging you: Ignore that ability.\n<b>Forced</b> - When the scenario ends, if you have the [[Deep One]] trait, suffer 1 physical or mental trauma (your choice.)\n<b>Forced</b> - When your turn ends, if you are at an unflooded location, flip this over.",
-        "traits": "Contract. Curse. Innsmouth.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/fbf7c988-8437-4733-bc0e-b5ab927c2beb-Front-1.%20Resisting%20the%20Call-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1763194955767",
-        "thumbnail_url": "https://eons.arkham.build/fbf7c988-8437-4733-bc0e-b5ab927c2beb-Front-thumbnail.png?cachebust=1763194955050"
-      },
-      {
-        "code": "a02808df-f03c-4878-8e81-b73b2071ad74",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy",
-        "encounter_position": 2,
-        "faction_code": "neutral",
-        "flavor": "Of course... how could I forget!?",
-        "illustrator": "Dani Hartell",
-        "name": "Forget Me Not",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "permanent": true,
-        "position": 2,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, add a copy of the Amnesia weakness to your deck.\nYou may spend unspent experience to upgrade cards at ANY time. If you modify your deck during a scenario, shuffle your deck afterwards.",
-        "traits": "Contract. Madness. Innsmouth.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/a02808df-f03c-4878-8e81-b73b2071ad74-Front-2.%20Forget%20Me%20Not-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194957816",
-        "thumbnail_url": "https://eons.arkham.build/a02808df-f03c-4878-8e81-b73b2071ad74-Front-thumbnail.png?cachebust=1763194958532"
-      },
-      {
-        "code": "d4f5b286-f849-43d4-9e78-cde60d3898ff",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_tic_fhv",
-        "encounter_position": 2,
-        "faction_code": "neutral",
-        "illustrator": "Kristina Sellers",
-        "name": "Chocolate Rabbit's Foot",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "permanent": true,
-        "position": 2,
-        "quantity": 1,
-        "slot": "Accessory",
-        "subname": "Campaign Play-Along",
-        "text": "Permanent. Accept this contract only during deck creation.\n<b>Forced</b> - After you fail a skill test: Search the top X cards of your deck for a card, draw it, and shuffle the remaining cards into your deck. X is the amount you failed by. Then, add 1 [curse] token to the chaos bag and lose 1 resource. (Limit once per round.)",
-        "traits": "Contract. Cursed. Innsmouth. Hemlock.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/d4f5b286-f849-43d4-9e78-cde60d3898ff-Front-2.%20Chocolate%20Rabbit's%20Foot-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194960581",
-        "thumbnail_url": "https://eons.arkham.build/d4f5b286-f849-43d4-9e78-cde60d3898ff-Front-thumbnail.png?cachebust=1763194961239"
-      },
-      {
-        "code": "1177669d-2361-42b2-90c3-32197e4d8f4c",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy",
-        "encounter_position": 3,
-        "faction_code": "neutral",
-        "illustrator": "@ritualdust@merveilles.town",
-        "is_unique": true,
-        "name": "Religious Pamphlet",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 3,
-        "quantity": 1,
-        "sanity": 4,
-        "subname": "Campaign Play-Along",
-        "text": "Boon. Accept this contract only during campaign creation, and only if there are two investigators or fewer in the campaign.\n[reaction] When you would take possession of a random face-down key: Place 1 horror on Religious Pamphlet and deal 1 horror to each investigator. Cancel the random selection and take possession of a different random face-down key instead, then put the triggering key face-down and randomize it among the face-down keys.\n<b>Forced</b> - Horror on Religious Pamphlet is not removed between scenarios.\n<b>Forced</b> - When Religious Pamphlet would be defeated, exile it. ",
-        "traits": "Contract. Boon. Item. Tome. Innsmouth.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/1177669d-2361-42b2-90c3-32197e4d8f4c-Front-3.%20Religious%20Pamphlet-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194956454",
-        "thumbnail_url": "https://eons.arkham.build/1177669d-2361-42b2-90c3-32197e4d8f4c-Front-thumbnail.png?cachebust=1763194957081"
-      },
-      {
-        "code": "06beb6d4-2067-4cf5-be7b-d2500e260aea",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_vanishing_of_elina_harper",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "illustrator": "Jake Murray",
-        "name": "<i>\"J'Accuse...!\"</i>",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 4,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Boon. Accept this contract during Scenario II Interlude: The Accusation.\n[reaction] After determining the results of your accusation: Cancel your accusation and choose again. Then, choose an investigator to add a copy of the Paranoia weakness to their deck. If you cannot, each investigator searches their deck and discard pile for a copy of Paranoia and draws it, then shuffles their deck afterwards.",
-        "traits": "Contract. Boon. Innsmouth.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/06beb6d4-2067-4cf5-be7b-d2500e260aea-Front-4.%20J'Accuse...!-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765617768486",
-        "thumbnail_url": "https://eons.arkham.build/06beb6d4-2067-4cf5-be7b-d2500e260aea-Front-thumbnail.png?cachebust=1765617769015"
-      },
-      {
-        "back_link": "eda82d9f-d80d-42b7-9767-99d7a160c9e1-back",
-        "code": "eda82d9f-d80d-42b7-9767-99d7a160c9e1",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "illustrator": "Pete Von Sholly",
-        "name": "Mob Mentality",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 5,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Ultimatum. Accept this contract before <b>Scenario III: In Too Deep.</b>\n<b>Forced</b> - When the game ends, if Angry Mob is not in the victory display, record in your Campaign Log that <i>the Angry Mob is out for blood</i>. Next to this, in parentheses, record how much damage is on Angry Mob. Then, flip this card over.",
-        "traits": "Contract. Ultimatum. Innsmouth",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-5%20-%20Mob%20Mentality-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1765617769833",
-        "thumbnail_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-thumbnail.png?cachebust=1765617770345",
-        "permanent": true
-      },
-      {
-        "code": "eda82d9f-d80d-42b7-9767-99d7a160c9e1-back",
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "hidden": true,
-        "name": "Mob Justice",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 5,
-        "quantity": 1,
-        "text": "<blockquote><i>The Innsmouth townsfolk's fury cannot be quelled. They are determined to follow you throughout your investigations!</i></blockquote>\n<b>Forced</b> - At the start of the game during Scenario V, Scenario VI, and Scenario VIII, if <i>the Angry Mob is out for blood</i> is recorded in your Campaign Log: Shuffle the Angry Mob into the encounter deck.\n- If the current scenario is Scenario V: Horror in High Gear, the Angry Mob gains the [[Vehicle]] trait.\n- If the current scenario is Scenario VI: A Light in the Fog or Scenario VIII: Into the Maelstrom, the Angry Mob gains the [[Deep One]] trait.\n<b>Forced</b> - After Angry Mob enters play: Place damage on it equal to the amount of damage recorded in parentheses in your Campaign Log, then cross out that damage.\n<b>Forced</b> - When the game ends, if Angry Mob is not in the victory display: Next to <i>the Angry Mob is out for blood</i>, record how much damage is on Angry Mob.\n<b>Forced</b> - After Angry Mob is defeated: Read <b>Flashback VII</b> in the Campaign Guide. Then, cross off <i>the Angry Mob is out for blood</i> in your Campaign Log.",
-        "type_code": "story",
-        "image_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-5%20-%20Mob%20Mentality-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765617771062",
-        "thumbnail_url": "https://eons.arkham.build/eda82d9f-d80d-42b7-9767-99d7a160c9e1-Front-thumbnail.png?cachebust=1765617770345"
-      },
-      {
-        "code": "4b179aea-3a30-4ab5-8e66-52c53b225c50",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_devil_reef",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "illustrator": "Artist Unknown",
-        "name": "Blast Fishing",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "permanent": true,
-        "position": 6,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Permanent. Accept this contract only during setup for <b>Scenario IV: Devil Reef</b>. The lead investigator gains control of Blast Fishing for this scenario.\nUses (2 supplies).\n[action] Spend 1 supply and exhaust Blast Fishing: Choose either your location or a connecting location. Deal 3 damage to each enemy and investigator at the chosen location.\n<b>Forced</b> - When Blast Fishing leaves play (because the scenario ended or the controlling investigator left play), record <i>the investigators set off charges at Devil Reef</i> in the Campaign Log. Next to this, in parentheses, record how many supplies were used. Then, exile Blast Fishing.",
-        "traits": "Contract. Boon? Item. Innsmouth.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/4b179aea-3a30-4ab5-8e66-52c53b225c50-Front-6%20-%20Blast%20Fishing-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1765617846019",
-        "thumbnail_url": "https://eons.arkham.build/4b179aea-3a30-4ab5-8e66-52c53b225c50-Front-thumbnail.png?cachebust=1765617846616"
       }
     ],
     "packs": [
@@ -581,21 +354,31 @@
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858",
         "name": "CPA Legacy Contracts",
-        "date_release": "2025-11-15",
+        "date_release": "2026-05-04",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       },
       {
         "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "name": "The Innsmouth Conspiracy CPA 2025",
-        "date_release": "2025-11-15",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1765617772802"
+        "name": "The Drowned City CPA 2026",
+        "date_release": "2026-05-04",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1777919565171"
       }
     ],
     "encounter_sets": [
       {
+        "code": "6a74d17c-93fa-41f1-aee4-715302570858-cpa_legacy_contracts",
+        "name": "CPA Legacy Contracts",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-cpa_legacy_contracts-encounter-set-icon.png?cachebust=1777919321622"
+      },
+      {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025",
         "name": "The Circle Undone CPA 2025",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025-encounter-set-icon.png?cachebust=1755983330280"
+      },
+      {
+        "code": "6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025",
+        "name": "The Dream Eaters CPA 2025",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1777919321451"
       },
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025",
@@ -603,42 +386,17 @@
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025-encounter-set-icon.png?cachebust=1763194844038"
       },
       {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_2026_core",
-        "name": "CPA - 2026 Core",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_2026_core-encounter-set-icon.png?cachebust=1763194949828"
+        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026",
+        "name": "CPA TDC 2026",
+        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026-encounter-set-icon.png?cachebust=1777919563967"
       },
       {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_devil_reef",
-        "name": "CPA - Devil Reef",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_devil_reef-encounter-set-icon.png?cachebust=1765617845304"
-      },
-      {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep",
-        "name": "CPA - In Too Deep",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_in_too_deep-encounter-set-icon.png?cachebust=1765617767479"
-      },
-      {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy",
-        "name": "CPA - The Innsmouth Conspiracy",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_innsmouth_conspiracy-encounter-set-icon.png?cachebust=1763194951139"
-      },
-      {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_vanishing_of_elina_harper",
-        "name": "CPA - The Vanishing of Elina Harper",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_the_vanishing_of_elina_harper-encounter-set-icon.png?cachebust=1765617767990"
-      },
-      {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_tic_fhv",
-        "name": "CPA - TIC : FHV",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_-_tic_fhv-encounter-set-icon.png?cachebust=1763194950544"
-      },
-      {
-        "code": "1395013e-0e68-40eb-8b8a-4bcc77fd6c8b",
+        "code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
         "name": "CPA Basic Contracts",
         "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
       },
       {
-        "code": "2609adbd-32c1-4ffe-b29b-c5d3808999f4",
+        "code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
         "name": "CPA Legacy Contracts",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       }
