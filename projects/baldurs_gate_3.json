@@ -575,7 +575,7 @@
         "back_name": "Shadowheart",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to 10 other [[Insight]] and/or [[Trick]] cards level 0-2*. For every 10 experience you've earned in total, increase this level* by 1.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: Mysterious Mission, Nightsong, Shar's Teachings, 1 random basic weakness.",
         "code": "42483554-449f-429d-a8ce-de39d9f94982",
-        "deck_requirements": "size:30, card:437c488d-68cf-4b02-ada4-d64cc6fd8070, card:5d1c165e-e649-4784-8f50-077484454ca6, card:78585099-8836-457f-ae91-96665d399d07, card:a3da0e3c-719e-485c-8c0a-ebc48299e75b, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:437c488d-68cf-4b02-ada4-d64cc6fd8070, card:78585099-8836-457f-ae91-96665d399d07, card:a3da0e3c-719e-485c-8c0a-ebc48299e75b, random:subtype:basicweakness",
         "deck_options": [
           {
             "faction": ["mystic"],
