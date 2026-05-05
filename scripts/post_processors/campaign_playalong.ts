@@ -24,14 +24,6 @@ const CARD_POOL_EXTENSIONS = {
   "e4323553-6250-4e6a-848d-47030035ccc3": "card",
   "58108b97-ea3e-4e12-9007-7bba107c2f99": "card",
   "e3c8a2a0-6fed-4804-9ab7-03dd27866511": "card",
-  "5bb1951c-311f-4ddd-bbd6-ac01878bda87": {
-    type: "investigator_traits",
-    values: "trait_choice",
-  },
-  "1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d": {
-    type: "investigator_traits",
-    values: ["Criminal", "Assistant"],
-  },
   "1d87b39b-c1b7-4094-b5bd-43304b72a791": {
     type: "card",
     selections: [
@@ -122,6 +114,17 @@ const CARD_POOL_EXTENSIONS = {
   },
 };
 
+const CUSTOM_BEHAVIOR = {
+  "5bb1951c-311f-4ddd-bbd6-ac01878bda87": {
+    type: "investigator_traits",
+    values: "trait_choice",
+  },
+  "1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d": {
+    type: "investigator_traits",
+    values: ["Criminal", "Assistant"],
+  },
+};
+
 export default function mapper(data: Data) {
   // biome-ignore lint/suspicious/noExplicitAny: <explanation>
   const encounterSetCache: Record<string, any> = {};
@@ -132,6 +135,11 @@ export default function mapper(data: Data) {
       card.card_pool_extension = { type };
     } else if (type) {
       card.card_pool_extension = type;
+    }
+
+    const customBehavior = CUSTOM_BEHAVIOR[card.code];
+    if (customBehavior) {
+      card.custom_behavior = customBehavior;
     }
 
     if (card.text?.includes("Ultimatum") || card.text?.includes("Permanent.")) {

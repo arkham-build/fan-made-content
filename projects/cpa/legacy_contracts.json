@@ -116,7 +116,7 @@
         "thumbnail_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-thumbnail.png?cachebust=1777919322267"
       },
       {
-        "code": "58108b97-ea3e-4e12-9007-7bba107c2f99",
+        "code": "e4323553-6250-4e6a-848d-47030035ccc3",
         "deck_limit": 1,
         "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025",
         "encounter_position": 1,
@@ -132,24 +132,6 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763195182178",
         "thumbnail_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-thumbnail.png?cachebust=1763195182897"
-      },
-      {
-        "code": "e4323553-6250-4e6a-848d-47030035ccc3",
-        "deck_limit": 1,
-        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "illustrator": "@CatsCornerGraphics",
-        "name": "Waking Dreams",
-        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
-        "position": 21,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "[reaction] When you complete The Dream-Eaters CPA, announce your completion in the Mythos Busters Discord server: The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Dream-Eaters expansion. That card is added to your card pool for the duration of this campaign.",
-        "traits": "Contract. Legacy.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/e4323553-6250-4e6a-848d-47030035ccc3-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194855311",
-        "thumbnail_url": "https://eons.arkham.build/e4323553-6250-4e6a-848d-47030035ccc3-Front-thumbnail.png?cachebust=1763194856027"
       }
     ],
     "encounter_sets": [

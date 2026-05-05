@@ -10,7 +10,7 @@
     "banner_credit": "Tomasz Jedruszek",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2026-05-04T18:36:14.234Z",
+    "date_updated": "2026-05-04T19:25:31.947Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -34,7 +34,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
+        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
         "encounter_position": 1
       },
       {
@@ -56,7 +56,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
+        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
         "encounter_position": 2
       },
       {
@@ -78,7 +78,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
+        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
         "encounter_position": 3
       },
       {
@@ -97,7 +97,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
         "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540",
-        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
+        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
         "encounter_position": 4
       },
       {
@@ -116,7 +116,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
         "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989",
-        "encounter_code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
+        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
         "encounter_position": 5
       },
       {
@@ -138,7 +138,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
+        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
         "encounter_position": 1
       },
       {
@@ -160,7 +160,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
+        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
         "encounter_position": 2
       },
       {
@@ -182,7 +182,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
+        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
         "encounter_position": 3
       },
       {
@@ -204,7 +204,7 @@
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
+        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
         "encounter_position": 4
       },
       {
@@ -252,7 +252,7 @@
         "permanent": true
       },
       {
-        "code": "58108b97-ea3e-4e12-9007-7bba107c2f99",
+        "code": "e4323553-6250-4e6a-848d-47030035ccc3",
         "deck_limit": 1,
         "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025",
         "encounter_position": 1,
@@ -268,28 +268,6 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763195182178",
         "thumbnail_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-thumbnail.png?cachebust=1763195182897",
-        "card_pool_extension": {
-          "type": "card"
-        },
-        "permanent": true
-      },
-      {
-        "code": "e4323553-6250-4e6a-848d-47030035ccc3",
-        "deck_limit": 1,
-        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025",
-        "encounter_position": 1,
-        "faction_code": "neutral",
-        "illustrator": "@CatsCornerGraphics",
-        "name": "Waking Dreams",
-        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
-        "position": 21,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "[reaction] When you complete The Dream-Eaters CPA, announce your completion in the Mythos Busters Discord server: The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Dream-Eaters expansion. That card is added to your card pool for the duration of this campaign.",
-        "traits": "Contract. Legacy.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/e4323553-6250-4e6a-848d-47030035ccc3-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763194855311",
-        "thumbnail_url": "https://eons.arkham.build/e4323553-6250-4e6a-848d-47030035ccc3-Front-thumbnail.png?cachebust=1763194856027",
         "card_pool_extension": {
           "type": "card"
         },
@@ -314,7 +292,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/5bb1951c-311f-4ddd-bbd6-ac01878bda87-Front-1%20-%20Haunted%20by%20the%20Past-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919564755",
         "thumbnail_url": "https://eons.arkham.build/5bb1951c-311f-4ddd-bbd6-ac01878bda87-Front-thumbnail.png?cachebust=1777919564956",
-        "card_pool_extension": {
+        "custom_behavior": {
           "type": "investigator_traits",
           "values": "trait_choice"
         }
@@ -337,7 +315,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d-Front-2%20-%20Criminal%20Associate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919564229",
         "thumbnail_url": "https://eons.arkham.build/1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d-Front-thumbnail.png?cachebust=1777919564456",
-        "card_pool_extension": {
+        "custom_behavior": {
           "type": "investigator_traits",
           "values": ["Criminal", "Assistant"]
         },
@@ -391,12 +369,12 @@
         "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026-encounter-set-icon.png?cachebust=1777919563967"
       },
       {
-        "code": "26163e6f-ec5c-4b26-93d0-b734a5e0758e",
+        "code": "34e350b6-4c02-447f-a84a-251d5fff847e",
         "name": "CPA Basic Contracts",
         "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
       },
       {
-        "code": "62d1d5ea-ee41-4cb8-aaa1-f5c6cf453144",
+        "code": "31979bdd-f01e-437c-9356-dea0f9733483",
         "name": "CPA Legacy Contracts",
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
       }
