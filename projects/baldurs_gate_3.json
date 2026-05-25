@@ -9,7 +9,7 @@
     "banner_url": "https://gameluster.com/wp-content/uploads/2023/08/ezgif-5-fffdb0d95c.jpg",
     "types": ["player_cards", "investigators"],
     "status": "final",
-    "date_updated": "2025-06-29T19:44:25.825Z",
+    "date_updated": "2026-05-25T19:44:25.825Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.0, Strange Eons 3.3.4241"
   },
   "data": {
@@ -3269,7 +3269,7 @@
         "position": 109,
         "quantity": 1,
         "subname": "Wild Magic",
-        "text": "Subclass. Permanent.\n<b>Forced</b> - <i>Wild Magic Surge --</i> After you play a [[Spell]] card: Place 2 horror tokens here. Reveal X random non-[bless]/[curse]/<fro> chaos tokens from the chaos bag. X is the amount of horror here. If you reveal an [elder_sign] or [skull] token, remove all horror tokens and draw a random bonded card.",
+        "text": "Subclass. Permanent.\n<b>Forced</b> - <i>Wild Magic Surge --</i> After you play a [[Spell]] card: Place 2 horror tokens here. Reveal X random non-[bless]/[curse]/[frost] chaos tokens from the chaos bag. X is the amount of horror here. If you reveal an [elder_sign] or [skull] token, remove all horror tokens and draw a random bonded card.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -8006,7 +8006,7 @@
         "skill_intellect": 1,
         "skill_willpower": 1,
         "slot": "Hand",
-        "text": "You get +1 [willpower].\n[reaction] When you chill an enemy, except via Mourning Frost: Chill that enemy again.\n[reaction] When a chilled enemy is defeated at your location, exhaust this card: For each <fro> token on that enemy, discover 1 clue at your location or gain 1 resource.",
+        "text": "You get +1 [willpower].\n[reaction] When you chill an enemy, except via Mourning Frost: Chill that enemy again.\n[reaction] When a chilled enemy is defeated at your location, exhaust this card: For each [frost] token on that enemy, discover 1 clue at your location or gain 1 resource.",
         "traits": "Item. Relic. Weapon.",
         "type_code": "asset",
         "xp": 3,
