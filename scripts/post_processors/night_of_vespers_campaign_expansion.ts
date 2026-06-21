@@ -78,15 +78,13 @@ export default function mapper(data: Data) {
     }
   }
 
-  data.encounter_sets = data.encounter_sets
-    .filter((set) => !ENCOUNTER_CODE_MAPPINGS[set.code])
-    .map((set) => {
-      set.code = set.code.replace(
-        "c_users_ahind_desktop_gangster_project_icons_",
-        "",
-      );
-      return set;
-    });
+  data.encounter_sets = data.encounter_sets.map((set) => {
+    set.code = set.code.replace(
+      "c_users_ahind_desktop_gangster_project_icons_",
+      "",
+    );
+    return set;
+  });
 
   for (const card of data.cards) {
     if (card.encounter_code) {
