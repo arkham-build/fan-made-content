@@ -9,7 +9,7 @@
     "banner_url": "https://gameluster.com/wp-content/uploads/2023/08/ezgif-5-fffdb0d95c.jpg",
     "types": ["player_cards", "investigators"],
     "status": "final",
-    "date_updated": "2026-05-25T19:44:25.825Z",
+    "date_updated": "2026-06-25T20:44:25.825Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.0, Strange Eons 3.3.4241"
   },
   "data": {
@@ -753,7 +753,6 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 24,
         "quantity": 1,
-        "restrictions": "investigator:42483554-449f-429d-a8ce-de39d9f94982",
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Hand",
