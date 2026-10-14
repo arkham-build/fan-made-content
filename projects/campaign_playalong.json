@@ -6,11 +6,11 @@
     "author": "CPA Organizers",
     "language": "en",
     "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
-    "banner_url": "https://assets.arkham.build/fan_made_content/5b6a1f95-73d1-4059-8af2-b9a645efd625/banner.jpg",
-    "banner_credit": "Tomasz Jedruszek",
+    "banner_url": "https://i.imgur.com/HHp7TJC.jpeg",
+    "banner_credit": "",
     "types": ["player_cards"],
     "status": "final",
-    "date_updated": "2026-05-04T19:25:31.947Z",
+    "date_updated": "2026-08-21T07:53:26.323Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -34,7 +34,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
+        "encounter_code": "d487f1df-3bc4-4d8a-be93-242f123a5bba",
         "encounter_position": 1
       },
       {
@@ -56,7 +56,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
+        "encounter_code": "d487f1df-3bc4-4d8a-be93-242f123a5bba",
         "encounter_position": 2
       },
       {
@@ -78,7 +78,7 @@
         "card_pool_extension": {
           "type": "card"
         },
-        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
+        "encounter_code": "d487f1df-3bc4-4d8a-be93-242f123a5bba",
         "encounter_position": 3
       },
       {
@@ -97,7 +97,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
         "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540",
-        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
+        "encounter_code": "d487f1df-3bc4-4d8a-be93-242f123a5bba",
         "encounter_position": 4
       },
       {
@@ -116,7 +116,7 @@
         "type_code": "asset",
         "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
         "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989",
-        "encounter_code": "34e350b6-4c02-447f-a84a-251d5fff847e",
+        "encounter_code": "d487f1df-3bc4-4d8a-be93-242f123a5bba",
         "encounter_position": 5
       },
       {
@@ -132,13 +132,13 @@
         "text": "[reaction] When you complete the Dunwich Legacy CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Dunwich Legacy expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-01%20-%20Legacy%20of%20Dunwich-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983332797",
-        "thumbnail_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-thumbnail.png?cachebust=1755983333429",
+        "image_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-01%20-%20Legacy%20of%20Dunwich-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298199425",
+        "thumbnail_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-thumbnail.png?cachebust=1787298199836",
         "card_pool_extension": {
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
+        "encounter_code": "a444bba0-dde4-497b-8efb-4d88cffd6e8a",
         "encounter_position": 1
       },
       {
@@ -154,13 +154,13 @@
         "text": "[reaction] When you complete the Path to Carcosa CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Path to Carcosa expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-02%20-%20Memories%20of%20Carcosa-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983336653",
-        "thumbnail_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-thumbnail.png?cachebust=1755983337382",
+        "image_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-02%20-%20Memories%20of%20Carcosa-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298196214",
+        "thumbnail_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-thumbnail.png?cachebust=1787298196502",
         "card_pool_extension": {
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
+        "encounter_code": "a444bba0-dde4-497b-8efb-4d88cffd6e8a",
         "encounter_position": 2
       },
       {
@@ -176,13 +176,13 @@
         "text": "[reaction] When you complete the Feast of Hemlock Vale CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Feast of Hemlock Vale expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-03%20-%20The%20Colour%20of%20the%20Vale-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983334107",
-        "thumbnail_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-thumbnail.png?cachebust=1755983334947",
+        "image_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-03%20-%20The%20Colour%20of%20the%20Vale-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298196847",
+        "thumbnail_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-thumbnail.png?cachebust=1787298197136",
         "card_pool_extension": {
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
+        "encounter_code": "a444bba0-dde4-497b-8efb-4d88cffd6e8a",
         "encounter_position": 3
       },
       {
@@ -198,13 +198,13 @@
         "text": "[reaction] When you complete the Edge of the Earth CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from the Edge of the Earth expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-04%20-%20Expedition%20Log-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983331158",
-        "thumbnail_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-thumbnail.png?cachebust=1755983331876",
+        "image_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-04%20-%20Expedition%20Log-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298198098",
+        "thumbnail_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-thumbnail.png?cachebust=1787298198447",
         "card_pool_extension": {
           "type": "card"
         },
         "permanent": true,
-        "encounter_code": "31979bdd-f01e-437c-9356-dea0f9733483",
+        "encounter_code": "a444bba0-dde4-497b-8efb-4d88cffd6e8a",
         "encounter_position": 4
       },
       {
@@ -222,8 +222,8 @@
         "text": "[reaction]When you complete The Circle Undone CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Circle Undone expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-05%20-%20Nine%20of%20Cups-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1755983335459",
-        "thumbnail_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-thumbnail.png?cachebust=1755983336073",
+        "image_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-05%20-%20Nine%20of%20Cups-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298197508",
+        "thumbnail_url": "https://eons.arkham.build/90b02ba0-c18c-4d84-9e9a-72e2270697e1-Front-thumbnail.png?cachebust=1787298197807",
         "card_pool_extension": {
           "type": "card"
         },
@@ -244,15 +244,55 @@
         "text": "[reaction] When you complete the Innsmouth Conspiracy CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from the Innsmouth Conspiracy expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-11.%20Dreams%20of%20Y'ha-nthlei-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919321998",
-        "thumbnail_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-thumbnail.png?cachebust=1777919322267",
+        "image_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-11%20-%20Dreams%20of%20Y'ha-nthlei-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298195555",
+        "thumbnail_url": "https://eons.arkham.build/e3c8a2a0-6fed-4804-9ab7-03dd27866511-Front-thumbnail.png?cachebust=1787298195865",
         "card_pool_extension": {
           "type": "card"
         },
         "permanent": true
       },
       {
-        "code": "e4323553-6250-4e6a-848d-47030035ccc3",
+        "code": "0aeb35d9-62e9-46a9-8416-5d885a4f7113",
+        "deck_limit": 1,
+        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-cpa_tdc_2026",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Patrick McEvoy",
+        "name": "Victory Lap",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 12,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] If you confronted Cthulhu at the Sepulchre of the Sleeper, accepted the <b><i>That Which Can Eternal Lie</i></b> contract, or played Doom of Arkham Part II using the Ultimatum of the Sleeper, you may accept this contract the next time you participate in a CPA.\nPermanent. Accept this contract only during deck creation. When you accept this contract, earn 1 experience.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/0aeb35d9-62e9-46a9-8416-5d885a4f7113-Front-12%20-%20Victory%20Lap-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298194319",
+        "thumbnail_url": "https://eons.arkham.build/0aeb35d9-62e9-46a9-8416-5d885a4f7113-Front-thumbnail.png?cachebust=1787298194652",
+        "permanent": true
+      },
+      {
+        "code": "9311a547-4c69-4e57-9efb-092d148117af",
+        "deck_limit": 1,
+        "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-cpa_tdc_2026",
+        "encounter_position": 2,
+        "faction_code": "neutral",
+        "illustrator": "Richard Wright",
+        "name": "Wake of Cthulhu",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 13,
+        "quantity": 1,
+        "text": "[reaction] When you complete the Drowned City CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from the Drowned City expansion. That card is added to your card pool for the duration of this campaign.\n",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/9311a547-4c69-4e57-9efb-092d148117af-Front-13%20-%20Wake%20of%20Cthulhu-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298194939",
+        "thumbnail_url": "https://eons.arkham.build/9311a547-4c69-4e57-9efb-092d148117af-Front-thumbnail.png?cachebust=1787298195248",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "58108b97-ea3e-4e12-9007-7bba107c2f99",
         "deck_limit": 1,
         "encounter_code": "6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025",
         "encounter_position": 1,
@@ -266,60 +306,31 @@
         "text": "[reaction] When you complete The Dream-Eaters CPA, announce your completion in the Mythos Busters Discord server: The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from The Dream-Eaters expansion. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Legacy.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1763195182178",
-        "thumbnail_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-thumbnail.png?cachebust=1763195182897",
+        "image_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-06%20-%20Waking%20Dreams-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298198738",
+        "thumbnail_url": "https://eons.arkham.build/58108b97-ea3e-4e12-9007-7bba107c2f99-Front-thumbnail.png?cachebust=1787298199116",
         "card_pool_extension": {
           "type": "card"
         },
         "permanent": true
       },
       {
-        "code": "5bb1951c-311f-4ddd-bbd6-ac01878bda87",
+        "code": "03a75cda-c58a-42a7-9369-45019b7ff357",
         "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026",
+        "encounter_code": "7800b636-1183-498c-b69c-07dddb9b4ec5-the_scarlet_keys_cpa_2026",
         "encounter_position": 1,
         "faction_code": "neutral",
-        "flavor": "\"I'm not proud of the things I've done for Tillinghast, \nbut I'd be lying if I said I didn't learn anything from it.\"",
-        "illustrator": "Christine Mitzuk",
-        "name": "Haunted by the Past",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
+        "illustrator": "Rafal Hrynkiewicz",
+        "name": "Erased from Existence",
+        "pack_code": "7800b636-1183-498c-b69c-07dddb9b4ec5",
         "permanent": true,
         "position": 1,
         "quantity": 1,
         "subname": "Campaign Play-Along",
-        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, suffer 2 total physical and/or mental trauma. Then, choose one trait. Your investigator gains that trait for the duration of this campaign.",
-        "traits": "Contract. Hardship. Drowned City.",
+        "text": "Permanent. Accept this contract only during deck creation.\n<b>Forced</b> - When the game ends, if you have any set-aside hollows: Exile them. Record <i>[your investigator] has forgotten</i>: and next to this, record the name of each card exiled this way in the Campaign Log. Cards with those names are removed from your card pool and cannot be added to your card pool for the remainder of this campaign. Each time a card name is removed from your card pool, choose a card name to add to your card pool for the remainder of this campaign.",
+        "traits": "Contract. Power. The Scarlet Keys.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/5bb1951c-311f-4ddd-bbd6-ac01878bda87-Front-1%20-%20Haunted%20by%20the%20Past-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919564755",
-        "thumbnail_url": "https://eons.arkham.build/5bb1951c-311f-4ddd-bbd6-ac01878bda87-Front-thumbnail.png?cachebust=1777919564956",
-        "custom_behavior": {
-          "type": "investigator_traits",
-          "values": "trait_choice"
-        }
-      },
-      {
-        "code": "1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d",
-        "deck_limit": 1,
-        "encounter_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026",
-        "encounter_position": 2,
-        "faction_code": "neutral",
-        "flavor": "\"Did you really think you could just steal\n from the Syndicate and walk away?\"",
-        "illustrator": "Adam Schumpert",
-        "name": "Criminal Associates",
-        "pack_code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "position": 2,
-        "quantity": 1,
-        "subname": "Campaign Play-Along",
-        "text": "Ultimatum. Accept this contract when assembling investigator decks.\nEach investigator gains the [[Criminal]] and [[Assistant]] traits.\n<b>Forced</b> - When gathering cards during setup, gather all cards from <i>The Gangs of Arkham</i> encounter set.",
-        "traits": "Contract. Ultimatum. Syndicate. Drowned City.",
-        "type_code": "asset",
-        "image_url": "https://eons.arkham.build/1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d-Front-2%20-%20Criminal%20Associate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1777919564229",
-        "thumbnail_url": "https://eons.arkham.build/1ef5cfb3-3bbb-420e-9c6e-9abd085d9b1d-Front-thumbnail.png?cachebust=1777919564456",
-        "custom_behavior": {
-          "type": "investigator_traits",
-          "values": ["Criminal", "Assistant"]
-        },
-        "permanent": true
+        "image_url": "https://eons.arkham.build/03a75cda-c58a-42a7-9369-45019b7ff357-Front-1%20-%20Erased%20from%20Existence-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298345050",
+        "thumbnail_url": "https://eons.arkham.build/03a75cda-c58a-42a7-9369-45019b7ff357-Front-thumbnail.png?cachebust=1787298345318"
       }
     ],
     "packs": [
@@ -332,31 +343,36 @@
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858",
         "name": "CPA Legacy Contracts",
-        "date_release": "2026-05-04",
-        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
+        "date_release": "2026-08-21",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1787298200104"
       },
       {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f",
-        "name": "The Drowned City CPA 2026",
-        "date_release": "2026-05-04",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-collection-icon.png?cachebust=1777919565171"
+        "code": "7800b636-1183-498c-b69c-07dddb9b4ec5",
+        "name": "The Scarlet Keys CPA 2026",
+        "date_release": "2026-08-21",
+        "icon_url": "https://eons.arkham.build/7800b636-1183-498c-b69c-07dddb9b4ec5-collection-icon.png?cachebust=1787298345582"
       }
     ],
     "encounter_sets": [
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-cpa_legacy_contracts",
         "name": "CPA Legacy Contracts",
-        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-cpa_legacy_contracts-encounter-set-icon.png?cachebust=1777919321622"
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-cpa_legacy_contracts-encounter-set-icon.png?cachebust=1787298193998"
+      },
+      {
+        "code": "6a74d17c-93fa-41f1-aee4-715302570858-cpa_tdc_2026",
+        "name": "CPA TDC 2026",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-cpa_tdc_2026-encounter-set-icon.png?cachebust=1787298193368"
       },
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025",
         "name": "The Circle Undone CPA 2025",
-        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025-encounter-set-icon.png?cachebust=1755983330280"
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_circle_undone_cpa_2025-encounter-set-icon.png?cachebust=1787298193635"
       },
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025",
         "name": "The Dream Eaters CPA 2025",
-        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1777919321451"
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-the_dream_eaters_cpa_2025-encounter-set-icon.png?cachebust=1787298193100"
       },
       {
         "code": "6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025",
@@ -364,19 +380,19 @@
         "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-where_the_gods_dwell_cpa_2025-encounter-set-icon.png?cachebust=1763194844038"
       },
       {
-        "code": "2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026",
-        "name": "CPA TDC 2026",
-        "icon_url": "https://eons.arkham.build/2fd0f349-c79c-4c06-9a3d-ca5f93e0f59f-cpa_tdc_2026-encounter-set-icon.png?cachebust=1777919563967"
+        "code": "7800b636-1183-498c-b69c-07dddb9b4ec5-the_scarlet_keys_cpa_2026",
+        "name": "The Scarlet Keys CPA 2026",
+        "icon_url": "https://eons.arkham.build/7800b636-1183-498c-b69c-07dddb9b4ec5-the_scarlet_keys_cpa_2026-encounter-set-icon.png?cachebust=1787298344707"
       },
       {
-        "code": "34e350b6-4c02-447f-a84a-251d5fff847e",
+        "code": "d487f1df-3bc4-4d8a-be93-242f123a5bba",
         "name": "CPA Basic Contracts",
         "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
       },
       {
-        "code": "31979bdd-f01e-437c-9356-dea0f9733483",
+        "code": "a444bba0-dde4-497b-8efb-4d88cffd6e8a",
         "name": "CPA Legacy Contracts",
-        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1755983338124"
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1787298200104"
       }
     ]
   }

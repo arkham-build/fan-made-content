@@ -24,6 +24,7 @@ const CARD_POOL_EXTENSIONS = {
   "e4323553-6250-4e6a-848d-47030035ccc3": "card",
   "58108b97-ea3e-4e12-9007-7bba107c2f99": "card",
   "e3c8a2a0-6fed-4804-9ab7-03dd27866511": "card",
+  "9311a547-4c69-4e57-9efb-092d148117af": "card",
   "1d87b39b-c1b7-4094-b5bd-43304b72a791": {
     type: "card",
     selections: [

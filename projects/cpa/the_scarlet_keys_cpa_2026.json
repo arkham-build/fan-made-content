@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "code": "7800b636-1183-498c-b69c-07dddb9b4ec5",
+    "name": "The Scarlet Keys CPA 2026",
+    "description": "Join the MythosBusters Discord server for the May 2026 Campaign Play-Along of The Scarlet Keys!",
+    "author": "CPA Organizers",
+    "language": "en",
+    "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
+    "banner_url": "",
+    "banner_credit": "",
+    "types": ["player_cards"],
+    "status": "final",
+    "date_updated": "2026-08-21T09:45:45.584066",
+    "generator": "Zoop 3.5, AHLCG plugin 9.94, Strange Eons 3.5.1"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "03a75cda-c58a-42a7-9369-45019b7ff357",
+        "deck_limit": 1,
+        "encounter_code": "7800b636-1183-498c-b69c-07dddb9b4ec5-the_scarlet_keys_cpa_2026",
+        "encounter_position": 1,
+        "faction_code": "neutral",
+        "illustrator": "Rafal Hrynkiewicz",
+        "name": "Erased from Existence",
+        "pack_code": "7800b636-1183-498c-b69c-07dddb9b4ec5",
+        "permanent": true,
+        "position": 1,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation.\n<b>Forced</b> - When the game ends, if you have any set-aside hollows: Exile them. Record <i>[your investigator] has forgotten</i>: and next to this, record the name of each card exiled this way in the Campaign Log. Cards with those names are removed from your card pool and cannot be added to your card pool for the remainder of this campaign. Each time a card name is removed from your card pool, choose a card name to add to your card pool for the remainder of this campaign.",
+        "traits": "Contract. Power. The Scarlet Keys.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/03a75cda-c58a-42a7-9369-45019b7ff357-Front-1%20-%20Erased%20from%20Existence-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1787298345050",
+        "thumbnail_url": "https://eons.arkham.build/03a75cda-c58a-42a7-9369-45019b7ff357-Front-thumbnail.png?cachebust=1787298345318"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "7800b636-1183-498c-b69c-07dddb9b4ec5-the_scarlet_keys_cpa_2026",
+        "name": "The Scarlet Keys CPA 2026",
+        "icon_url": "https://eons.arkham.build/7800b636-1183-498c-b69c-07dddb9b4ec5-the_scarlet_keys_cpa_2026-encounter-set-icon.png?cachebust=1787298344707"
+      }
+    ],
+    "packs": [
+      {
+        "code": "7800b636-1183-498c-b69c-07dddb9b4ec5",
+        "name": "The Scarlet Keys CPA 2026",
+        "date_release": "2026-08-21",
+        "icon_url": "https://eons.arkham.build/7800b636-1183-498c-b69c-07dddb9b4ec5-collection-icon.png?cachebust=1787298345582"
+      }
+    ]
+  }
+}
