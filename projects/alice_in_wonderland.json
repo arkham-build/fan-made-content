@@ -8517,38 +8517,13 @@
         "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_chessmen-encounter-set-icon.png?cachebust=1761392101633"
       },
       {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-a_sea_of_troubles",
-        "name": "A Sea of Troubles",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_a_sea_of_troubles-encounter-set-icon.png?cachebust=1761392095391"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-arkham_in_wonderland",
-        "name": "Arkham in Wonderland",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_arkham_in_wonderland-encounter-set-icon.png?cachebust=1761392092566"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-bleeding_hearts",
-        "name": "Bleeding Hearts",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_bleeding_hearts-encounter-set-icon.png?cachebust=1761392101071"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-card_guards",
-        "name": "Card Guards",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_card_guards-encounter-set-icon.png?cachebust=1761392095943"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-chessmen",
-        "name": "Chessmen",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_chessmen-encounter-set-icon.png?cachebust=1761392101633"
-      },
-      {
         "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-fools_mate",
-        "name": "Fools Mate",
+        "name": "Fool's Mate",
         "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_fools_mate-encounter-set-icon.png?cachebust=1761392098280"
       },
       {
         "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-gurathnakas_shadows",
-        "name": "Gurathnakas Shadows",
+        "name": "Gurathnaka's Shadows",
         "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_gurathnakas_shadows-encounter-set-icon.png?cachebust=1761392091954"
       },
       {
@@ -8568,7 +8543,7 @@
       },
       {
         "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-waking_nightmare",
-        "name": "Waking Nightmare",
+        "name": "Lucid Nightmare",
         "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_waking_nightmare-encounter-set-icon.png?cachebust=1761392093683"
       },
       {
@@ -8595,66 +8570,11 @@
         "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-wonderland_boons",
         "name": "Wonderland Boons",
         "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_wonderland_boons-encounter-set-icon.png?cachebust=1761392099508"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-fools_mate",
-        "name": "Fools Mate",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_fools_mate-encounter-set-icon.png?cachebust=1761392098280"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-gurathnakas_shadows",
-        "name": "Gurathnakas Shadows",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_gurathnakas_shadows-encounter-set-icon.png?cachebust=1761392091954"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-jabberwock",
-        "name": "Jabberwock",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_jabberwock-encounter-set-icon.png?cachebust=1761392096491"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-riddles_and_games",
-        "name": "Riddles and Games",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_riddles_and_games-encounter-set-icon.png?cachebust=1761392098897"
       },
       {
         "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-sibling_rivalry",
         "name": "Sibling Rivalry",
         "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-sibling_rivalry-encounter-set-icon.png?cachebust=1761392093159"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-tempest_in_a_teapot",
-        "name": "Tempest in a Teapot",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_tempest_in_a_teapot-encounter-set-icon.png?cachebust=1761392100525"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-waking_nightmare",
-        "name": "Waking Nightmare",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_waking_nightmare-encounter-set-icon.png?cachebust=1761392093683"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-walrus_and_carpenter",
-        "name": "Walrus and Carpenter",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_walrus_and_carpenter-encounter-set-icon.png?cachebust=1761392094307"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-warped_reality",
-        "name": "Warped Reality",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_warped_reality-encounter-set-icon.png?cachebust=1761392097670"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-wild_snark_chase",
-        "name": "Wild Snark Chase",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_wild_snark_chase-encounter-set-icon.png?cachebust=1761392102167"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-wonderland_banes",
-        "name": "Wonderland Banes",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_wonderland_banes-encounter-set-icon.png?cachebust=1761392100020"
-      },
-      {
-        "code": "be2af41d-9065-4b8e-970f-7cf37c197a7f-wonderland_boons",
-        "name": "Wonderland Boons",
-        "icon_url": "https://eons.arkham.build/be2af41d-9065-4b8e-970f-7cf37c197a7f-e_strangeeons_1_-_custom_campaigns_alice_in_wonderland_9_-_icons_wonderland_boons-encounter-set-icon.png?cachebust=1761392099508"
       }
     ],
     "packs": [
