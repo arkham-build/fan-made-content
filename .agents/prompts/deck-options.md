@@ -22,12 +22,11 @@ Use these resources:
 Guidelines:
 
 - Use regular expressions or BuildQL only when a simple `attribute`- or
-  `text`-based option cannot encode a deckbuilding rule.
+  `text`-based option cannot fully encode a deckbuilding rule.
 - When you encode restrictions, preserve the implicit option order: any option
   before a `not` is interpreted as an `unless`.
-- Put unlimited options before limited options. The order of `limit` options
-  matters.
-- Check the inferred options against the schema and relevant official cards.
+- Put unlimited options before options with a `limit`.
+- Check the inferred options against the schema, relevant official cards, and in complex cases, the arkham.build engine.
 - Do not invent support for rules that the schema cannot encode.
 
 Return Markdown with a fenced JSON block in this form, with an entry for each
