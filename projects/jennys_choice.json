@@ -14,22 +14,6 @@
   "data": {
     "cards": [
       {
-        "back_image_url": "https://img2.arkhamcards.com/cards/zjc/zjc_00001b.jpg",
-        "back_text": "Hard / Expert\n[skull]: -1. After this test is resolved, each readied [[Cultist]] enemy moves one location away from you.\n[cultist]: Reveal another token. If you fail this test discard an asset you control.\n[tablet]: -2. If you fail, ready the nearest exhausted [[Monster]] enemy; if it engages you, it attacks.\n[elder_thing]: -4. If you succeed, discard an [[Omen]] in play if you are at a [[Resonant]] location.",
-        "code": "420ed4d6-2bb1-471b-b616-46959a5ccf82",
-        "double_sided": true,
-        "encounter_code": "e899b7ba-2fca-48ac-bee7-103f44039207-lost_cathedral",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "image_url": "https://img2.arkhamcards.com/cards/zjc/zjc_00001.jpg",
-        "name": "Jenny's Choice",
-        "pack_code": "e899b7ba-2fca-48ac-bee7-103f44039207",
-        "position": 1,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -1. (-2 if you are at a [[Resonant]] location.)\n[cultist]: Reveal another token. If you fail this test shuffle an asset you control into your deck.\n[tablet]: -1. If you fail, ready an exhausted enemy at your location.\n[elder_thing]: -2. If you succeed, discard an [[Omen]] in play.",
-        "type_code": "scenario"
-      },
-      {
         "back_flavor": "A piping begins to stir the air, and a haunting and discordant melody echoes through the halls of the Cathedral.\nYou must hurry. If Izzie is somehow involved, whatever the Green Man cult has gathered to do-it is beginning.",
         "back_image_url": "https://img2.arkhamcards.com/cards/zjc/zjc_00002b.jpg",
         "back_name": "Atonal Chords",

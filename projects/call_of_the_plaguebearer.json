@@ -14,20 +14,6 @@
   "data": {
     "cards": [
       {
-        "back_text": "Hard / Expert\n[skull]: -X. X is twice your distance from Lab Omega. (Lab Omega is 0, Morgue is 2...)\n[cultist]: -6. If you succeed, you may remove a barricade from an adjacent location.\n[tablet]: -3. After this test resolves, move one location towards Lab Omega.",
-        "code": "23d51baa-a4c4-44ca-8454-22c685d0c794",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-late_risers",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "Late Risers",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 1,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is your distance from Lab Omega. (Lab Omega is 0, Morgue is 1...)\n[cultist]: -3. If you succeed, you may remove a barricade from an adjacent location.\n[tablet]: -2. If you fail, move one location towards Lab Omega.",
-        "type_code": "scenario"
-      },
-      {
         "back_flavor": "Peering through the barricades, you can spot several inexplicable devices and something that looks like a cadaver",
         "back_text": "Barricade (1[per_investigator])",
         "clues": 1,
@@ -81,20 +67,6 @@
         "type_code": "asset"
       },
       {
-        "back_text": "Hard / Expert\n[skull]: -X. X is the number of locations with a <i>Ruin</i> or <i>Survivors</i>.\n[cultist]: -6. If you succeed, draw 1 card and gain 1 resource.\n[tablet]: -3. Draw the topmost [[Miasma]] treachery from the discard pile.",
-        "code": "045be0c4-119c-4b37-9ba9-90e7f28164d9",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-night_on_the_town",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "Night on the Town",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 19,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the number of locations with <i>Survivors</i>.\n[cultist]: -4. If you succeed, draw 1 card and gain 1 resource.\n[tablet]: -3. If you fail, draw the topmost [[Miasma]] treachery from the discard pile.",
-        "type_code": "scenario"
-      },
-      {
         "code": "f86e8795-64d1-4101-983b-32a64b218a0d",
         "cost": 3,
         "deck_limit": 1,
@@ -118,20 +90,6 @@
         "text": "You get +1 [willpower] and +1 [agility].\n[reaction] When an investigator at your location would take an attack of opportunity, exhaust Hibbs: Cancel that attack.",
         "traits": "Ally. Agency.",
         "type_code": "asset"
-      },
-      {
-        "back_text": "Hard / Expert\n[skull]: -X. X is 2+ the greatest damage on a [[Re-Animated]] enemy in play (max 5).\n[cultist]: -5. If you succeed, deal 1 damage to any [[Re-Animated]] enemy in play.\n[tablet]: -3. If you fail, ready the nearest exhausted [[Re-Animated]] enemy.",
-        "code": "ba49f4de-8cb5-49c9-9468-1388963a8bbd",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "Dead by Dawn",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 47,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the greatest damage on a [[Re-Animated]] enemy in play (max 5).\n[cultist]: -3. If you succeed, deal 1 damage to any [[Re-Animated]] enemy in play.\n[tablet]: -2. If you fail, ready the nearest exhausted [[Re-Animated]] enemy.",
-        "type_code": "scenario"
       },
       {
         "code": "9b336ff9-6576-4e36-995f-997abd3ce5a6",
@@ -228,20 +186,6 @@
         "text": "Permanent. Cannot leave play.\n[reaction] After you succeed at a skill test where a [cultist] token was revealed, exhaust Unbreakable Will: Heal all horror from Unbreakable Will.",
         "traits": "Human. Talent.",
         "type_code": "asset"
-      },
-      {
-        "back_text": "Hard / Expert\n[skull]: -X. X is 1 greater than the highest number of doom on an enemy in play (max 6).\n[cultist]: -4 (-6 if you are at a [[Miasma]] location). If you succeed, place 1 resource on your location <i>(from the token pool)</i>.\n[tablet]: -3. Place 1 resource on the current agenda <i>(from the token pool)</i>. This effect may cause the <b>Procession</b> to move.",
-        "code": "00e97285-708c-4750-b927-05b891d0211e",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-mourning_chorus",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "Mourning Chorus",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 83,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the highest number of doom on an enemy in play (max 4).\n[cultist]: -3. (-5 if you are at a [[Miasma]] location). If you succeed, place 1 resource on your location <i>(from the token pool)</i>.\n[tablet]: -3. If you fail, place 1 resource on the current agenda <i>(from the token pool)</i>. This effect may cause the <b>Procession</b> to move.",
-        "type_code": "scenario"
       },
       {
         "code": "0df53519-c96f-4033-93d3-6b9b9856216f",
@@ -393,20 +337,6 @@
         "type_code": "skill"
       },
       {
-        "back_text": "Hard / Expert\n[skull]: -X. X is 2 plus the number of locations you are away from The Saferoom.\n[cultist]: -5. If you succeed, you may move to a connecting location.\n[tablet]: -4. If you fail, place 1 clue on your location <i>(from the token bank)</i>.\n[elder_thing]: -3. For each point you fail by, each investigator who has <i>Heeded the Call</i> must spend 1 clue or take 1 horror.",
-        "code": "5d18eca3-29e9-4007-8d1f-d94291f7e22a",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-high_noon_descent",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "High Noon Descent",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 109,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the number of locations you are away from The Saferoom.\n[cultist]: -4. If you succeed, you may move to a connecting location.\n[tablet]: -2. If you fail, place 1 clue on your location <i>(from the token bank)</i>.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must spend 1 clue or take 1 horror.",
-        "type_code": "scenario"
-      },
-      {
         "back_flavor": "An unsettling glow, like light through water, comes from deeper in the Omega Wing...",
         "clues": 1,
         "code": "1a93fbe4-4b3f-46fe-9637-9125bec4b0bd",
@@ -449,48 +379,6 @@
         "type_code": "asset"
       },
       {
-        "back_text": "Hard / Expert\n[skull]: -X. X is the most damage or horror on a location (max 6).\n[cultist]: -5. If you succeed, you may return 1 token from your location to the token bank.\n[tablet]: -3. If you fail, you cannot trigger the [action] ability on the act for the remainder of the round.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must place 1 horror or 1 damage on their location for each point you failed by.",
-        "code": "de56f1d8-0828-4899-9826-fe9d9b71a70f",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-the_afternoon_war",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "The Afternoon War",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 149,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the most damage or horror on a location (max 4).\n[cultist]: -4. If you succeed, you may return 1 token from your location to the token bank.\n[tablet]: -2. If you fail, you cannot trigger the [action] ability on the act for the remainder of the round.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must place 1 horror or 1 damage on their location.",
-        "type_code": "scenario"
-      },
-      {
-        "back_text": "Hard / Expert\n[skull]: -X. X is 2 greater than the [[Floor]] of your location.\n[cultist]: -7. If you succeed, you may immediately discover a clue from any revealed location.\n[tablet]: -4. If you fail, move the Tendrils of the First one location towards you.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must move one location towards the First Among Many for each point you failed by.",
-        "code": "28bb3515-89d1-4c11-a084-a2cf8aad3f96",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-death_at_sundown",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "Death at Sundown",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 179,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the [[Floor]] of your location.\n[cultist]: -5. If you succeed, you may immediately discover a clue from any revealed location.\n[tablet]: -2. If you fail, move the Tendrils of the First one location towards you.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must move one location towards the First Among Many.",
-        "type_code": "scenario"
-      },
-      {
-        "back_text": "Hard / Expert\n[skull]: -X. X is the number of locations with horror on them.\n[cultist]: -6. If you succeed, deal 1 damage to any enemy in play or discover 1 clue from any location in play.\n[tablet]: -4. After this test ends, move once towards the nearest [[Miasma]] location.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must resolve the <b>Forced</b> ability on each [[Miasma]] location as if they had started their turn there.",
-        "code": "92ecbd2f-2b75-47f8-9636-dd586483d3b1",
-        "double_sided": true,
-        "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-the_midnight_hour",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "The Midnight Hour",
-        "pack_code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "position": 211,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is the number of locations with horror on them (max 4).\n[cultist]: -4. If you succeed, deal 1 damage to any enemy in play or discover 1 clue from any location in play.\n[tablet]: -4. If you fail, move once towards the nearest [[Miasma]] location.\n[elder_thing]: -3. If you fail, each investigator who has <i>Heeded the Call</i> must resolve the <b>Forced</b> ability on each [[Miasma]] location as if they had started their turn there.",
-        "type_code": "scenario"
-      },
-      {
         "back_link": "73932180-1d44-43f1-8626-efc9552293ad-back",
         "code": "73932180-1d44-43f1-8626-efc9552293ad",
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-the_midnight_hour",
@@ -530,10 +418,6 @@
         "name": "Dead by Dawn"
       },
       {
-        "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-death_at_sundown",
-        "name": "Death at Sundown"
-      },
-      {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-high_noon_descent",
         "name": "High Noon Descent"
       },
@@ -542,20 +426,12 @@
         "name": "Late Risers"
       },
       {
-        "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-mourning_chorus",
-        "name": "Mourning Chorus"
-      },
-      {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-night_on_the_town",
         "name": "Night on the Town"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
         "name": "Tenuous Allies"
-      },
-      {
-        "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-the_afternoon_war",
-        "name": "The Afternoon War"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-the_midnight_hour",

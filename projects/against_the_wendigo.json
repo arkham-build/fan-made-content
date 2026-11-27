@@ -14,22 +14,6 @@
   "data": {
     "cards": [
       {
-        "back_image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00001b.jpg",
-        "back_text": "Hard / Expert\n[skull]: -2. If you fail, lose 2 resources.\n[cultist]: -2. If you fail, remove an [[Ally]] asset you control from the game.\n[tablet]: -3. If you succeed, place 1 clue from the reserve on the Mountain Range. If you fail, take 1 horror.\n[elder_thing]: -4. If you fail, take 1 damage and 1 horror.",
-        "code": "ef77f371-b7cc-419d-9b66-c7440decc1c5",
-        "double_sided": true,
-        "encounter_code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00001.jpg",
-        "name": "Against the Wendigo",
-        "pack_code": "01d4196d-51d7-439d-8028-26a32e04ad26",
-        "position": 1,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -1. If you fail, lose 1 resource.\n[cultist]: -2. If you fail, an [[Ally]] asset you control takes 1 damage and 1 horror.\n[tablet]: -2. If you succeed, place 1 clue from the reserve on the Mountain Range. If you fail, take 1 horror.\n[elder_thing]: -3. If you fail, take 1 horror.",
-        "type_code": "scenario"
-      },
-      {
         "code": "31e20ea4-60f7-44f5-8b2a-ac821dd551ce",
         "deck_limit": 1,
         "encounter_code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",

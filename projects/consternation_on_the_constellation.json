@@ -14,20 +14,6 @@
   "data": {
     "cards": [
       {
-        "back_text": "Hard / Expert\n[skull]: -3 (-5 instead if your location is exxhausted).\n[cultist]: -3. If you succeed, either deal 1 damage to a [[Cultist]] enemy or remove 1 doom from a [[Cultist]] enemy.\n[tablet]: -4. If you succeed, either draw 2 cards or gain 2 resources.\n[elder_thing]: -5. If you succeed, ready your location or exhaust a [[Deep One]] enemy.",
-        "code": "f183f841-59e1-4e49-a4b3-315f7eda8c25",
-        "double_sided": true,
-        "encounter_code": "a36487c5-ebd1-4e4b-90e9-5f68e617f8c0-consternation_on_the_constellation",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "name": "Consternation on the Constellation",
-        "pack_code": "a36487c5-ebd1-4e4b-90e9-5f68e617f8c0",
-        "position": 1,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -2 (-4 instead if your location is exxhausted).\n[cultist]: -2. If you succeed, either deal 1 damage to a [[Cultist]] enemy or remove 1 doom from a [[Cultist]] enemy.\n[tablet]: -3. If you succeed, either draw 2 cards or gain 2 resources.\n[elder_thing]: -4. If you succeed, ready your location or exhaust a [[Deep One]] enemy.",
-        "type_code": "scenario"
-      },
-      {
         "code": "962adab8-f517-4c91-909a-06178d30097a",
         "cost": 3,
         "deck_limit": 1,

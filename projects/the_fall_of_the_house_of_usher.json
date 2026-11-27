@@ -14,22 +14,6 @@
   "data": {
     "cards": [
       {
-        "back_image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00001b.jpg",
-        "back_text": "Hard / Expert\n[skull]: -X. X is equal to 2 + the number of [[Geist]] encounter cards in play.\n[cultist]: -1. Reveal another token. If you fail, place 1 doom on an asset you control.\n[tablet]: -4. -6 instead if there is 2 or more damage on your location.\n[elder_thing]: -4. If you fail, take 1 horror.",
-        "code": "3331b1c8-7792-442f-9738-6b53a2c834c3",
-        "double_sided": true,
-        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
-        "encounter_position": 1,
-        "faction_code": "mythos",
-        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00001.jpg",
-        "name": "The Fall of the House of Usher",
-        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
-        "position": 1,
-        "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -X. X is equal to 1 + the number of [[Geist]] encounter cards in play. (Max 5)\n[cultist]: Reveal another token. If you fail, place 1 doom on an asset you control.\n[tablet]: -3. -5 instead if there is 2 or more damage on your location.\n[elder_thing]: -3. If you fail, take 1 horror.",
-        "type_code": "scenario"
-      },
-      {
         "code": "eba16c51-7b9b-4705-b8e7-734d5eaa2370",
         "deck_limit": 1,
         "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
