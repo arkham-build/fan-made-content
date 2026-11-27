@@ -18,7 +18,7 @@
       {
         "back_flavor": "Bark Harrigan is the best of the best. Trained in paw-to-paw combat and barksmanship, he takes pride in being a protector of humanity. A shield against the feline forces that threaten to invade the world. But will his weapons and skills be enough? Or is he all bark and no bite?",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, [[Weapon]] cards level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Catling Gun, More Bark Than Bite, 1 random basic weakness.",
-        "code": "zbh_00001",
+        "code": "80001",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -36,7 +36,7 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:zbh_00002, card:zbh_00003, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:80002, card:80003, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "guardian",
         "health": 9,
@@ -61,7 +61,7 @@
         "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00001b_thumb.jpg"
       },
       {
-        "code": "zbh_00002",
+        "code": "80002",
         "cost": 5,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -70,7 +70,7 @@
         "pack_code": "zbh",
         "position": 2,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00001",
+        "restrictions": "investigator:80001",
         "skill_combat": 1,
         "skill_wild": 1,
         "skill_willpower": 1,
@@ -82,7 +82,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00002_thumb.jpg"
       },
       {
-        "code": "zbh_00003",
+        "code": "80003",
         "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "J. Murray, C. Doffing",
@@ -90,7 +90,7 @@
         "pack_code": "zbh",
         "position": 3,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00001",
+        "restrictions": "investigator:80001",
         "subtype_code": "weakness",
         "text": "<b>Revelation</b> - Put More Bark Than Bite into play in your threat area.\nYou get -3 [combat]. (BARK! BARK! BARK!)\n<b>Forced</b> - After you defeat an enemy: Discard More Bark Than Bite.",
         "traits": "Flaw.",
@@ -101,7 +101,7 @@
       {
         "back_flavor": "One of the brightest in Muttskatonic University Obedience School, Kate is an expert in theoretical physics, chemistry, and zoology. Thanks to her keen mind and attention to detail, she has concocted a way to defend herself and others from the machinations of cats everywhere. Using her newly constructed Feline Discombobulator - and her keen sense of smell - Kate will sniff out evil and defend Barkham from the forces that dwell in the shadows.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards that look like they would smell weird.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Feline Discombobulator, Foul Odor, 1 random basic weakness.",
-        "code": "zbh_00004",
+        "code": "80004",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -120,7 +120,7 @@
             "error": "You cannot have more than 5 cards that smell weird."
           }
         ],
-        "deck_requirements": "size:30, card:zbh_00005, card:zbh_00006, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:80005, card:80006, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "seeker",
         "health": 5,
@@ -145,7 +145,7 @@
         "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00004b_thumb.jpg"
       },
       {
-        "code": "zbh_00005",
+        "code": "80005",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -154,7 +154,7 @@
         "pack_code": "zbh",
         "position": 5,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00004",
+        "restrictions": "investigator:80004",
         "skill_agility": 1,
         "skill_intellect": 1,
         "skill_wild": 1,
@@ -167,7 +167,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00005_thumb.jpg"
       },
       {
-        "code": "zbh_00006",
+        "code": "80006",
         "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "D. Hartel, J. Olson",
@@ -175,7 +175,7 @@
         "pack_code": "zbh",
         "position": 6,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00004",
+        "restrictions": "investigator:80004",
         "subtype_code": "weakness",
         "text": "<b>Revelation</b> - Put Foul Odor into play in your threat area.\n<b>Forced</b> - After you perofrm a skill test at a location you have sniffed: Take 1 horror.\n[action]: Discard Foul Odor and unsniff everything you've sniffed.",
         "traits": "Madness.",
@@ -186,7 +186,7 @@
       {
         "back_flavor": "\"Skids\" O'Drool always wanted to be a good boy. But his nose for trouble kept landing him in the pound, where the \"bad dogs\" go. Usually this was because of his favorite pastime: begging to go for a car ride, then fervently wrenching the wheel away from the hapless human. How this obsession with cars began, we may never know. All we know is that other drivers should be careful when \"Skids\" is on the loose.",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards that \"move\" you (and by \"move\" we mean physically, not emotionally).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Take the Wheel, Dogcatchers, 1 random basic weakness.",
-        "code": "zbh_00007",
+        "code": "80007",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -205,7 +205,7 @@
             "error": "You cannot have more than 5 cards that \"move\" you."
           }
         ],
-        "deck_requirements": "size:30, card:zbh_00008, card:zbh_00009, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:80008, card:80009, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "rogue",
         "health": 8,
@@ -230,7 +230,7 @@
         "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00007b_thumb.jpg"
       },
       {
-        "code": "zbh_00008",
+        "code": "80008",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -239,7 +239,7 @@
         "pack_code": "zbh",
         "position": 8,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00007",
+        "restrictions": "investigator:80007",
         "skill_agility": 1,
         "skill_combat": 1,
         "skill_wild": 1,
@@ -250,7 +250,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00008_thumb.jpg"
       },
       {
-        "code": "zbh_00009",
+        "code": "80009",
         "deck_limit": 1,
         "enemy_damage": 1,
         "enemy_evade": 3,
@@ -263,7 +263,7 @@
         "pack_code": "zbh",
         "position": 9,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00007",
+        "restrictions": "investigator:80007",
         "subtype_code": "weakness",
         "text": "<b>Prey</b> - \"Skids\" O'Drool.\nHunter.\n<b>Forced</b> - After you enter Dogcatchers' location or Dogcatchers enters your location: You cannot move for the remainder of the round.",
         "traits": "Humanoid.",
@@ -274,7 +274,7 @@
       {
         "back_flavor": "As a psychic, Jacqueline Canine can always foretell what is buried beneath the earth in any given spot. She knows where to go to find the best bones, where to rummage to find the tastiest scraps of food, and where to beg for the best treats. But what will Jacqueline do when these premonitions lead her to real danger?",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, level 0-5 cards that are cats or have cats in their artwork. (Blasphemy!)\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Chew Toy of Nightmares, No Sense of Space or Time, 1 random basic weakness.",
-        "code": "zbh_00010",
+        "code": "80010",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -285,7 +285,7 @@
             }
           }
         ],
-        "deck_requirements": "size:30, card:zbh_00011, card:zbh_00012, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:80011, card:80012, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "mystic",
         "health": 6,
@@ -310,7 +310,7 @@
         "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00010b_thumb.jpg"
       },
       {
-        "code": "zbh_00011",
+        "code": "80011",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -320,7 +320,7 @@
         "pack_code": "zbh",
         "position": 11,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00010",
+        "restrictions": "investigator:80010",
         "skill_intellect": 1,
         "skill_wild": 1,
         "skill_willpower": 1,
@@ -333,7 +333,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00011_thumb.jpg"
       },
       {
-        "code": "zbh_00012",
+        "code": "80012",
         "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "M. Bradbury, C. Lemm-Thompson",
@@ -341,7 +341,7 @@
         "pack_code": "zbh",
         "position": 12,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00010",
+        "restrictions": "investigator:80010",
         "subtype_code": "weakness",
         "text": "<b>Revelation</b> - Oh no! You forgot where you buried all your cards! For each card you have buried, either take 1 horror or discard it.",
         "traits": "Flaw.",
@@ -352,7 +352,7 @@
       {
         "back_flavor": "Arf. Arf arf arf. BARK! Grrrrrrrr. Woof. Arf arf arf arf arf arf arf. Bark bark. Mrr?... Bark. Bark bark. Arf arf arf arf arf. Borf borf. Woof woof woof! AROOOOOOO-",
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to five other level 0 [[Ally]] cards who are either other dogs or humans who want to pet you.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Friendly Human, Out of Doggie Treats, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: ABSOLUTELY NO CATS UNDER ANY CIRCUMSTANCES!",
-        "code": "zbh_00013",
+        "code": "80013",
         "deck_limit": 1,
         "deck_options": [
           {
@@ -372,7 +372,7 @@
             "error": "You cannot have more than 5 [[Ally]] cards."
           }
         ],
-        "deck_requirements": "size:30, card:zbh_00014, card:zbh_00015, random:subtype:basicweakness",
+        "deck_requirements": "size:30, card:80014, card:80015, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "survivor",
         "health": 5,
@@ -397,7 +397,7 @@
         "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00013b_thumb.jpg"
       },
       {
-        "code": "zbh_00014",
+        "code": "80014",
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "neutral",
@@ -406,7 +406,7 @@
         "pack_code": "zbh",
         "position": 14,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00013",
+        "restrictions": "investigator:80013",
         "subname": "I Guess His Name is \"Pete?\"",
         "text": "Duke deck only. Uses (5 treats).\n[reaction] After you succeed at a skill test, spend 1 treat: Good boy! Either (choose one) -\n- Heal 1 damage or 1 horror.\n- Draw 1 card.\n- Gain 1 resource.",
         "traits": "Ally.",
@@ -415,7 +415,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00014_thumb.jpg"
       },
       {
-        "code": "zbh_00015",
+        "code": "80015",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "...but I did good!\nDidn't I do good?\nI did good, right?\n... right?",
@@ -424,7 +424,7 @@
         "pack_code": "zbh",
         "position": 15,
         "quantity": 1,
-        "restrictions": "investigator:zbh_00013",
+        "restrictions": "investigator:80013",
         "subtype_code": "weakness",
         "text": "<b>Revelation</b> - Remove all treats from Friendly Human.",
         "traits": "Blunder.",
@@ -433,7 +433,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00015_thumb.jpg"
       },
       {
-        "code": "zbh_00016",
+        "code": "80016",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -453,7 +453,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00016_thumb.jpg"
       },
       {
-        "code": "zbh_00017",
+        "code": "80017",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -474,7 +474,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00017_thumb.jpg"
       },
       {
-        "code": "zbh_00018",
+        "code": "80018",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -497,7 +497,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00018_thumb.jpg"
       },
       {
-        "code": "zbh_00019",
+        "code": "80019",
         "cost": 5,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -517,7 +517,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00019_thumb.jpg"
       },
       {
-        "code": "zbh_00020",
+        "code": "80020",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -537,7 +537,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00020_thumb.jpg"
       },
       {
-        "code": "zbh_00021",
+        "code": "80021",
         "deck_limit": 2,
         "faction_code": "neutral",
         "flavor": "Go home dog, you are drunk.",
@@ -556,7 +556,7 @@
       },
       {
         "back_text": "Hard / Expert\n[skull]: -X. X is the number of [[Meowsk]] enemies in play, in the victory display, and attached to Meowlathotep.\n[cultist]: -2. Place 1 doom on the nearest enemy.\n[tablet]: -2. Place 1 of your clues on your location.\n[elder_thing]: -7. Woof.",
-        "code": "zbh_00022",
+        "code": "80022",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 1,
@@ -576,7 +576,7 @@
         "back_flavor": "The summoning is complete! Now one of the \"Meowsks\" of Meowlathotep prowls the streets of Barkham. It is up to you to put an end to this menace before its true master is unveiled.",
         "back_name": "Cat's Out of the Bag",
         "back_text": "If no locations are lousy with cats, advance to agenda 2a.\nIf at least 1 location is lousy with cats, find the one that is farthest from all investigators. Flip the card beneath that location over and spawn it at that location. Reset the agenda deck to agenda 1a.",
-        "code": "zbh_00023",
+        "code": "80023",
         "doom": 4,
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
@@ -600,7 +600,7 @@
         "back_flavor": "You have run out of time. The Order's ritual is complete. Now there is nothing that can be done to stop Meowlathotep from dismantling this world and creating a paradise for felinekind. A world without doors, with endless birds to chase, posts to scratch, and sunlight to lounge in. A world with no dogs.",
         "back_name": "Ancient Hisstory",
         "back_text": "<b>(→R2)</b>",
-        "code": "zbh_00024",
+        "code": "80024",
         "doom": 8,
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
@@ -623,7 +623,7 @@
         "back_flavor": "You have forced the Order's paw. Now their true master, the Prowling Chaos, has emerged. Can you even hope to stop this awful creature?",
         "back_name": "The Prowling Chaos",
         "back_text": "Spawn the set-aside Meowlathotep enemy at a [[Central]] location of your choice.\nFor each [[Meowsk]] enemy in play, attach that enemy facedown to Meowlathotep. Now Meowlathotep is the one who is lousy with cats!\nAdvance to act 2a and agenda 2a.",
-        "code": "zbh_00025",
+        "code": "80025",
         "clues": null,
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
@@ -647,7 +647,7 @@
         "back_flavor": "As the entity known as Meowlathotep collapses, its body dissolves into the shadows from whence it emerged. You know that one day the Order of Dead Rodents on the Doorstep will try to revive their master once more... but for now, at least, Barkham is safe. You let out a fierce howl to let the rest of the dogs in the city know of your victory. Within moments, the sky is filled with the triumphant howls of dogs everywhere. All across Barkham, humans look on in confusion, thinking: \"Why is my dog active weird?\"",
         "back_name": "Foiled by Dogs!",
         "back_text": "<b>(→R1)</b>",
-        "code": "zbh_00026",
+        "code": "80026",
         "clues": null,
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
@@ -670,7 +670,7 @@
       {
         "back_flavor": "Be cautious where you walk in Beasttown. You never know what you might step in.",
         "clues": 1,
-        "code": "zbh_00027",
+        "code": "80027",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 6,
@@ -692,7 +692,7 @@
       {
         "back_flavor": "Where you go when you need to see a dog about a man.",
         "clues": 1,
-        "code": "zbh_00028",
+        "code": "80028",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 7,
@@ -715,7 +715,7 @@
       {
         "back_flavor": "They've got a lid on every trashcan and a fence around every tree.",
         "clues": 1,
-        "code": "zbh_00029",
+        "code": "80029",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 8,
@@ -737,7 +737,7 @@
       {
         "back_flavor": "The banks of the Muttskatonic River are lined with warehouses and stores, filled with exotic treats from around the world.",
         "clues": 1,
-        "code": "zbh_00030",
+        "code": "80030",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 9,
@@ -760,7 +760,7 @@
       {
         "back_flavor": "While baying at the moon is a fairly common occurrence in Barkham, the howls that escape the Asylum are... unnatural.",
         "clues": 1,
-        "code": "zbh_00031",
+        "code": "80031",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 10,
@@ -783,7 +783,7 @@
       {
         "back_flavor": "Both dogs and ghouls agree: Bones are delicious.",
         "clues": 2,
-        "code": "zbh_00032",
+        "code": "80032",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 11,
@@ -806,7 +806,7 @@
       {
         "back_flavor": "Only the smartest and goodest pups make it into the Muttskatonic University Obedience School. There, students can earn dogtorates in advanced mathematics, fine art, and not being afraid of the vacuum cleaner.",
         "clues": 1,
-        "code": "zbh_00033",
+        "code": "80033",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 12,
@@ -829,7 +829,7 @@
       {
         "back_flavor": "You ain't nothin' but a pound dog.",
         "clues": 2,
-        "code": "zbh_00034",
+        "code": "80034",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 13,
@@ -852,7 +852,7 @@
       {
         "back_flavor": "\"We're going for a car ride,\" they said.\n\"It'll be fun,\" they said.",
         "clues": 2,
-        "code": "zbh_00035",
+        "code": "80035",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 14,
@@ -875,7 +875,7 @@
       {
         "back_flavor": "It's got the best kibble in town.\nNo doggie bags allowed, of course.",
         "clues": 2,
-        "code": "zbh_00036",
+        "code": "80036",
         "double_sided": true,
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 15,
@@ -896,7 +896,7 @@
         "back_thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00036b_thumb.jpg"
       },
       {
-        "code": "zbh_00037",
+        "code": "80037",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 16,
         "enemy_damage": 2,
@@ -921,7 +921,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00037_thumb.jpg"
       },
       {
-        "code": "zbh_00038",
+        "code": "80038",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 17,
         "enemy_damage": 1,
@@ -945,7 +945,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00038_thumb.jpg"
       },
       {
-        "code": "zbh_00039",
+        "code": "80039",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 18,
         "enemy_damage": 2,
@@ -969,7 +969,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00039_thumb.jpg"
       },
       {
-        "code": "zbh_00040",
+        "code": "80040",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 19,
         "enemy_damage": 1,
@@ -993,7 +993,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00040_thumb.jpg"
       },
       {
-        "code": "zbh_00041",
+        "code": "80041",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 20,
         "enemy_damage": 1,
@@ -1017,7 +1017,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00041_thumb.jpg"
       },
       {
-        "code": "zbh_00042",
+        "code": "80042",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 21,
         "enemy_evade": 4,
@@ -1040,7 +1040,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00042_thumb.jpg"
       },
       {
-        "code": "zbh_00043",
+        "code": "80043",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 22,
         "enemy_damage": 1,
@@ -1064,7 +1064,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00043_thumb.jpg"
       },
       {
-        "code": "zbh_00044",
+        "code": "80044",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 23,
         "enemy_damage": 2,
@@ -1087,7 +1087,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00044_thumb.jpg"
       },
       {
-        "code": "zbh_00045",
+        "code": "80045",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 24,
         "enemy_evade": 2,
@@ -1107,7 +1107,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00045_thumb.jpg"
       },
       {
-        "code": "zbh_00046",
+        "code": "80046",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 27,
         "enemy_damage": 1,
@@ -1128,7 +1128,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00046_thumb.jpg"
       },
       {
-        "code": "zbh_00047",
+        "code": "80047",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 29,
         "enemy_damage": 1,
@@ -1148,7 +1148,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00047_thumb.jpg"
       },
       {
-        "code": "zbh_00048",
+        "code": "80048",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 30,
         "enemy_damage": 1,
@@ -1170,7 +1170,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00048_thumb.jpg"
       },
       {
-        "code": "zbh_00049",
+        "code": "80049",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 32,
         "faction_code": "mythos",
@@ -1186,7 +1186,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00049_thumb.jpg"
       },
       {
-        "code": "zbh_00050",
+        "code": "80050",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 34,
         "faction_code": "mythos",
@@ -1202,7 +1202,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00050_thumb.jpg"
       },
       {
-        "code": "zbh_00051",
+        "code": "80051",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 36,
         "faction_code": "mythos",
@@ -1219,7 +1219,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00051_thumb.jpg"
       },
       {
-        "code": "zbh_00052",
+        "code": "80052",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 38,
         "faction_code": "mythos",
@@ -1236,7 +1236,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00052_thumb.jpg"
       },
       {
-        "code": "zbh_00053",
+        "code": "80053",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 41,
         "faction_code": "mythos",
@@ -1253,7 +1253,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00053_thumb.jpg"
       },
       {
-        "code": "zbh_00054",
+        "code": "80054",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 44,
         "faction_code": "mythos",
@@ -1269,7 +1269,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00054_thumb.jpg"
       },
       {
-        "code": "zbh_00055",
+        "code": "80055",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 46,
         "faction_code": "mythos",
@@ -1285,7 +1285,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00055_thumb.jpg"
       },
       {
-        "code": "zbh_00056",
+        "code": "80056",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 48,
         "faction_code": "mythos",
@@ -1301,7 +1301,7 @@
         "thumbnail_url": "https://eons.arkham.build/398c706a-0ee9-44eb-9912-77c7769f46d5/zbh_00056_thumb.jpg"
       },
       {
-        "code": "zbh_00057",
+        "code": "80057",
         "encounter_code": "meddling_of_meowlathotep",
         "encounter_position": 50,
         "faction_code": "mythos",
