@@ -62,17 +62,20 @@
     "packs": [
       {
         "code": "8e00cea9-66bd-4e60-9090-970686ff590a",
-        "name": "The Black Stone"
+        "name": "The Black Stone",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zbs.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "8e00cea9-66bd-4e60-9090-970686ff590a-the_black_stone",
-        "name": "The Black Stone"
+        "name": "The Black Stone",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/the_black_stone.png"
       },
       {
         "code": "8e00cea9-66bd-4e60-9090-970686ff590a-tomes",
-        "name": "Tomes"
+        "name": "Tomes",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/tomes.png"
       }
     ]
   }

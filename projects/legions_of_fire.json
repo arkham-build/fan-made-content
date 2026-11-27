@@ -92,13 +92,15 @@
     "packs": [
       {
         "code": "f2d0b474-8ea3-4339-b997-58fcc7ce96d4",
-        "name": "Legions of Fire"
+        "name": "Legions of Fire",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zlf.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "f2d0b474-8ea3-4339-b997-58fcc7ce96d4-depraved_legions",
-        "name": "Depraved Legions"
+        "name": "Depraved Legions",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/depraved_legions.png"
       }
     ]
   }

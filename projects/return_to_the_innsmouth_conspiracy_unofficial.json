@@ -333,13 +333,15 @@
     "packs": [
       {
         "code": "291c2769-da2c-489b-a1f4-23204efeec0a",
-        "name": "The (Unofficial) Return to The Innsmouth Conspiracy"
+        "name": "The (Unofficial) Return to The Innsmouth Conspiracy",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zrttic.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "291c2769-da2c-489b-a1f4-23204efeec0a-zreturn_to_in_too_deep",
-        "name": "Return to In Too Deep"
+        "name": "Return to In Too Deep",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zreturn_to_in_too_deep.png"
       }
     ]
   }

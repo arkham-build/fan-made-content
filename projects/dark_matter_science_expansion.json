@@ -318,7 +318,8 @@
     "packs": [
       {
         "code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
-        "name": "Dark Matter: Science Expansion"
+        "name": "Dark Matter: Science Expansion",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zdms.png"
       }
     ],
     "encounter_sets": []

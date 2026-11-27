@@ -84,13 +84,15 @@
     "packs": [
       {
         "code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
-        "name": "The Fall of the House of Usher"
+        "name": "The Fall of the House of Usher",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhu.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
-        "name": "The Fall of the House of Usher"
+        "name": "The Fall of the House of Usher",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/the_fall_of_the_house_of_usher.png"
       }
     ]
   }

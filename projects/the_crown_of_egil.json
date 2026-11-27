@@ -119,13 +119,15 @@
     "packs": [
       {
         "code": "e889b9d5-121d-4321-b47b-368966e81e5d",
-        "name": "The Crown of Egil"
+        "name": "The Crown of Egil",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zce.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "e889b9d5-121d-4321-b47b-368966e81e5d-the_fallen",
-        "name": "The Fallen"
+        "name": "The Fallen",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/the_fallen.png"
       }
     ]
   }

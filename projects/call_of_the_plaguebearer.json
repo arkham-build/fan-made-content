@@ -432,33 +432,40 @@
     "packs": [
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda",
-        "name": "Call of the Plaguebearer"
+        "name": "Call of the Plaguebearer",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zcp.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
-        "name": "Dead by Dawn"
+        "name": "Dead by Dawn",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/dead_by_dawn.png"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-high_noon_descent",
-        "name": "High Noon Descent"
+        "name": "High Noon Descent",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/high_noon_descent.png"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-late_risers",
-        "name": "Late Risers"
+        "name": "Late Risers",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/late_risers.png"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-night_on_the_town",
-        "name": "Night on the Town"
+        "name": "Night on the Town",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/night_on_the_town.png"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
-        "name": "Tenuous Allies"
+        "name": "Tenuous Allies",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/tenuous_allies.png"
       },
       {
         "code": "51c98b63-f5ee-4e09-af27-f74b08231eda-the_midnight_hour",
-        "name": "The Midnight Hour"
+        "name": "The Midnight Hour",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/the_midnight_hour.png"
       }
     ]
   }

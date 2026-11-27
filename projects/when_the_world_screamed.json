@@ -60,13 +60,15 @@
     "packs": [
       {
         "code": "f772aeea-bfae-4599-b898-63a642be6e39",
-        "name": "When the World Screamed"
+        "name": "When the World Screamed",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zwtws.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "f772aeea-bfae-4599-b898-63a642be6e39-when_the_world_screamed",
-        "name": "When the World Screamed"
+        "name": "When the World Screamed",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/when_the_world_screamed.png"
       }
     ]
   }

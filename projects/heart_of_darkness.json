@@ -371,29 +371,35 @@
     "packs": [
       {
         "code": "885bb4a3-78bd-4725-b429-776ba2d06934",
-        "name": "Heart of Darkness"
+        "name": "Heart of Darkness",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhod.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "885bb4a3-78bd-4725-b429-776ba2d06934-zhod_africa_is_watching",
-        "name": "Africa is Watching"
+        "name": "Africa is Watching",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhod_africa_is_watching.png"
       },
       {
         "code": "885bb4a3-78bd-4725-b429-776ba2d06934-zhod_lands_of_the_congo",
-        "name": "Lands of the Congo"
+        "name": "Lands of the Congo",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhod_lands_of_the_congo.png"
       },
       {
         "code": "885bb4a3-78bd-4725-b429-776ba2d06934-zhod_the_avatar_of_darkness",
-        "name": "The Avatar of Darkness"
+        "name": "The Avatar of Darkness",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhod_the_avatar_of_darkness.png"
       },
       {
         "code": "885bb4a3-78bd-4725-b429-776ba2d06934-zhod_the_darkness",
-        "name": "The Darkness"
+        "name": "The Darkness",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhod_the_darkness.png"
       },
       {
         "code": "885bb4a3-78bd-4725-b429-776ba2d06934-zhod_to_the_heart_of_the_congo",
-        "name": "To the Heart of the Congo"
+        "name": "To the Heart of the Congo",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhod_to_the_heart_of_the_congo.png"
       }
     ]
   }

@@ -33,13 +33,15 @@
     "packs": [
       {
         "code": "4ae5a981-c632-411a-9753-5cb196e39e7f",
-        "name": "The Colour Out of Space"
+        "name": "The Colour Out of Space",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zcos.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "4ae5a981-c632-411a-9753-5cb196e39e7f-meteoric_phenomenon",
-        "name": "Meteoric Phenomenon"
+        "name": "Meteoric Phenomenon",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/meteoric_phenomenon.png"
       }
     ]
   }

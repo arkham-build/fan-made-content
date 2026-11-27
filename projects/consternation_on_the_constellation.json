@@ -40,13 +40,15 @@
     "packs": [
       {
         "code": "a36487c5-ebd1-4e4b-90e9-5f68e617f8c0",
-        "name": "Consternation on the Constellation"
+        "name": "Consternation on the Constellation",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zcc.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "a36487c5-ebd1-4e4b-90e9-5f68e617f8c0-consternation_on_the_constellation",
-        "name": "Consternation on the Constellation"
+        "name": "Consternation on the Constellation",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/consternation_on_the_constellation.png"
       }
     ]
   }

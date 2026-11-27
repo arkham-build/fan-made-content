@@ -599,13 +599,15 @@
     "packs": [
       {
         "code": "e899b7ba-2fca-48ac-bee7-103f44039207",
-        "name": "Jenny's Choice"
+        "name": "Jenny's Choice",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zjc.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "e899b7ba-2fca-48ac-bee7-103f44039207-lost_cathedral",
-        "name": "Lost Cathedral"
+        "name": "Lost Cathedral",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/lost_cathedral.png"
       }
     ]
   }

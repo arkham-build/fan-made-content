@@ -96,13 +96,15 @@
     "packs": [
       {
         "code": "01d4196d-51d7-439d-8028-26a32e04ad26",
-        "name": "Against the Wendigo"
+        "name": "Against the Wendigo",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zatw.png"
       }
     ],
     "encounter_sets": [
       {
         "code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
-        "name": "Hanninah Valley"
+        "name": "Hanninah Valley",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/hanninah_valley.png"
       }
     ]
   }
