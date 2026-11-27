@@ -2,8 +2,8 @@
   "meta": {
     "code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
     "name": "Dark Matter: Science Expansion",
-    "description": "Kate Winthrop, a dimensional scientist investigator, and her Science player cards. A companion to the Dark Matter campaign.",
-    "author": "Axolotl",
+    "description": "The Scientist: Kate Winthrop, a dimensional scientist investigator, plus the Science Expansion player cards. A companion to the Dark Matter campaign.",
+    "author": "Mint Tea Fan, Axolotl",
     "language": "en",
     "types": ["investigators", "player_cards"],
     "status": "final",
@@ -48,7 +48,7 @@
         "illustrator": "Cristi Balanescu",
         "is_unique": true,
         "name": "Kate Winthrop",
-        "pack_code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
+        "pack_code": "599da86b-59c3-484b-9adb-b9cc9de5d26d",
         "position": 1,
         "quantity": 1,
         "sanity": 9,
@@ -70,7 +70,7 @@
         "illustrator": "Micah Epstein",
         "is_unique": true,
         "name": "Flux Stabilizer",
-        "pack_code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
+        "pack_code": "599da86b-59c3-484b-9adb-b9cc9de5d26d",
         "permanent": true,
         "position": 2,
         "quantity": 1,
@@ -87,7 +87,7 @@
         "faction_code": "seeker",
         "illustrator": "Marc Simonetti",
         "name": "Dimensional Study",
-        "pack_code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
+        "pack_code": "599da86b-59c3-484b-9adb-b9cc9de5d26d",
         "position": 3,
         "quantity": 1,
         "restrictions": "investigator:5ee46e15-35ed-41b1-9a08-d58ea7374277",
@@ -103,7 +103,7 @@
         "faction_code": "neutral",
         "illustrator": "Nele Diel",
         "name": "Dimensional Rift",
-        "pack_code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
+        "pack_code": "599da86b-59c3-484b-9adb-b9cc9de5d26d",
         "position": 4,
         "quantity": 1,
         "restrictions": "investigator:5ee46e15-35ed-41b1-9a08-d58ea7374277",
@@ -126,7 +126,7 @@
         "flavor": "A dimensional hunter responsible for shredding Kate's mentor, Professor Young. The last time Kate encountered this creature, it scented her and seems to know exactly where to find her...",
         "illustrator": "Borja Pindado",
         "name": "Rift Walker",
-        "pack_code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
+        "pack_code": "599da86b-59c3-484b-9adb-b9cc9de5d26d",
         "position": 5,
         "quantity": 1,
         "subtype_code": "weakness",
@@ -316,6 +316,11 @@
       }
     ],
     "packs": [
+      {
+        "code": "599da86b-59c3-484b-9adb-b9cc9de5d26d",
+        "name": "The Scientist",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zdms_kate_winthrop.png"
+      },
       {
         "code": "9c5740c3-1b34-4060-abc5-cb48e14edbe1",
         "name": "Dark Matter: Science Expansion",
