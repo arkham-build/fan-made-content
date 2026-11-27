@@ -14,7 +14,7 @@
   "data": {
     "cards": [
       {
-        "code": "eba16c51-7b9b-4705-b8e7-734d5eaa2370",
+        "code": "0116cbc5-ba91-4601-949a-e4a687687023",
         "deck_limit": 1,
         "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
         "encounter_position": 58,
@@ -33,7 +33,7 @@
         "type_code": "asset"
       },
       {
-        "code": "a3239f7b-00df-451e-a56c-7fedf47cc433",
+        "code": "8957de49-4b5c-4c8f-b4f4-1c4909f6aa82",
         "cost": 2,
         "deck_limit": 1,
         "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
@@ -57,7 +57,7 @@
         "type_code": "asset"
       },
       {
-        "code": "769164b1-16d3-435c-97d4-9d2c08637ceb",
+        "code": "bc5d362a-9c53-4bc8-9002-29a9645f2503",
         "cost": 2,
         "deck_limit": 1,
         "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",

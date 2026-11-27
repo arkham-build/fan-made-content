@@ -13,7 +13,7 @@
   "data": {
     "cards": [
       {
-        "code": "0cd3aec7-8895-467b-bc94-839bb8302d2c",
+        "code": "20ab168e-f4c7-45a2-bffb-8838982f239e",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -31,7 +31,7 @@
         "xp": 2
       },
       {
-        "code": "77b2a905-dfd9-4939-8d18-f55f7eed7c86",
+        "code": "515762dd-c290-4781-803f-880eb28497ac",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -49,7 +49,7 @@
         "xp": 2
       },
       {
-        "code": "babf1961-c23f-4666-9989-5bb9b13c5608",
+        "code": "8e6b3337-3949-48d1-a6e1-2e5f0e4f7009",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "guardian",
@@ -67,7 +67,7 @@
         "xp": 4
       },
       {
-        "code": "06359d8c-ebb4-4e73-b08c-a5efb735355e",
+        "code": "192428fc-d300-4e07-91a7-8a8d40ca7902",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -86,7 +86,7 @@
         "xp": 2
       },
       {
-        "code": "1ab41d24-da8a-4c47-a250-9503e4370402",
+        "code": "b35831cc-b150-431e-8b79-74b950ebf4b2",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -104,7 +104,7 @@
         "xp": 3
       },
       {
-        "code": "b28d27e8-3d98-417a-a9ee-7ccb67f5f651",
+        "code": "6f53d403-8cc5-45d7-8570-827f5d572f09",
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "seeker",
@@ -123,7 +123,7 @@
         "xp": 4
       },
       {
-        "code": "e8355489-1be9-4d25-b840-59156688188b",
+        "code": "b86306a2-4697-4291-8b45-de0cf128feae",
         "deck_limit": 2,
         "faction_code": "rogue",
         "illustrator": "Xia Taptara",
@@ -137,13 +137,13 @@
         "skill_intellect": 1,
         "skill_wild": 1,
         "text": "If this skill test is during or before the first action of this turn, Plan of Action gains [wild].\nIf this skill test is between the first and third actions of this turn, draw 1 card if it succeeds.\nIf this skill test is during or after the third action of this turn, if it was successful, add 1 [bless] token to the chaos bag for each point it succeeded by (max 3).",
-        "traits": "Practiced.",
+        "traits": "Practiced. Blessed.",
         "type_code": "skill",
         "xp": 2
       },
       {
-        "code": "e0f50a54-f496-4573-a13a-4601ac8a7d2f",
-        "cost": 3,
+        "code": "700bbbc7-2347-40dc-b643-3241721edefd",
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "rogue",
         "illustrator": "Alexandr Elichev",
@@ -160,7 +160,7 @@
         "xp": 3
       },
       {
-        "code": "63619c98-874b-4f40-a6d3-36d786c2a3bd",
+        "code": "2f52ac8e-4797-480d-a0c5-03528c1e7ea8",
         "cost": 5,
         "deck_limit": 2,
         "faction_code": "rogue",
@@ -183,7 +183,7 @@
         "xp": 5
       },
       {
-        "code": "efa67cc1-660b-471e-9a88-ae00bc824125",
+        "code": "e50e7f02-3517-4461-a6fb-a56717b0a897",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -200,7 +200,7 @@
         "xp": 2
       },
       {
-        "code": "8c9eaf22-2133-4000-9f79-e24d19ee96f8",
+        "code": "15347bed-8fd2-4853-a336-d31b87edaada",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -220,7 +220,7 @@
         "xp": 3
       },
       {
-        "code": "6d8d7e28-8c2f-4591-98a1-68fc3dc8ff33",
+        "code": "5470d260-d596-469e-99f0-684362a40d75",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "mystic",
@@ -239,7 +239,7 @@
         "xp": 5
       },
       {
-        "code": "3eef6e3a-df69-499b-8b89-6887e17beafa",
+        "code": "d85785a7-999c-4f5b-bfb2-7cbff6c89d34",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -259,7 +259,7 @@
         "xp": 2
       },
       {
-        "code": "3e521c82-bb1e-4bc5-8a60-5e6f86cad658",
+        "code": "efb3e51e-0204-4225-97a9-4a5098373b19",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -276,7 +276,7 @@
         "xp": 3
       },
       {
-        "code": "e9ec4642-9247-4656-8ef9-074732855d4b",
+        "code": "11fcbfaf-b445-403d-a134-c4ee6ec883be",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "survivor",
@@ -295,7 +295,7 @@
         "xp": 5
       },
       {
-        "code": "06cccdbd-a5ca-42ea-803b-ea5dc1989d79",
+        "code": "e0d9b6af-1bfc-4271-a225-bbc974e91d60",
         "deck_limit": 1,
         "faction_code": "neutral",
         "flavor": "Some people are just born under the wrong stars.",
@@ -311,7 +311,7 @@
         "type_code": "treachery"
       },
       {
-        "code": "c3ef9bd4-e5eb-44fe-92ce-f82ee014bf1a",
+        "code": "b3678108-94c2-4869-965f-10668001b2a4",
         "deck_limit": 1,
         "encounter_code": "291c2769-da2c-489b-a1f4-23204efeec0a-zreturn_to_in_too_deep",
         "encounter_position": 4,

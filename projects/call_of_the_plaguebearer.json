@@ -17,7 +17,7 @@
         "back_flavor": "Peering through the barricades, you can spot several inexplicable devices and something that looks like a cadaver",
         "back_text": "Barricade (1[per_investigator])",
         "clues": 1,
-        "code": "a5dc378a-2272-4e0c-9a2c-c06e2480e65d",
+        "code": "CP012",
         "double_sided": true,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-late_risers",
         "encounter_position": 12,
@@ -36,7 +36,7 @@
         "back_image_url": "https://img2.arkhamcards.com/cards/zcp_00012b.jpg"
       },
       {
-        "code": "ea722d41-8e98-4ba5-9981-1fd04eb93111-back",
+        "code": "CP017-back",
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-late_risers",
         "encounter_position": 17,
         "faction_code": "mythos",
@@ -51,8 +51,8 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00017b.jpg"
       },
       {
-        "back_link": "ea722d41-8e98-4ba5-9981-1fd04eb93111-back",
-        "code": "ea722d41-8e98-4ba5-9981-1fd04eb93111",
+        "back_link": "CP017-back",
+        "code": "CP017",
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-late_risers",
         "encounter_position": 17,
@@ -71,7 +71,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00017a.jpg"
       },
       {
-        "code": "f86e8795-64d1-4101-983b-32a64b218a0d",
+        "code": "CP039",
         "cost": 3,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-night_on_the_town",
@@ -97,7 +97,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00039.jpg"
       },
       {
-        "code": "9b336ff9-6576-4e36-995f-997abd3ce5a6",
+        "code": "CP065",
         "cost": 2,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
@@ -122,7 +122,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00065.jpg"
       },
       {
-        "code": "6a07894f-b122-4813-be20-bd887ea92c35",
+        "code": "CP066",
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
         "encounter_position": 20,
@@ -140,7 +140,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00066.jpg"
       },
       {
-        "code": "9f4c8130-1733-455f-a477-d6243a0d38a4",
+        "code": "CP067",
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
         "encounter_position": 24,
@@ -158,7 +158,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00067.jpg"
       },
       {
-        "code": "87a4cce2-4487-45f1-8984-80db184a4f4f",
+        "code": "CP068",
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
         "encounter_position": 28,
@@ -178,7 +178,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00068.jpg"
       },
       {
-        "code": "8e9e6c52-81db-4af8-a388-255bb77aea80",
+        "code": "CP069",
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-dead_by_dawn",
         "encounter_position": 32,
@@ -198,7 +198,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00069.jpg"
       },
       {
-        "code": "0df53519-c96f-4033-93d3-6b9b9856216f",
+        "code": "CP304",
         "cost": 0,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -218,7 +218,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00096.jpg"
       },
       {
-        "code": "09ff1d2b-a9b6-460f-90fe-2e8408ac2deb",
+        "code": "CP097",
         "cost": 0,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -238,7 +238,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00097.jpg"
       },
       {
-        "code": "230f53e3-6fba-417f-9d59-b790c781fb4c",
+        "code": "CP098",
         "cost": 1,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -257,7 +257,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00098.jpg"
       },
       {
-        "code": "b0511437-f52d-48f0-93af-c2559d7e92e8",
+        "code": "CP099",
         "cost": 1,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -278,7 +278,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00099.jpg"
       },
       {
-        "code": "2d7b7c18-0a8f-4f6f-a179-07b60a5fc59f",
+        "code": "CP100",
         "cost": 2,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -298,7 +298,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00100.jpg"
       },
       {
-        "code": "c0c7ca13-102a-4b92-a1aa-551091cce3ca",
+        "code": "CP101",
         "cost": 4,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -320,7 +320,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_00101.jpg"
       },
       {
-        "code": "6e44c806-2d6a-4e7a-b9f2-713929ac98dd",
+        "code": "CP303",
         "cost": 0,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
@@ -338,7 +338,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zcp_000102.jpg"
       },
       {
-        "code": "1c183294-cdad-4634-b32a-8213ed3a1b6e",
+        "code": "CP305",
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-tenuous_allies",
         "encounter_position": 8,
@@ -357,7 +357,7 @@
       {
         "back_flavor": "An unsettling glow, like light through water, comes from deeper in the Omega Wing...",
         "clues": 1,
-        "code": "1a93fbe4-4b3f-46fe-9637-9125bec4b0bd",
+        "code": "CP129",
         "double_sided": true,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-high_noon_descent",
         "encounter_position": 21,
@@ -375,7 +375,7 @@
         "back_image_url": "https://img2.arkhamcards.com/cards/zcp_00129b.jpg"
       },
       {
-        "code": "03f0c825-5618-4f31-a6b3-e30588926be2",
+        "code": "CP138",
         "cost": 5,
         "deck_limit": 1,
         "encounter_code": "51c98b63-f5ee-4e09-af27-f74b08231eda-high_noon_descent",

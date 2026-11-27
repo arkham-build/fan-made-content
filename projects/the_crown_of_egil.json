@@ -14,7 +14,7 @@
   "data": {
     "cards": [
       {
-        "code": "945db0a5-2029-426d-ba80-cab660ee4a04",
+        "code": "2766b3d5-4922-4a13-96a8-e0717c7a3bb8",
         "cost": 5,
         "deck_limit": 1,
         "encounter_code": "e889b9d5-121d-4321-b47b-368966e81e5d-the_fallen",
@@ -35,7 +35,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zce_00052.jpg"
       },
       {
-        "code": "51867f3b-dc77-44a8-b2b0-96e0091978c4",
+        "code": "3a48a794-cb1b-49b7-b652-a876c8d8b81c",
         "cost": 3,
         "deck_limit": 1,
         "encounter_code": "e889b9d5-121d-4321-b47b-368966e81e5d-the_fallen",
@@ -52,12 +52,12 @@
         "slot": "Body",
         "subname": "Perfect Disguise",
         "text": "Each [[Berserker]], [[Cultist]], and [[Humanoid]] enemy engaged with you gets -3 evade.\n[reaction] When you commit a card to a skill test during an <b>evade</b> action, exhaust Egil's Hood: Double the matching icons on that card.",
-        "traits": "Weapon. Melee. Relic. Saga. Cursed.",
+        "traits": "Relic. Saga. Clothing.",
         "type_code": "asset",
         "image_url": "https://img2.arkhamcards.com/cards/zce_00053.jpg"
       },
       {
-        "code": "8a285df6-c013-40aa-8722-5a389b7f9a23",
+        "code": "f7530915-87f8-4422-8ed4-a249cdac8655",
         "cost": 2,
         "deck_limit": 1,
         "encounter_code": "e889b9d5-121d-4321-b47b-368966e81e5d-the_fallen",
@@ -78,7 +78,7 @@
         "image_url": "https://img2.arkhamcards.com/cards/zce_00054.jpg"
       },
       {
-        "code": "e7698682-88f6-4db7-ae12-7c593d761368",
+        "code": "e363b193-e34e-492c-906e-daf52e230cc7",
         "cost": 4,
         "deck_limit": 1,
         "encounter_code": "e889b9d5-121d-4321-b47b-368966e81e5d-the_fallen",
@@ -93,14 +93,14 @@
         "skill_intellect": 1,
         "skill_willpower": 2,
         "slot": "Accessory",
-        "subname": "Mementto Mori",
+        "subname": "Memento Mori",
         "text": "You get -1 [combat] and +1 [willpower].\n[action] <b>Parley.</b> Test [willpower] (X) where X is the fight value of a non-weakness [[Humanoid]] enemy at your location. If successful, shuffle the chosen enemy into the encounter deck. If the chosen enemy is [[Elite]], automatically evade it instead.",
         "traits": "Relic. Saga. Blessed.",
         "type_code": "asset",
         "image_url": "https://img2.arkhamcards.com/cards/zce_00055.jpg"
       },
       {
-        "code": "4babe7c2-31c7-4dac-bc5c-2a213da9f445",
+        "code": "81a4ed96-7fb3-4917-a26f-7b8910850532",
         "deck_limit": 1,
         "encounter_code": "e889b9d5-121d-4321-b47b-368966e81e5d-the_fallen",
         "encounter_position": 37,
