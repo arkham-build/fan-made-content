@@ -7,7 +7,8 @@
     "language": "en",
     "types": ["player_cards", "campaign"],
     "status": "final",
-    "date_updated": "2026-11-27T15:17:23.000Z"
+    "date_updated": "2026-11-27T15:17:23.000Z",
+    "generator": "ArkhamCards export"
   },
   "data": {
     "cards": [

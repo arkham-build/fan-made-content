@@ -8,7 +8,8 @@
     "external_link": "https://mythosbusters.com/custom-scenarios/",
     "types": ["player_cards", "scenario"],
     "status": "final",
-    "date_updated": "2026-11-27T15:17:22.000Z"
+    "date_updated": "2026-11-27T15:17:22.000Z",
+    "generator": "ArkhamCards export"
   },
   "data": {
     "cards": [
