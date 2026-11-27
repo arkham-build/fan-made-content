@@ -31,7 +31,9 @@
         "shroud": 2,
         "text": "[reaction] When you investigate this location: Increase its shroud level by 4 for this investigation. If you succeed, investigators at this location may spend 3[per_investigator] clues, as a group, to put the set-aside Ripped Hallway location into play.",
         "traits": "Agency. Delta.",
-        "type_code": "location"
+        "type_code": "location",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00012.jpg",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zcp_00012b.jpg"
       },
       {
         "code": "ea722d41-8e98-4ba5-9981-1fd04eb93111-back",
@@ -45,7 +47,8 @@
         "position": 17,
         "quantity": 1,
         "text": "- Record in your campaign log that <i>\"*your investigator* has injected a cardinal reagant\"</i>.\n- <b>Exile</b> Suspicious Briefcase. Any investigator who has not <i>\"injected a cardinal reagant\"</i> may add it to their deck (Does not count towards deck size). That investigator immediately puts Suspicious Briefcase into play.",
-        "type_code": "story"
+        "type_code": "story",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00017b.jpg"
       },
       {
         "back_link": "ea722d41-8e98-4ba5-9981-1fd04eb93111-back",
@@ -64,7 +67,8 @@
         "slot": "Hand",
         "text": "[fast] Exhaust Suspicious Briefcase and reveal a random chaos token from the chaos bag: Gain 3 resources. If you revealed a [skull], [tablet], or [auto_fail], flip this card over and resolve its story text.\n<b>Forced</b> - If Suspicious Briefcase would leave play or you would be defeated: <b>Exile</b> Suspicious Briefcase.",
         "traits": "Item. Tool.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00017a.jpg"
       },
       {
         "code": "f86e8795-64d1-4101-983b-32a64b218a0d",
@@ -89,7 +93,8 @@
         "subname": "Here to Help",
         "text": "You get +1 [willpower] and +1 [agility].\n[reaction] When an investigator at your location would take an attack of opportunity, exhaust Hibbs: Cancel that attack.",
         "traits": "Ally. Agency.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00039.jpg"
       },
       {
         "code": "9b336ff9-6576-4e36-995f-997abd3ce5a6",
@@ -113,7 +118,8 @@
         "subname": "Re-Animator",
         "text": "You get +1 [intellect].\n[reaction] When an enemy would be defeated at your location, exhaust Herbert West: Instead, heal 2 damage from that enemy. Then, discover 2 clues at your location.",
         "traits": "Ally. Medic. Sorcerer.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00065.jpg"
       },
       {
         "code": "6a07894f-b122-4813-be20-bd887ea92c35",
@@ -130,7 +136,8 @@
         "quantity": 4,
         "subtype_code": "weakness",
         "text": "<b>Revelation</b> - Take 2 direct horror. This horror cannot be prevented.",
-        "type_code": "treachery"
+        "type_code": "treachery",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00066.jpg"
       },
       {
         "code": "9f4c8130-1733-455f-a477-d6243a0d38a4",
@@ -147,7 +154,8 @@
         "quantity": 4,
         "subtype_code": "weakness",
         "text": "<b>Revelation</b> - Take 2 direct damage. This damage cannot be prevented.",
-        "type_code": "treachery"
+        "type_code": "treachery",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00067.jpg"
       },
       {
         "code": "87a4cce2-4487-45f1-8984-80db184a4f4f",
@@ -166,7 +174,8 @@
         "sanity": 0,
         "text": "Permanent. Cannot leave play.\n[reaction] After you succeed at a skill test where a [skull] token was revealed, exhaust Strength of Flesh: Heal all damage from Strength of Flesh.",
         "traits": "Geist. Talent.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00068.jpg"
       },
       {
         "code": "8e9e6c52-81db-4af8-a388-255bb77aea80",
@@ -185,7 +194,8 @@
         "sanity": 2,
         "text": "Permanent. Cannot leave play.\n[reaction] After you succeed at a skill test where a [cultist] token was revealed, exhaust Unbreakable Will: Heal all horror from Unbreakable Will.",
         "traits": "Human. Talent.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00069.jpg"
       },
       {
         "code": "0df53519-c96f-4033-93d3-6b9b9856216f",
@@ -204,7 +214,8 @@
         "skill_wild": 1,
         "text": "[reaction] After you succeed by 3 or more at a skill test during an action on your turn, exhaust Excessive Spirits: You may take an additional action this turn, which can only be used on the same type of action used to trigger this effect.",
         "traits": "Boon.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00096.jpg"
       },
       {
         "code": "09ff1d2b-a9b6-460f-90fe-2e8408ac2deb",
@@ -223,7 +234,8 @@
         "skill_willpower": 2,
         "text": "<b>Forced</b> - When your turn begins: Place 2 resources <i>(from the token pool)</i> on this card. Resources on this card may be spent as if they were in your resource pool. Discard all resources from this card at the end of your turn.",
         "traits": "Boon.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00097.jpg"
       },
       {
         "code": "230f53e3-6fba-417f-9d59-b790c781fb4c",
@@ -241,7 +253,8 @@
         "skill_wild": 1,
         "text": "The first asset you play each round costs 1 fewer resource.\n[action] Remove Handshake Deal from the game: Play an asset from your hand or discard pile, ignoring its resource cost.",
         "traits": "Boon.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00098.jpg"
       },
       {
         "code": "b0511437-f52d-48f0-93af-c2559d7e92e8",
@@ -261,7 +274,8 @@
         "skill_wild": 1,
         "text": "[reaction] When you play an [[Ally]] asset: Discard any cards attached to Ma's Approval and attach that asset to this card.\nAttached asset takes up no [[Ally]] slots and gets +1 health and +1 sanity.",
         "traits": "Boon.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00099.jpg"
       },
       {
         "code": "2d7b7c18-0a8f-4f6f-a179-07b60a5fc59f",
@@ -280,7 +294,8 @@
         "skill_wild": 1,
         "text": "Your maximum hand size is increased by 4.\n[action] Exhaust Reliquary Tome: Draw 2 cards.",
         "traits": "Item. Tome. Boon.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00100.jpg"
       },
       {
         "code": "c0c7ca13-102a-4b92-a1aa-551091cce3ca",
@@ -301,7 +316,8 @@
         "skill_willpower": 1,
         "text": "<b>Forced</b> - After Ritual of Yaztaroth enters play: Place 1 horror on it.\n[reaction] When you would spend a charge or secret on an asset you control, exhaust Ritual of Yaztaroth: Heal 1 horror from Ritual of Yaztaroth instead.",
         "traits": "Ritual. Boon.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00101.jpg"
       },
       {
         "code": "6e44c806-2d6a-4e7a-b9f2-713929ac98dd",
@@ -318,7 +334,8 @@
         "skill_wild": 1,
         "text": "Fast. Play only during your turn.\nFor the remainder of the round, each event you play gets -1 cost and gains \"Draw 1 card.\" Draw 1 card.",
         "traits": "Trick. Boon.",
-        "type_code": "event"
+        "type_code": "event",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_000102.jpg"
       },
       {
         "code": "1c183294-cdad-4634-b32a-8213ed3a1b6e",
@@ -334,7 +351,8 @@
         "skill_wild": 2,
         "text": "You may only commit Hard Day's Work as an exact copy of any skill in your discard pile or as an exact copy of another card committed to this skill test, and it gains Hard Day's Work's icons in addition to its own.",
         "traits": "Innate. Boon.",
-        "type_code": "skill"
+        "type_code": "skill",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_000103.jpg"
       },
       {
         "back_flavor": "An unsettling glow, like light through water, comes from deeper in the Omega Wing...",
@@ -352,7 +370,9 @@
         "shroud": 1,
         "text": "<b>Forced</b> - After you start your turn at this location: Take 1 direct horror.",
         "traits": "Miasma. Sub-Level.",
-        "type_code": "location"
+        "type_code": "location",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00129.jpg",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zcp_00129b.jpg"
       },
       {
         "code": "03f0c825-5618-4f31-a6b3-e30588926be2",
@@ -376,7 +396,8 @@
         "subname": "Not Following Orders",
         "text": "You get +1 [intellect] and +1 [combat].\n[reaction] After your turn ends, spend 1 resource: Move an investigator at your location to a connecting location.",
         "traits": "Ally. Humanoid. Agency. Drifter.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00138.jpg"
       },
       {
         "back_link": "73932180-1d44-43f1-8626-efc9552293ad-back",
@@ -389,7 +410,8 @@
         "position": 241,
         "quantity": 1,
         "text": "<b>Forced</b> - At the start of the enemy phase, if Messenger of the Flame is at a <b>Miasma</b> location without horror: Defeat that location. Otherwise, move Messenger of the Flame once towards the nearest <b>Miasma</b> location without horror.\n[action] If it is not act 1, the investigators spend 3[per_investigator] clues, as a group: <b>Parley</b>. Out of desperation, you seek a bargain with Cthugha. Flip this card and resolve its story text.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00241.jpg"
       },
       {
         "code": "73932180-1d44-43f1-8626-efc9552293ad-back",
@@ -403,7 +425,8 @@
         "position": 241,
         "quantity": 1,
         "text": "text text",
-        "type_code": "story"
+        "type_code": "story",
+        "image_url": "https://img2.arkhamcards.com/cards/zcp_00241b.jpg"
       }
     ],
     "packs": [

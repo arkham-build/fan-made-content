@@ -157,7 +157,9 @@
         "shroud": 3,
         "text": "<b>Forced</b> - After this location is revealed draw at random one card from the set-aside African Wildlife encounter set, if able. Otherwise, discard cards from the top of the encounter deck until you discard a Creature enemy. Draw that enemy.",
         "traits": "Plains.",
-        "type_code": "location"
+        "type_code": "location",
+        "image_url": "https://img2.arkhamcards.com/cards/zhod_00052.jpg",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zhod_00052b.jpg"
       },
       {
         "back_flavor": "This vast expanse of wilderness seems unchanged since the dawn of humanity. It could remain so long after people no longer walk the earth.",
@@ -177,7 +179,9 @@
         "subname": "Tree of Prayers",
         "text": "[action]: You rest for a moment in the shade of this sacred tree. Add 1 horror to your copy of Darkness Calls. (Limit once per game.)",
         "traits": "Plains.",
-        "type_code": "location"
+        "type_code": "location",
+        "image_url": "https://img2.arkhamcards.com/cards/zhod_00053.jpg",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zhod_00053b.jpg"
       },
       {
         "back_flavor": "This vast expanse of wilderness seems unchanged since the dawn of humanity. It could remain so long after people no longer walk the earth.",
@@ -197,7 +201,9 @@
         "subname": "Waterfalls",
         "text": "<b>Forced</b> - At the end of your turn, if you are at Savannah (Waterfalls): Test [agility](3). If you fail, take 1 damage.",
         "traits": "Plains.",
-        "type_code": "location"
+        "type_code": "location",
+        "image_url": "https://img2.arkhamcards.com/cards/zhod_00054.jpg",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zhod_00054b.jpg"
       },
       {
         "code": "baf90a4f-22fb-48d1-b44e-9bda91d64350",

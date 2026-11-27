@@ -34,7 +34,8 @@
         "subname": "Scientific Firebrand",
         "text": "[reaction] After you succeed at a skill test during your turn, exhaust Professor George Challenger: Until the end of your turn, you get +1 to each skill other than the one used in this test.",
         "traits": "Ally. Scholar. Wayfarer.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zwtws_00026.jpg"
       },
       {
         "code": "097df116-eb92-4da2-8279-9a7e3a326a58",
@@ -52,7 +53,8 @@
         "subname": "The World in Your Hands",
         "text": "Fast. Uses (3 samples).\n[reaction] When you initiate a skill test, spend 1 sample and choose one:\n- Set your base skill value equal to your location's shroud value for this test.\n- Set the base difficulty of this skill test equal to your location's shroud value.\n",
         "traits": "Item. Science.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zwtws_00027.jpg"
       }
     ],
     "packs": [
