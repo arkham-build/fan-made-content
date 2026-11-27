@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "code": "4ae5a981-c632-411a-9753-5cb196e39e7f",
+    "name": "The Colour Out of Space",
+    "description": "Player cards from The Colour Out of Space standalone scenario.",
+    "author": "Joe Ehret",
+    "language": "en",
+    "external_link": "https://drive.google.com/drive/folders/1m0r5x6FzIKr_pBQIHqrsUZCwLB_mIM1-?usp=share_link",
+    "types": ["scenario"],
+    "status": "final",
+    "date_updated": "2026-11-27T15:17:22.000Z"
+  },
+  "data": {
+    "cards": [
+      {
+        "back_text": "Hard / Expert\n[skull]: -3. (-5 if you are on an <b>Infected</b> location.)\n[cultist]: -4. (-6 if an investigator or Ally has <i>Withered Away</i>.)\n[tablet]: -2. If you fail this skill test, lose all remaining actions.\n[elder_thing]: -5. If you fail this skill test, place 1 doom on your investigator.",
+        "code": "c8c697d0-aa73-4b31-9369-4ca1e8306499",
+        "double_sided": true,
+        "encounter_code": "4ae5a981-c632-411a-9753-5cb196e39e7f-meteoric_phenomenon",
+        "encounter_position": 1,
+        "faction_code": "mythos",
+        "name": "The Colour Out of Space",
+        "pack_code": "4ae5a981-c632-411a-9753-5cb196e39e7f",
+        "position": 1,
+        "quantity": 1,
+        "text": "Easy / Standard\n[skull]: -1. (-3 if you are on an <b>Infected</b> location.)\n[cultist]: -2. (-4 if an investigator or Ally has <i>Withered Away</i>.)\n[tablet]: -2. If you fail this skill test, lose one action.\n[elder_thing]: -3. If you fail this skill test, place 1 doom on your investigator.",
+        "type_code": "scenario"
+      },
+      {
+        "code": "1a749969-fb06-41c1-a92d-01e55576e1ad",
+        "deck_limit": 1,
+        "encounter_code": "4ae5a981-c632-411a-9753-5cb196e39e7f-meteoric_phenomenon",
+        "encounter_position": 2,
+        "faction_code": "mythos",
+        "name": "Otherworldly Weakness",
+        "pack_code": "4ae5a981-c632-411a-9753-5cb196e39e7f",
+        "position": 2,
+        "quantity": 4,
+        "subtype_code": "weakness",
+        "text": "<b>Revelation</b> - Put Otherworldly Weakness into play in your threat area.\nYou get -1 [willpower], -1 [intellect], -1 [combat], and -1 [agility].\nTreat each [elder_sign] you reveal on a chaos token as [auto_fail].\n[action]: Test [willpower](2) or [combat](2). If you succeed, discard Otherworldly Weakness.",
+        "traits": "Parasitic. Infection.",
+        "type_code": "treachery"
+      }
+    ],
+    "packs": [
+      {
+        "code": "4ae5a981-c632-411a-9753-5cb196e39e7f",
+        "name": "The Colour Out of Space"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "4ae5a981-c632-411a-9753-5cb196e39e7f-meteoric_phenomenon",
+        "name": "Meteoric Phenomenon"
+      }
+    ]
+  }
+}
