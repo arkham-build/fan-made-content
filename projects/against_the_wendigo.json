@@ -45,7 +45,8 @@
         "subname": "Money has no smell",
         "text": "Permanent.\nYou start each new scenario with 2 additional resources.\n<b>Forced</b> - Every new scenario, at the beginning of the first round: Test [willpower](3). If you fail, take 1 direct horror.",
         "traits": "Condition.",
-        "type_code": "asset"
+        "type_code": "asset",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00021b.jpg"
       },
       {
         "code": "6c4f198f-fc66-4996-a9fc-699a06372909",
