@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+    "name": "The Fall of the House of Usher",
+    "description": "Player cards from The Fall of the House of Usher standalone scenario.",
+    "author": "The Beard",
+    "language": "en",
+    "external_link": "https://mysteriouschanting.wordpress.com/2021/10/01/the-fall-of-the-house-of-usher/",
+    "types": ["player_cards", "scenario"],
+    "status": "final",
+    "date_updated": "2026-11-27T15:17:23.000Z"
+  },
+  "data": {
+    "cards": [
+      {
+        "back_image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00001b.jpg",
+        "back_text": "Hard / Expert\n[skull]: -X. X is equal to 2 + the number of [[Geist]] encounter cards in play.\n[cultist]: -1. Reveal another token. If you fail, place 1 doom on an asset you control.\n[tablet]: -4. -6 instead if there is 2 or more damage on your location.\n[elder_thing]: -4. If you fail, take 1 horror.",
+        "code": "3331b1c8-7792-442f-9738-6b53a2c834c3",
+        "double_sided": true,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 1,
+        "faction_code": "mythos",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00001.jpg",
+        "name": "The Fall of the House of Usher",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "position": 1,
+        "quantity": 1,
+        "text": "Easy / Standard\n[skull]: -X. X is equal to 1 + the number of [[Geist]] encounter cards in play. (Max 5)\n[cultist]: Reveal another token. If you fail, place 1 doom on an asset you control.\n[tablet]: -3. -5 instead if there is 2 or more damage on your location.\n[elder_thing]: -3. If you fail, take 1 horror.",
+        "type_code": "scenario"
+      },
+      {
+        "code": "eba16c51-7b9b-4705-b8e7-734d5eaa2370",
+        "deck_limit": 1,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 58,
+        "faction_code": "neutral",
+        "flavor": "As you hole the silhouette in your hand, you hear faint whispers on the wind.",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00058.jpg",
+        "is_unique": true,
+        "name": "Faded Silhouette",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "permanent": true,
+        "position": 58,
+        "quantity": 1,
+        "subname": "Memento Mori",
+        "text": "Permanent.\n<b>Forced</b> - During the setup of each scenario, search the collection for Madeline Usher and shuffle her into the encounter deck.",
+        "traits": "Item. Relic.",
+        "type_code": "asset"
+      },
+      {
+        "code": "a3239f7b-00df-451e-a56c-7fedf47cc433",
+        "cost": 2,
+        "deck_limit": 1,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 59,
+        "faction_code": "neutral",
+        "flavor": "\"...but, feeling the rain upon his shoulders, and fearing the rising of the tempest, uplifted his mace outright...\"",
+        "illustrator": "Seokmin Lee",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00059.jpg",
+        "is_unique": true,
+        "name": "The Mad Trist",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "position": 59,
+        "quantity": 1,
+        "skill_combat": 1,
+        "skill_wild": 1,
+        "skill_willpower": 1,
+        "slot": "Hand",
+        "subname": "Shelter From the Storm",
+        "text": "Uses (4 secrets).\nYou get +1 [willpower] and +1 [combat].\n[action] Spend 1 secret and exhaust The Mad Trist: Move to a connecting location and heal 1 damage and 1 horror from an investigator or [[Ally]] asset at your location. This action does not provoke attacks of opportunity.",
+        "traits": "Item. Tome. Blessed.",
+        "type_code": "asset"
+      },
+      {
+        "code": "769164b1-16d3-435c-97d4-9d2c08637ceb",
+        "cost": 2,
+        "deck_limit": 1,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 60,
+        "faction_code": "neutral",
+        "flavor": "\"...but, feeling the rain upon his shoulders, and fearing the rising of the tempest, uplifted his mace outright...\"",
+        "illustrator": "Seokmin Lee",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00060.jpg",
+        "is_unique": true,
+        "name": "The Mad Trist",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "position": 60,
+        "quantity": 1,
+        "skill_agility": 1,
+        "skill_intellect": 1,
+        "skill_wild": 1,
+        "slot": "Hand",
+        "subname": "Dragon's Cunning",
+        "text": "Uses (4 secrets).\nYou get +1 [intellect] and +1 [agility].\n[action] Spend 1 secret and exhaust The Mad Trist: Move up to 2 clues from connecting locations to your location. This action does not provoke attacks of opportunity. Your next investigate action this round does not provoke attacks of opportunity.",
+        "traits": "Item. Tome. Cursed.",
+        "type_code": "asset"
+      }
+    ],
+    "packs": [
+      {
+        "code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "name": "The Fall of the House of Usher"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "name": "The Fall of the House of Usher"
+      }
+    ]
+  }
+}
