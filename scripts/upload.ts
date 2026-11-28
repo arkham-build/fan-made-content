@@ -233,6 +233,7 @@ function extname(p: string) {
 function inferContentType(url: string) {
   const ext = extname(url);
   if (ext === ".json") return "application/json";
+  if (ext === ".svg") return "image/svg+xml";
 
   const type = ext.slice(1);
   return `image/${type || "png"}`;
