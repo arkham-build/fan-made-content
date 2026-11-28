@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "code": "8e00cea9-66bd-4e60-9090-970686ff590a",
+    "name": "The Black Stone",
+    "description": "Player cards from The Black Stone standalone scenario.",
+    "author": "Stephen Fazio",
+    "language": "en",
+    "external_link": "http://arkhamcentral.com/index.php/the-black-stone/",
+    "types": ["player_cards", "scenario"],
+    "status": "final",
+    "date_updated": "2026-11-27T15:17:22.000Z",
+    "generator": "ArkhamCards export"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "a6f3175b-a733-4821-bc82-55f6bbfa79f9",
+        "cost": 3,
+        "deck_limit": 1,
+        "encounter_code": "8e00cea9-66bd-4e60-9090-970686ff590a-the_black_stone",
+        "encounter_position": 27,
+        "faction_code": "neutral",
+        "flavor": "Well for Justin Geoffrey that he tarried there only in the sunlight and went his way, for had he gazed upon that ghastly conclave, his mad brain would have snapped before it did. How my own reason held, I do not know.\n- Robert Howard, \"The Black Stone\"",
+        "illustrator": "J. P. Rodriguez Padilla",
+        "image_url": "https://img2.arkhamcards.com/cards/zbs/zbs_00027.jpg",
+        "is_unique": true,
+        "name": "Justin Geoffrey",
+        "pack_code": "8e00cea9-66bd-4e60-9090-970686ff590a",
+        "position": 27,
+        "quantity": 1,
+        "skill_intellect": 1,
+        "skill_wild": 1,
+        "skill_willpower": 1,
+        "slot": "Ally",
+        "subname": "A Very Stable Genius",
+        "text": "You get +1 [intellect].\n[reaction] When you would draw a card, exhaust Justin Geoffrey: instead, search the top 3 cards of your deck for a card, draw it, and shuffle the remaining cards into your deck.",
+        "traits": "Ally. Artist.",
+        "type_code": "asset"
+      },
+      {
+        "code": "d6290548-788b-42c9-af8f-884d5f588158",
+        "cost": 2,
+        "deck_limit": 1,
+        "encounter_code": "8e00cea9-66bd-4e60-9090-970686ff590a-tomes",
+        "encounter_position": 3,
+        "faction_code": "neutral",
+        "flavor": "And I suddenly saw a connection between this Stone and a certain weird and fantastic poem written by the mad poet Justin Geoffrey: The People of the Monolith.\n- Robert Howard, \"The Black Stone\"",
+        "illustrator": "Sally Jackson",
+        "image_url": "https://img2.arkhamcards.com/cards/zbs/zbs_00069.jpg",
+        "is_unique": true,
+        "name": "People of the Monolith",
+        "pack_code": "8e00cea9-66bd-4e60-9090-970686ff590a",
+        "position": 69,
+        "quantity": 1,
+        "skill_wild": 1,
+        "slot": "Hand",
+        "text": "[reaction] After your turn ends: Heal 1 horror.\n[fast] Take 1 horror: You get +1 [intellect] for this skill test.\n[fast] Take 1 horror: You get +1 [willpower] for this skill test.",
+        "traits": "Item. Tome.",
+        "type_code": "asset"
+      }
+    ],
+    "packs": [
+      {
+        "code": "8e00cea9-66bd-4e60-9090-970686ff590a",
+        "name": "The Black Stone",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zbs.png"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "8e00cea9-66bd-4e60-9090-970686ff590a-the_black_stone",
+        "name": "The Black Stone",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/the_black_stone.png"
+      },
+      {
+        "code": "8e00cea9-66bd-4e60-9090-970686ff590a-tomes",
+        "name": "Tomes",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/tomes.png"
+      }
+    ]
+  }
+}

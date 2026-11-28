@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+    "name": "The Fall of the House of Usher",
+    "description": "Player cards from The Fall of the House of Usher standalone scenario.",
+    "author": "The Beard",
+    "language": "en",
+    "external_link": "https://mysteriouschanting.wordpress.com/2021/10/01/the-fall-of-the-house-of-usher/",
+    "types": ["player_cards", "scenario"],
+    "status": "final",
+    "date_updated": "2026-11-27T15:17:23.000Z",
+    "generator": "ArkhamCards export"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "0116cbc5-ba91-4601-949a-e4a687687023",
+        "deck_limit": 1,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 58,
+        "faction_code": "neutral",
+        "flavor": "As you hole the silhouette in your hand, you hear faint whispers on the wind.",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00058.jpg",
+        "is_unique": true,
+        "name": "Faded Silhouette",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "permanent": true,
+        "position": 58,
+        "quantity": 1,
+        "subname": "Memento Mori",
+        "text": "Permanent.\n<b>Forced</b> - During the setup of each scenario, search the collection for Madeline Usher and shuffle her into the encounter deck.",
+        "traits": "Item. Relic.",
+        "type_code": "asset"
+      },
+      {
+        "code": "8957de49-4b5c-4c8f-b4f4-1c4909f6aa82",
+        "cost": 2,
+        "deck_limit": 1,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 59,
+        "faction_code": "neutral",
+        "flavor": "\"...but, feeling the rain upon his shoulders, and fearing the rising of the tempest, uplifted his mace outright...\"",
+        "illustrator": "Seokmin Lee",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00059.jpg",
+        "is_unique": true,
+        "name": "The Mad Trist",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "position": 59,
+        "quantity": 1,
+        "skill_combat": 1,
+        "skill_wild": 1,
+        "skill_willpower": 1,
+        "slot": "Hand",
+        "subname": "Shelter From the Storm",
+        "text": "Uses (4 secrets).\nYou get +1 [willpower] and +1 [combat].\n[action] Spend 1 secret and exhaust The Mad Trist: Move to a connecting location and heal 1 damage and 1 horror from an investigator or [[Ally]] asset at your location. This action does not provoke attacks of opportunity.",
+        "traits": "Item. Tome. Blessed.",
+        "type_code": "asset"
+      },
+      {
+        "code": "bc5d362a-9c53-4bc8-9002-29a9645f2503",
+        "cost": 2,
+        "deck_limit": 1,
+        "encounter_code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "encounter_position": 60,
+        "faction_code": "neutral",
+        "flavor": "\"...but, feeling the rain upon his shoulders, and fearing the rising of the tempest, uplifted his mace outright...\"",
+        "illustrator": "Seokmin Lee",
+        "image_url": "https://img2.arkhamcards.com/cards/zhu/zhu_00060.jpg",
+        "is_unique": true,
+        "name": "The Mad Trist",
+        "pack_code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "position": 60,
+        "quantity": 1,
+        "skill_agility": 1,
+        "skill_intellect": 1,
+        "skill_wild": 1,
+        "slot": "Hand",
+        "subname": "Dragon's Cunning",
+        "text": "Uses (4 secrets).\nYou get +1 [intellect] and +1 [agility].\n[action] Spend 1 secret and exhaust The Mad Trist: Move up to 2 clues from connecting locations to your location. This action does not provoke attacks of opportunity. Your next investigate action this round does not provoke attacks of opportunity.",
+        "traits": "Item. Tome. Cursed.",
+        "type_code": "asset"
+      }
+    ],
+    "packs": [
+      {
+        "code": "573dec2a-350e-49a2-a832-d6ad56a58ede",
+        "name": "The Fall of the House of Usher",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zhu.png"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "573dec2a-350e-49a2-a832-d6ad56a58ede-the_fall_of_the_house_of_usher",
+        "name": "The Fall of the House of Usher",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/the_fall_of_the_house_of_usher.png"
+      }
+    ]
+  }
+}

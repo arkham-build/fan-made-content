@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "code": "01d4196d-51d7-439d-8028-26a32e04ad26",
+    "name": "Against the Wendigo",
+    "description": "Player cards from the Against the Wendigo standalone scenario.",
+    "author": "Vinn Quest",
+    "language": "en",
+    "external_link": "http://arkhamcentral.com/index.php/against-the-wendigo/",
+    "types": ["player_cards", "scenario"],
+    "status": "final",
+    "date_updated": "2026-11-27T15:17:22.000Z",
+    "generator": "ArkhamCards export"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "31e20ea4-60f7-44f5-8b2a-ac821dd551ce",
+        "deck_limit": 1,
+        "encounter_code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
+        "encounter_position": 21,
+        "faction_code": "neutral",
+        "flavor": "All the money in the world can not erase your guilt, when you remember in what sinister place the gold vein is, and the price to pay for it.",
+        "illustrator": "monia2009",
+        "image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00021.jpg",
+        "name": "Gold Mining Revenues",
+        "pack_code": "01d4196d-51d7-439d-8028-26a32e04ad26",
+        "permanent": true,
+        "position": 21,
+        "quantity": 1,
+        "subname": "Money has no smell",
+        "text": "Permanent.\nYou start each new scenario with 2 additional resources.\n<b>Forced</b> - Every new scenario, at the beginning of the first round: Test [willpower](3). If you fail, take 1 direct horror.",
+        "traits": "Condition.",
+        "type_code": "asset",
+        "back_image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00021b.jpg"
+      },
+      {
+        "code": "6c4f198f-fc66-4996-a9fc-699a06372909",
+        "deck_limit": 1,
+        "encounter_code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
+        "encounter_position": 32,
+        "exile": true,
+        "faction_code": "neutral",
+        "flavor": "The information that was in the Temple of Ithaqua is etched in your memory. It is very useful for understanding the mysteries around you, but it also weighs heavily on your soul.",
+        "illustrator": "Lance Oliver",
+        "image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00032.jpg",
+        "name": "Ithaqua's Knowledge",
+        "pack_code": "01d4196d-51d7-439d-8028-26a32e04ad26",
+        "permanent": true,
+        "position": 32,
+        "quantity": 1,
+        "text": "Permanent.\n[fast]: You get +3 [intellect] until the end of your turn. Test [willpower] (3): If you fail, take 1 direct horror.\n<b>Forced</b> - If you suffer a mental trauma: Exile Ithaqua's Knowledge.",
+        "traits": "Occult. Spirit.",
+        "type_code": "asset"
+      },
+      {
+        "code": "7df8a2ab-8cbe-4225-a520-cc46395b683d",
+        "cost": 3,
+        "deck_limit": 1,
+        "encounter_code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
+        "encounter_position": 33,
+        "faction_code": "neutral",
+        "image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00033.jpg",
+        "is_unique": true,
+        "name": "Tomahawk",
+        "pack_code": "01d4196d-51d7-439d-8028-26a32e04ad26",
+        "position": 33,
+        "quantity": 1,
+        "skill_agility": 1,
+        "skill_combat": 1,
+        "skill_wild": 1,
+        "slot": "Hand",
+        "subname": "Foxtail's Ancestral Weapon",
+        "text": "Fast.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage.\n[action] Discard Tomahawk: <b>Fight.</b> Use [agility] instead of [combat] for this attack. This attack deals +2 damage.",
+        "traits": "Item. Weapon. Melee. Relic.",
+        "type_code": "asset"
+      },
+      {
+        "code": "a19f30af-97c7-406c-b5b3-b29eb55ca9b0",
+        "cost": 3,
+        "deck_limit": 1,
+        "encounter_code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
+        "encounter_position": 34,
+        "faction_code": "mythos",
+        "illustrator": "Andrei Pervuhkin",
+        "image_url": "https://img2.arkhamcards.com/cards/zatw/zatw_00034.jpg",
+        "name": "Old Injury",
+        "pack_code": "01d4196d-51d7-439d-8028-26a32e04ad26",
+        "position": 34,
+        "quantity": 4,
+        "subtype_code": "weakness",
+        "text": "<b>Reveleation</b> - Put Old Injury into play in your threat area.\n<b>Forced</b> At the end of your turn: Take 1 direct damage.\n[action][action]: Discard Old Injury.",
+        "traits": "Injury.",
+        "type_code": "treachery"
+      }
+    ],
+    "packs": [
+      {
+        "code": "01d4196d-51d7-439d-8028-26a32e04ad26",
+        "name": "Against the Wendigo",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zatw.png"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "01d4196d-51d7-439d-8028-26a32e04ad26-hanninah_valley",
+        "name": "Hanninah Valley",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/hanninah_valley.png"
+      }
+    ]
+  }
+}

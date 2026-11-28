@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "code": "f772aeea-bfae-4599-b898-63a642be6e39",
+    "name": "When the World Screamed",
+    "description": "Player cards from the When the World Screamed standalone scenario.",
+    "author": "The Beard",
+    "language": "en",
+    "external_link": "https://arkhamcon.org",
+    "types": ["player_cards", "scenario"],
+    "status": "final",
+    "date_updated": "2026-11-27T15:17:23.000Z",
+    "generator": "ArkhamCards export"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "6d1917cc-76b0-4569-af2f-75b19a9242d6",
+        "cost": 2,
+        "deck_limit": 1,
+        "encounter_code": "f772aeea-bfae-4599-b898-63a642be6e39-when_the_world_screamed",
+        "encounter_position": 26,
+        "faction_code": "neutral",
+        "flavor": "\"Put me alone, sir, and with my back to the wall.\nG. E. C. is happiest then.\"\n--- The Lost World, Sir Arthur Conan Doyle",
+        "health": 2,
+        "illustrator": "Dave Elsey",
+        "is_unique": true,
+        "name": "Professor George Challenger",
+        "pack_code": "f772aeea-bfae-4599-b898-63a642be6e39",
+        "position": 28,
+        "quantity": 1,
+        "sanity": 2,
+        "skill_wild": 2,
+        "slot": "Ally",
+        "subname": "Scientific Firebrand",
+        "text": "[reaction] After you succeed at a skill test during your turn, exhaust Professor George Challenger: Until the end of your turn, you get +1 to each skill other than the one used in this test.",
+        "traits": "Ally. Scholar. Wayfarer.",
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zwtws_00026.jpg"
+      },
+      {
+        "code": "e5f46816-da3f-4567-b9c5-0d9573dd1aff",
+        "cost": 1,
+        "deck_limit": 1,
+        "encounter_code": "f772aeea-bfae-4599-b898-63a642be6e39-when_the_world_screamed",
+        "encounter_position": 27,
+        "faction_code": "neutral",
+        "illustrator": "My Abstraction",
+        "name": "Planetary Tissue Sample",
+        "pack_code": "f772aeea-bfae-4599-b898-63a642be6e39",
+        "position": 29,
+        "quantity": 1,
+        "skill_wild": 2,
+        "subname": "The World in Your Hands",
+        "text": "Fast. Uses (3 samples).\n[reaction] When you initiate a skill test, spend 1 sample and choose one:\n- Set your base skill value equal to your location's shroud value for this test.\n- Set the base difficulty of this skill test equal to your location's shroud value.\n",
+        "traits": "Item. Science.",
+        "type_code": "asset",
+        "image_url": "https://img2.arkhamcards.com/cards/zwtws_00027.jpg"
+      }
+    ],
+    "packs": [
+      {
+        "code": "f772aeea-bfae-4599-b898-63a642be6e39",
+        "name": "When the World Screamed",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/zwtws.png"
+      }
+    ],
+    "encounter_sets": [
+      {
+        "code": "f772aeea-bfae-4599-b898-63a642be6e39-when_the_world_screamed",
+        "name": "When the World Screamed",
+        "icon_url": "https://img2.arkhamcards.com/encounter_icons/when_the_world_screamed.png"
+      }
+    ]
+  }
+}
